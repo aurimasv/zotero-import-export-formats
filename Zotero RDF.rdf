@@ -130,7 +130,7 @@
         <dc:rights>Rights</dc:rights>
         <dc:description>Extra</dc:description>
     </bib:Recording>
-    <bib:Legislation rdf:about="#item_1982">
+    <bib:Legislation rdf:about="#item_1987">
         <z:itemType>bill</z:itemType>
         <dcterms:isPartOf>
            <bib:Part><dc:title>Section</dc:title></bib:Part>
@@ -184,7 +184,7 @@
         <dc:rights>Rights</dc:rights>
         <dc:description>Extra</dc:description>
     </bib:Legislation>
-    <bib:Document rdf:about="#item_1926">
+    <bib:Document rdf:about="#item_1988">
         <z:itemType>blogPost</z:itemType>
         <dcterms:isPartOf>
            <z:Blog><dc:title>Blog Title</dc:title></z:Blog>
@@ -232,7 +232,7 @@
         <dc:rights>Rights</dc:rights>
         <dc:description>Extra</dc:description>
     </bib:Document>
-    <bib:Book rdf:about="#item_1927">
+    <bib:Book rdf:about="#item_1989">
         <z:itemType>book</z:itemType>
         <dcterms:isPartOf>
             <bib:Series>
@@ -323,7 +323,7 @@
         <dc:rights>Rights</dc:rights>
         <dc:description>Extra</dc:description>
     </bib:Book>
-    <bib:BookSection rdf:about="#item_1932">
+    <bib:BookSection rdf:about="#item_1990">
         <z:itemType>bookSection</z:itemType>
         <dcterms:isPartOf>
             <bib:Book>
@@ -429,7 +429,7 @@
         <dc:rights>Rights</dc:rights>
         <dc:description>Extra</dc:description>
     </bib:BookSection>
-    <bib:Document rdf:about="#item_1942">
+    <bib:Document rdf:about="#item_1991">
         <z:itemType>case</z:itemType>
         <dcterms:isPartOf>
             <bib:CourtReporter>
@@ -484,7 +484,7 @@
         <dc:description>Extra</dc:description>
         <z:displayTitle>Title (ReporterL, ReporterF)</z:displayTitle>
     </bib:Document>
-    <bib:Data rdf:about="#item_1943">
+    <bib:Data rdf:about="#item_1992">
         <z:itemType>computerProgram</z:itemType>
         <dcterms:isPartOf>
             <bib:Series>
@@ -542,7 +542,7 @@
         <dcterms:dateSubmitted>2003-01-02</dcterms:dateSubmitted>
         <dc:description>Extra</dc:description>
     </bib:Data>
-    <rdf:Description rdf:about="#item_1944">
+    <rdf:Description rdf:about="#item_1993">
         <z:itemType>conferencePaper</z:itemType>
         <dcterms:isPartOf>
            <bib:Series><dc:title>Series</dc:title></bib:Series>
@@ -633,7 +633,7 @@
         <dc:rights>Rights</dc:rights>
         <dc:description>Extra</dc:description>
     </rdf:Description>
-    <rdf:Description rdf:about="#item_1945">
+    <rdf:Description rdf:about="#item_1994">
         <z:itemType>dictionaryEntry</z:itemType>
         <dcterms:isPartOf>
             <bib:Series>
@@ -725,7 +725,7 @@
         <dc:rights>Rights</dc:rights>
         <dc:description>Extra</dc:description>
     </rdf:Description>
-    <rdf:Description rdf:about="#item_1946">
+    <rdf:Description rdf:about="#item_1995">
         <z:itemType>document</z:itemType>
         <dc:publisher>
            <foaf:Organization><foaf:name>Publisher</foaf:name></foaf:Organization>
@@ -798,7 +798,7 @@
         <dc:rights>Rights</dc:rights>
         <dc:description>Extra</dc:description>
     </rdf:Description>
-    <bib:Letter rdf:about="#item_1947">
+    <bib:Letter rdf:about="#item_1996">
         <z:itemType>email</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -842,7 +842,7 @@
         <dc:rights>Rights</dc:rights>
         <dc:description>Extra</dc:description>
     </bib:Letter>
-    <rdf:Description rdf:about="#item_1948">
+    <rdf:Description rdf:about="#item_1997">
         <z:itemType>encyclopediaArticle</z:itemType>
         <dcterms:isPartOf>
             <bib:Series>
@@ -934,7 +934,7 @@
         <dc:rights>Rights</dc:rights>
         <dc:description>Extra</dc:description>
     </rdf:Description>
-    <bib:MotionPicture rdf:about="#item_1949">
+    <bib:MotionPicture rdf:about="#item_1998">
         <z:itemType>film</z:itemType>
         <dc:publisher>
            <foaf:Organization><foaf:name>Publisher</foaf:name></foaf:Organization>
@@ -1000,7 +1000,7 @@
         <dc:rights>Rights</dc:rights>
         <dc:description>Extra</dc:description>
     </bib:MotionPicture>
-    <bib:Document rdf:about="#item_1950">
+    <bib:Document rdf:about="#item_1999">
         <z:itemType>forumPost</z:itemType>
         <dcterms:isPartOf>
            <z:Forum><dc:title>Forum/Listserv Title</dc:title></z:Forum>
@@ -1038,7 +1038,7 @@
         <dc:rights>Rights</dc:rights>
         <dc:description>Extra</dc:description>
     </bib:Document>
-    <bib:Report rdf:about="#item_1951">
+    <bib:Report rdf:about="#item_2000">
         <z:itemType>hearing</z:itemType>
         <dc:publisher>
             <foaf:Organization>
@@ -1079,7 +1079,7 @@
         <dc:rights>Rights</dc:rights>
         <dc:description>Extra</dc:description>
     </bib:Report>
-    <bib:Letter rdf:about="#item_1953">
+    <bib:Letter rdf:about="#item_2001">
         <z:itemType>instantMessage</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -1123,7 +1123,7 @@
         <dc:rights>Rights</dc:rights>
         <dc:description>Extra</dc:description>
     </bib:Letter>
-    <bib:Interview rdf:about="#item_1954">
+    <bib:Interview rdf:about="#item_2002">
         <z:itemType>interview</z:itemType>
         <z:interviewees>
             <rdf:Seq>
@@ -1184,7 +1184,7 @@
         <dc:rights>Rights</dc:rights>
         <dc:description>Extra</dc:description>
     </bib:Interview>
-    <bib:Article rdf:about="#item_1933">
+    <bib:Article rdf:about="#item_2003">
         <z:itemType>journalArticle</z:itemType>
         <dcterms:isPartOf rdf:resource="urn:issn:ISSN"/>
         <bib:authors>
@@ -1271,7 +1271,7 @@
         <dc:identifier>DOI DOI</dc:identifier>
         <dc:identifier>ISSN ISSN</dc:identifier>
     </bib:Journal>
-    <bib:Article rdf:about="#item_1967">
+    <bib:Article rdf:about="#item_2004">
         <z:itemType>journalArticle</z:itemType>
         <dcterms:isPartOf>
             <bib:Journal>
@@ -1340,9 +1340,9 @@
                 </rdf:li>
             </rdf:Seq>
         </z:translators>
-        <dcterms:isReferencedBy rdf:resource="#item_1983"/>
-        <link:link rdf:resource="#item_1985"/>
-        <link:link rdf:resource="#item_1984"/>
+        <dcterms:isReferencedBy rdf:resource="#item_2005"/>
+        <link:link rdf:resource="#item_2006"/>
+        <link:link rdf:resource="#item_2007"/>
         <dc:title>Title (attachment test)</dc:title>
         <dcterms:abstract>Abstract</dcterms:abstract>
         <bib:pages>Pages</bib:pages>
@@ -1362,10 +1362,10 @@
         <dc:rights>Rights</dc:rights>
         <dc:description>Extra</dc:description>
     </bib:Article>
-    <bib:Memo rdf:about="#item_1983">
+    <bib:Memo rdf:about="#item_2005">
        <rdf:value>&lt;p>Note&lt;/p></rdf:value>
     </bib:Memo>
-    <z:Attachment rdf:about="#item_1985">
+    <z:Attachment rdf:about="#item_2006">
         <z:itemType>attachment</z:itemType>
         <dc:title>Link to URI</dc:title>
         <dcterms:dateSubmitted>2013-06-10 01:49:09</dcterms:dateSubmitted>
@@ -1375,14 +1375,14 @@
             </dcterms:URI>
         </dc:identifier>
     </z:Attachment>
-    <z:Attachment rdf:about="#item_1984">
+    <z:Attachment rdf:about="#item_2007">
         <z:itemType>attachment</z:itemType>
-        <rdf:resource rdf:resource="files/1984/test.txt"/>
+        <rdf:resource rdf:resource="files/2007/test.txt"/>
         <dc:title>test.txt</dc:title>
         <link:type>text/plain</link:type>
         <link:charset>5</link:charset>
     </z:Attachment>
-    <bib:Letter rdf:about="#item_1955">
+    <bib:Letter rdf:about="#item_2008">
         <z:itemType>letter</z:itemType>
         <bib:authors>
             <rdf:Seq>
@@ -1433,7 +1433,7 @@
         <dc:rights>Rights</dc:rights>
         <dc:description>Extra</dc:description>
     </bib:Letter>
-    <bib:Article rdf:about="#item_1956">
+    <bib:Article rdf:about="#item_2009">
         <z:itemType>magazineArticle</z:itemType>
         <dcterms:isPartOf>
             <bib:Periodical>
@@ -1502,7 +1502,7 @@
         <dc:rights>Rights</dc:rights>
         <dc:description>Extra</dc:description>
     </bib:Article>
-    <bib:Manuscript rdf:about="#item_1957">
+    <bib:Manuscript rdf:about="#item_2010">
         <z:itemType>manuscript</z:itemType>
         <dc:publisher>
             <foaf:Organization>
@@ -1563,7 +1563,7 @@
         <dc:rights>Rights</dc:rights>
         <dc:description>Extra</dc:description>
     </bib:Manuscript>
-    <bib:Image rdf:about="#item_1958">
+    <bib:Image rdf:about="#item_2011">
         <z:itemType>map</z:itemType>
         <dcterms:isPartOf>
             <bib:Series>
@@ -1632,7 +1632,7 @@
         <dc:rights>Rights</dc:rights>
         <dc:description>Extra</dc:description>
     </bib:Image>
-    <bib:Article rdf:about="#item_1963">
+    <bib:Article rdf:about="#item_2012">
         <z:itemType>newspaperArticle</z:itemType>
         <dcterms:isPartOf>
             <bib:Part>
@@ -1714,7 +1714,7 @@
         <dc:rights>Rights</dc:rights>
         <dc:description>Extra</dc:description>
     </bib:Article>
-    <bib:Patent rdf:about="#item_1964">
+    <bib:Patent rdf:about="#item_2013">
         <z:itemType>patent</z:itemType>
         <dc:publisher>
             <foaf:Organization>
@@ -1777,7 +1777,7 @@
         <dc:rights>Rights</dc:rights>
         <dc:description>Extra</dc:description>
     </bib:Patent>
-    <bib:Recording rdf:about="#item_1965">
+    <bib:Recording rdf:about="#item_2014">
         <z:itemType>podcast</z:itemType>
         <dcterms:isPartOf>
             <bib:Series>
@@ -1828,7 +1828,7 @@
         <dc:rights>Rights</dc:rights>
         <dc:description>Extra</dc:description>
     </bib:Recording>
-    <bib:ConferenceProceedings rdf:about="#item_1968">
+    <bib:ConferenceProceedings rdf:about="#item_2015">
         <z:itemType>presentation</z:itemType>
         <dc:publisher>
             <foaf:Organization>
@@ -1873,7 +1873,7 @@
         <dc:rights>Rights</dc:rights>
         <dc:description>Extra</dc:description>
     </bib:ConferenceProceedings>
-    <bib:Recording rdf:about="#item_1969">
+    <bib:Recording rdf:about="#item_2016">
         <z:itemType>radioBroadcast</z:itemType>
         <dc:publisher>
             <foaf:Organization>
@@ -1967,7 +1967,7 @@
         <dc:rights>Rights</dc:rights>
         <dc:description>Extra</dc:description>
     </bib:Recording>
-    <bib:Report rdf:about="#item_1970">
+    <bib:Report rdf:about="#item_2017">
         <z:itemType>report</z:itemType>
         <dcterms:isPartOf>
             <bib:Series>
@@ -2045,7 +2045,7 @@
         <dc:rights>Rights</dc:rights>
         <dc:description>Extra</dc:description>
     </bib:Report>
-    <bib:Legislation rdf:about="#item_1971">
+    <bib:Legislation rdf:about="#item_2018">
         <z:itemType>statute</z:itemType>
         <dcterms:isPartOf>
            <bib:Part><dc:title>Section</dc:title></bib:Part>
@@ -2088,7 +2088,7 @@
         <dc:rights>Rights</dc:rights>
         <dc:description>Extra</dc:description>
     </bib:Legislation>
-    <bib:Recording rdf:about="#item_1975">
+    <bib:Recording rdf:about="#item_2019">
         <z:itemType>tvBroadcast</z:itemType>
         <dc:publisher>
             <foaf:Organization>
@@ -2182,7 +2182,7 @@
         <dc:rights>Rights</dc:rights>
         <dc:description>Extra</dc:description>
     </bib:Recording>
-    <bib:Thesis rdf:about="#item_1972">
+    <bib:Thesis rdf:about="#item_2020">
         <z:itemType>thesis</z:itemType>
         <dc:publisher>
             <foaf:Organization>
@@ -2234,7 +2234,7 @@
         <dc:rights>Rights</dc:rights>
         <dc:description>Extra</dc:description>
     </bib:Thesis>
-    <bib:Recording rdf:about="#item_1978">
+    <bib:Recording rdf:about="#item_2021">
         <z:itemType>videoRecording</z:itemType>
         <dcterms:isPartOf>
             <bib:Series>
@@ -2324,7 +2324,7 @@
         <dc:rights>Rights</dc:rights>
         <dc:description>Extra</dc:description>
     </bib:Recording>
-    <bib:Document rdf:about="#item_1976">
+    <bib:Document rdf:about="#item_2022">
         <z:itemType>webpage</z:itemType>
         <dcterms:isPartOf>
            <z:Website><dc:title>Website Title</dc:title></z:Website>

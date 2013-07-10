@@ -1,6 +1,6 @@
 [
 	{
-		"id": 1980,
+		"id": 1979,
 		"type": "graphic",
 		"title": "Title",
 		"source": "Library Catalog",
@@ -28,7 +28,7 @@
 		}
 	},
 	{
-		"id": 1981,
+		"id": 1986,
 		"type": "song",
 		"title": "Title",
 		"collection-title": "Series Title",
@@ -69,7 +69,7 @@
 		}
 	},
 	{
-		"id": 1982,
+		"id": 1987,
 		"type": "bill",
 		"title": "Title",
 		"container-title": "Code",
@@ -97,7 +97,7 @@
 		}
 	},
 	{
-		"id": 1926,
+		"id": 1988,
 		"type": "post-weblog",
 		"title": "Title",
 		"container-title": "Blog Title",
@@ -127,7 +127,7 @@
 		}
 	},
 	{
-		"id": 1927,
+		"id": 1989,
 		"type": "book",
 		"title": "Title",
 		"collection-title": "Series",
@@ -187,7 +187,7 @@
 		}
 	},
 	{
-		"id": 1932,
+		"id": 1990,
 		"type": "chapter",
 		"title": "Title",
 		"container-title": "Book Title",
@@ -254,7 +254,7 @@
 		}
 	},
 	{
-		"id": 1942,
+		"id": 1991,
 		"type": "legal_case",
 		"title": "Title",
 		"container-title": "ReporterL, ReporterF",
@@ -288,7 +288,7 @@
 		}
 	},
 	{
-		"id": 1943,
+		"id": 1992,
 		"type": "book",
 		"title": "Title",
 		"collection-title": "Series Title",
@@ -320,7 +320,7 @@
 		}
 	},
 	{
-		"id": 1944,
+		"id": 1993,
 		"type": "paper-conference",
 		"title": "Title",
 		"container-title": "Proceedings Title",
@@ -380,7 +380,7 @@
 		}
 	},
 	{
-		"id": 1945,
+		"id": 1994,
 		"type": "entry-dictionary",
 		"title": "Title",
 		"container-title": "Dictionary Title",
@@ -441,7 +441,7 @@
 		}
 	},
 	{
-		"id": 1946,
+		"id": 1995,
 		"type": "article",
 		"title": "Title",
 		"publisher": "Publisher",
@@ -492,7 +492,7 @@
 		}
 	},
 	{
-		"id": 1947,
+		"id": 1996,
 		"type": "personal_communication",
 		"title": "Subject",
 		"abstract": "Abstract",
@@ -526,7 +526,7 @@
 		}
 	},
 	{
-		"id": 1948,
+		"id": 1997,
 		"type": "entry-encyclopedia",
 		"title": "Title",
 		"container-title": "Encyclopedia Title",
@@ -587,7 +587,7 @@
 		}
 	},
 	{
-		"id": 1949,
+		"id": 1998,
 		"type": "motion_picture",
 		"title": "Title",
 		"publisher": "Publisher",
@@ -623,7 +623,7 @@
 		}
 	},
 	{
-		"id": 1950,
+		"id": 1999,
 		"type": "post",
 		"title": "Title",
 		"container-title": "Forum/Listserv Title",
@@ -653,7 +653,7 @@
 		}
 	},
 	{
-		"id": 1951,
+		"id": 2000,
 		"type": "bill",
 		"title": "Title",
 		"publisher": "Publisher",
@@ -682,7 +682,7 @@
 		}
 	},
 	{
-		"id": 1953,
+		"id": 2001,
 		"type": "personal_communication",
 		"title": "Title",
 		"abstract": "Abstract",
@@ -716,7 +716,7 @@
 		}
 	},
 	{
-		"id": 1954,
+		"id": 2002,
 		"type": "interview",
 		"title": "Title",
 		"source": "Library Catalog",
@@ -755,7 +755,7 @@
 		}
 	},
 	{
-		"id": 1933,
+		"id": 2003,
 		"type": "article-journal",
 		"title": "Title",
 		"container-title": "Publication",
@@ -813,7 +813,7 @@
 		}
 	},
 	{
-		"id": 1967,
+		"id": 2004,
 		"type": "article-journal",
 		"title": "Title (attachment test)",
 		"container-title": "Publication",
@@ -871,7 +871,7 @@
 		}
 	},
 	{
-		"id": 1955,
+		"id": 2008,
 		"type": "personal_communication",
 		"title": "Title",
 		"genre": "Type",
@@ -910,7 +910,7 @@
 		}
 	},
 	{
-		"id": 1956,
+		"id": 2009,
 		"type": "article-magazine",
 		"title": "Title",
 		"container-title": "Publication",
@@ -959,7 +959,7 @@
 		}
 	},
 	{
-		"id": 1957,
+		"id": 2010,
 		"type": "manuscript",
 		"title": "Title",
 		"publisher-place": "Place",
@@ -1001,7 +1001,7 @@
 		}
 	},
 	{
-		"id": 1958,
+		"id": 2011,
 		"type": "map",
 		"title": "Title",
 		"collection-title": "Series Title",
@@ -1041,7 +1041,7 @@
 		}
 	},
 	{
-		"id": 1963,
+		"id": 2012,
 		"type": "article-newspaper",
 		"title": "Title",
 		"container-title": "Publication",
@@ -1092,7 +1092,7 @@
 		}
 	},
 	{
-		"id": 1964,
+		"id": 2013,
 		"type": "patent",
 		"title": "Title",
 		"publisher-place": "Place",
@@ -1118,7 +1118,7 @@
 		}
 	},
 	{
-		"id": 1965,
+		"id": 2014,
 		"type": "song",
 		"title": "Title",
 		"collection-title": "Series Title",
@@ -1141,7 +1141,7 @@
 		}
 	},
 	{
-		"id": 1968,
+		"id": 2015,
 		"type": "speech",
 		"title": "Title",
 		"publisher-place": "Place",
@@ -1167,7 +1167,7 @@
 		}
 	},
 	{
-		"id": 1969,
+		"id": 2016,
 		"type": "broadcast",
 		"title": "Title",
 		"container-title": "Program Title",
@@ -1206,7 +1206,7 @@
 		}
 	},
 	{
-		"id": 1970,
+		"id": 2017,
 		"type": "report",
 		"title": "Title",
 		"collection-title": "Series Title",
@@ -1257,7 +1257,7 @@
 		}
 	},
 	{
-		"id": 1971,
+		"id": 2018,
 		"type": "legislation",
 		"title": "Name of Act",
 		"container-title": "Code",
@@ -1290,7 +1290,7 @@
 		}
 	},
 	{
-		"id": 1975,
+		"id": 2019,
 		"type": "broadcast",
 		"title": "Title",
 		"container-title": "Program Title",
@@ -1329,7 +1329,7 @@
 		}
 	},
 	{
-		"id": 1972,
+		"id": 2020,
 		"type": "thesis",
 		"title": "Title",
 		"publisher": "University",
@@ -1366,7 +1366,7 @@
 		}
 	},
 	{
-		"id": 1978,
+		"id": 2021,
 		"type": "motion_picture",
 		"title": "Title",
 		"collection-title": "Series Title",
@@ -1407,7 +1407,7 @@
 		}
 	},
 	{
-		"id": 1976,
+		"id": 2022,
 		"type": "webpage",
 		"title": "Title",
 		"container-title": "Website Title",
