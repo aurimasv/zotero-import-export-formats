@@ -1,0 +1,392 @@
+{{Cite
+| last = ArtistL
+| first = ArtistF I
+| title = Title
+| url = URL
+}}
+
+{{Cite
+| publisher = Label
+| isbn = ISBN
+| volume = Volume
+| last = PerformerL
+| first = PerformerF I
+| coauthors = ComposerF I ComposerL, Words ByF I Words ByL
+| title = Title
+| location = Place
+| series = Series Title
+| time = Running Time
+| url = URL
+}}
+
+{{Cite
+| volume = Code Volume
+| pages = Code Pages
+| last = SponsorL
+| first = SponsorF I
+| coauthors = CosponsorF I CosponsorL
+| title = Title
+| url = URL
+}}
+
+{{Cite web
+| last = AuthorL
+| first = AuthorsF I
+| coauthors = CommenterrF I CommenterrL
+| title = Title
+| work = Blog Title
+| format = Website Type
+| url = URL
+}}
+
+{{Cite book
+| edition = Edition
+| publisher = Publisher
+| isbn = ISBN
+| volume = Volume
+| last = AuthorL
+| first = AuthorsF I
+| coauthors = SeriesF I Series EditorL
+| others = EditorF I EditorL (ed.), TranslatorF I TranslatorL (trans.)
+| title = Title
+| location = Place
+| series = Series
+| url = URL
+}}
+
+{{Cite book
+| edition = Edition
+| publisher = Publisher
+| isbn = ISBN
+| volume = Volume
+| pages = Pages
+| editors = EditorF I EditorL (ed.)
+| last = AuthorL
+| first = AuthorsF I
+| coauthors = SeriesF I Series EditorL, BookF I Book AuthorL
+| others = TranslatorF I TranslatorL (trans.)
+| title = Book Title
+| chapter = Title
+| location = Place
+| series = Series
+| chapterurl = URL
+}}
+
+{{Cite
+| volume = Volume
+| pages = First Page
+| last = AuthorL
+| first = AuthorsF I
+| coauthors = CounselF I CounselL
+| title = Title
+| url = URL
+}}
+
+{{Cite
+| publisher = Publisher
+| isbn = ISBN
+| last = ProgrammerL
+| first = ProgrammerF I
+| title = Title
+| location = Place
+| series = Series Title
+| url = URL
+}}
+
+{{Cite conference
+| publisher = Publisher
+| doi = DOI
+| isbn = ISBN
+| conference = Conference Name
+| volume = Volume
+| pages = Pages
+| editors = EditorF I EditorL (ed.)
+| last = AuthorL
+| first = AuthorsF I
+| coauthors = SeriesF I Series EditorL, TranslatorF I TranslatorL (trans.)
+| title = Title
+| booktitle = Proceedings Title
+| location = Place
+| series = Series
+| url = URL
+}}
+
+{{Cite encyclopedia
+| edition = Edition
+| publisher = Publisher
+| isbn = ISBN
+| volume = Volume
+| pages = Pages
+| editors = EditorF I EditorL (ed.)
+| last = AuthorL
+| first = AuthorsF I
+| coauthors = SeriesF I Series EditorL, TranslatorF I TranslatorL (trans.)
+| title = Title
+| encyclopedia = Dictionary Title
+| location = Place
+| series = Series
+| url = URL
+}}
+
+{{Cite
+| publisher = Publisher
+| last = AuthorL
+| first = AuthorsF I
+| coauthors = Reviewed AuthorF I Reviewed AuthorL, EditorF I EditorL (ed.), TranslatorF I TranslatorL (trans.)
+| title = Title
+| url = URL
+}}
+
+{{Cite email
+| author = AuthorL, AuthorsF I, RecipientF I RecipientL
+| title = Subject
+| url = URL
+}}
+
+{{Cite encyclopedia
+| edition = Edition
+| publisher = Publisher
+| isbn = ISBN
+| volume = Volume
+| pages = Pages
+| editors = EditorF I EditorL (ed.)
+| last = AuthorL
+| first = AuthorsF I
+| coauthors = SeriesF I Series EditorL, TranslatorF I TranslatorL (trans.)
+| title = Title
+| encyclopedia = Encyclopedia Title
+| location = Place
+| series = Series
+| url = URL
+}}
+
+{{Cite video
+| publisher = Publisher
+| people = DirectorL, DirectorF I (Director), ContributorF I ContributorL (Contributor), ProducerF I ProducerL (Producer), ScriptwriterF I ScriptwriterL (Scriptwriter)
+| medium = Genre
+| title = Title
+| time = Running Time
+| url = URL
+}}
+
+{{Cite web
+| last = AuthorL
+| first = AuthorsF I
+| title = Title
+| work = Forum/Listserv Title
+| format = Post Type
+| url = URL
+}}
+
+{{Cite
+| publisher = Publisher
+| pages = Pages
+| title = Title
+| location = Place
+| url = URL
+}}
+
+{{Cite
+| last = AuthorL
+| first = AuthorsF I
+| coauthors = RecipientF I RecipientL
+| title = Title
+| url = URL
+}}
+
+{{Cite interview
+| cointerviewers = TranslatorF I TranslatorL
+| last = InterviewerL
+| first = InterviewerF I
+| type = Medium
+| title = Title
+| url = URL
+}}
+
+{{Cite journal
+| doi = DOI
+| issn = ISSN
+| volume = Volume
+| issue = Issue
+| pages = Pages
+| last = AuthorL
+| first = AuthorsF I
+| coauthors = ReviewedF I Reviewed AuthorL, EditorF I EditorL (ed.), TranslatorF I TranslatorL (trans.)
+| title = Title
+| journal = Publication
+| series = Series
+| url = URL
+}}
+
+{{Cite journal
+| doi = DOI
+| issn = ISSN
+| volume = Volume
+| issue = Issue
+| pages = Pages
+| last = AuthorL
+| first = AuthorsF I
+| coauthors = ReviewedF I Reviewed AuthorL, EditorF I EditorL (ed.), TranslatorF I TranslatorL (trans.)
+| title = Title (attachment test)
+| journal = Publication
+| series = Series
+| url = URL
+}}
+
+{{Cite
+| last = AuthorL
+| first = AuthorsF I
+| coauthors = RecipientF I RecipientL
+| title = Title
+| url = URL
+}}
+
+{{Cite news
+| issn = ISSN
+| volume = Volume
+| issue = Issue
+| pages = Pages
+| last = AuthorL
+| first = AuthorsF I
+| coauthors = Reviewed AuthorF I Reviewed AuthorL, TranslatorF I TranslatorL (trans.)
+| title = Title
+| work = Publication
+| url = URL
+}}
+
+{{Cite book
+| last = AuthorL
+| first = AuthorsF I
+| others = TranslatorF I TranslatorL (trans.)
+| title = Title
+| location = Place
+| url = URL
+}}
+
+{{Cite
+| edition = Edition
+| publisher = Publisher
+| isbn = ISBN
+| last = AuthorL
+| first = AuthorsF I
+| coauthors = SeriesF I Series EditorL
+| title = Title
+| location = Place
+| series = Series Title
+| url = URL
+}}
+
+{{Cite news
+| edition = Edition
+| issn = ISSN
+| pages = Pages
+| last = AuthorL
+| first = AuthorsF I
+| coauthors = Reviewed AuthorF I Reviewed AuthorL, TranslatorF I TranslatorL (trans.)
+| title = Title
+| work = Publication
+| location = Place
+| url = URL
+}}
+
+{{Cite
+| pages = Pages
+| last = InventorL
+| first = InventorF I
+| coauthors = Attorney/AgentF I Attorney/AgentL
+| title = Title
+| location = Place
+| url = URL
+}}
+
+{{Cite podcast
+| number = Episode Number
+| last = PodcasterL
+| first = PodcasterF I
+| coauthors = GuestF I GuestL
+| title = Title
+| series = Series Title
+| time = Running Time
+| url = URL
+}}
+
+{{Cite paper
+| last = PresenterL
+| first = PresenterF I
+| title = Title
+| location = Place
+| url = URL
+}}
+
+{{Cite episode
+| publisher = Network
+| number = Episode Number
+| credits = DirectorF I DirectorL (Director), ContributorF I ContributorL (Contributor), Cast MemberF I Cast MemberL (Cast Member), GuestF I GuestL (Guest), ProducerF I ProducerL (Producer), ScriptwriterF I ScriptwriterL (Scriptwriter)
+| title = Title
+| work = Program Title
+| city = Place
+| minutes = Running Time
+| url = URL
+}}
+
+{{Cite conference
+| publisher = Institution
+| pages = Pages
+| last = AuthorL
+| first = AuthorsF I
+| coauthors = SeriesF I Series EditorL, TranslatorF I TranslatorL (trans.)
+| title = Title
+| location = Place
+| series = Series Title
+| url = URL
+}}
+
+{{Cite
+| pages = Pages
+| last = AuthorL
+| first = AuthorsF I
+| title = Name of Act
+| url = URL
+}}
+
+{{Cite episode
+| publisher = Network
+| number = Episode Number
+| credits = DirectorF I DirectorL (Director), ContributorF I ContributorL (Contributor), Cast MemberF I Cast MemberL (Cast Member), GuestF I GuestL (Guest), ProducerF I ProducerL (Producer), ScriptwriterF I ScriptwriterL (Scriptwriter)
+| title = Title
+| work = Program Title
+| city = Place
+| minutes = Running Time
+| url = URL
+}}
+
+{{Cite paper
+| publisher = University
+| last = AuthorL
+| first = AuthorsF I
+| title = Title
+| location = Place
+| url = URL
+}}
+
+{{Cite video
+| publisher = Studio
+| isbn = ISBN
+| volume = Volume
+| people = DirectorL, DirectorF I (Director), ContributorF I ContributorL (Contributor), Cast MemberF I Cast MemberL (Cast Member), ProducerF I ProducerL (Producer), ScriptwriterF I ScriptwriterL (Scriptwriter)
+| title = Title
+| location = Place
+| series = Series Title
+| time = Running Time
+| url = URL
+}}
+
+{{Cite web
+| last = AuthorL
+| first = AuthorsF I
+| coauthors = TranslatorF I TranslatorL (trans.)
+| title = Title
+| work = Website Title
+| format = Website Type
+| url = URL
+}}

@@ -1,0 +1,726 @@
+TY  - ART
+TI  - Title
+AU  - ArtistL, ArtistF I
+AB  - Abstract
+C3  - Artwork Size
+CN  - Call Number
+DA  - Date
+PY  - Date
+DP  - Library Catalog
+LA  - Language
+M3  - Medium
+ST  - Short Title
+UR  - URL
+AN  - Loc. in Archive
+DB  - Archive
+Y2  - 2003/01/02/
+ER  - 
+
+TY  - SOUND
+TI  - Title
+AU  - ComposerL, ComposerF I
+A2  - PerformerL, PerformerF I
+T3  - Series Title
+AB  - Abstract
+C4  - Words ByL, Words ByF I
+C5  - Format
+CN  - Call Number
+CY  - Place
+DA  - Date
+PY  - Date
+DP  - Library Catalog
+VL  - Volume
+LA  - Language
+NV  - # of Volumes
+PB  - Label
+SN  - ISBN
+ST  - Short Title
+UR  - URL
+AN  - Loc. in Archive
+DB  - Archive
+Y2  - 2003/01/02/
+ER  - 
+
+TY  - BILL
+TI  - Title
+T2  - Code
+A2  - SponsorL, SponsorF I
+A3  - CosponsorL, CosponsorF I
+T3  - Legislative Body
+AB  - Abstract
+DA  - Date
+PY  - Date
+ET  - Session
+VL  - Code Volume
+SP  - Code Pages
+LA  - Language
+M1  - Bill Number
+OP  - History
+SE  - Section
+ST  - Short Title
+UR  - URL
+Y2  - 2003/01/02/
+ER  - 
+
+TY  - BLOG
+TI  - Title
+AU  - AuthorL, AuthorsF I
+T2  - Blog Title
+AB  - Abstract
+C2  - CommenterrL, CommenterrF I
+DA  - Date
+PY  - Date
+LA  - Language
+M3  - Website Type
+ST  - Short Title
+UR  - URL
+Y2  - 2003/01/02/
+ER  - 
+
+TY  - BOOK
+TI  - Title
+AU  - AuthorL, AuthorsF I
+T2  - Series
+A2  - Series EditorL, SeriesF I
+A3  - EditorL, EditorF I
+A4  - TranslatorL, TranslatorF I
+AB  - Abstract
+CN  - Call Number
+CY  - Place
+DA  - Date
+PY  - Date
+DP  - Library Catalog
+ET  - Edition
+VL  - Volume
+SP  - # of Pages
+LA  - Language
+NV  - # of Volumes
+PB  - Publisher
+SN  - ISBN
+ST  - Short Title
+UR  - URL
+AN  - Loc. in Archive
+DB  - Archive
+Y2  - 2003/01/02/
+ER  - 
+
+TY  - CHAP
+TI  - Title
+AU  - AuthorL, AuthorsF I
+T2  - Book Title
+A2  - EditorL, EditorF I
+T3  - Series
+A3  - Series EditorL, SeriesF I
+A4  - TranslatorL, TranslatorF I
+AB  - Abstract
+C2  - Book AuthorL, BookF I
+CN  - Call Number
+CY  - Place
+DA  - Date
+PY  - Date
+DP  - Library Catalog
+ET  - Edition
+VL  - Volume
+LA  - Language
+NV  - # of Volumes
+PB  - Publisher
+SN  - ISBN
+ST  - Short Title
+UR  - URL
+AN  - Loc. in Archive
+DB  - Archive
+Y2  - 2003/01/02/
+ER  - 
+
+TY  - CASE
+TI  - Title
+AU  - AuthorL, AuthorsF I
+A2  - ReporterL, ReporterF
+A4  - CounselL, CounselF I
+AB  - Abstract
+DA  - Date Decided
+PY  - Date Decided
+VL  - Volume
+SP  - First Page
+LA  - Language
+OP  - History
+PB  - Court
+ST  - Short Title
+SV  - Docket number
+UR  - URL
+Y2  - 2003/01/02/
+ER  - 
+
+TY  - COMP
+TI  - Title
+AU  - ProgrammerL, ProgrammerF I
+T2  - Series Title
+AB  - Abstract
+CN  - Call Number
+CY  - Place
+DA  - Date
+PY  - Date
+DP  - Library Catalog
+ET  - Version
+LA  - Language
+M1  - System
+PB  - Publisher
+SN  - ISBN
+ST  - Short Title
+UR  - URL
+AN  - Loc. in Archive
+DB  - Archive
+Y2  - 2003/01/02/
+ER  - 
+
+TY  - CONF
+TI  - Title
+AU  - AuthorL, AuthorsF I
+T2  - Conference Name
+A2  - EditorL, EditorF I
+T3  - Series
+A3  - Series EditorL, SeriesF I
+A4  - ContributorL, ContributorF I
+AB  - Abstract
+C1  - Place
+C3  - Proceedings Title
+CN  - Call Number
+DA  - Date
+PY  - Date
+DO  - DOI
+DP  - Library Catalog
+VL  - Volume
+LA  - Language
+PB  - Publisher
+SN  - ISBN
+ST  - Short Title
+UR  - URL
+AN  - Loc. in Archive
+DB  - Archive
+Y2  - 2003/01/02/
+ER  - 
+
+TY  - DICT
+TI  - Title
+AU  - AuthorL, AuthorsF I
+T2  - Dictionary Title
+A2  - EditorL, EditorF I
+A3  - Series EditorL, SeriesF I
+A4  - TranslatorL, TranslatorF I
+AB  - Abstract
+CN  - Call Number
+CY  - Place
+DA  - Date
+PY  - Date
+DP  - Library Catalog
+ET  - Edition
+VL  - Volume
+LA  - Language
+NV  - # of Volumes
+PB  - Publisher
+SN  - ISBN
+ST  - Short Title
+UR  - URL
+AN  - Loc. in Archive
+DB  - Archive
+Y2  - 2003/01/02/
+ER  - 
+
+TY  - GEN
+TI  - Title
+AU  - AuthorL, AuthorsF I
+A2  - EditorL, EditorF I
+A4  - TranslatorL, TranslatorF I
+AB  - Abstract
+CN  - Call Number
+DA  - Date
+PY  - Date
+DP  - Library Catalog
+LA  - Language
+PB  - Publisher
+ST  - Short Title
+UR  - URL
+AN  - Loc. in Archive
+DB  - Archive
+Y2  - 2003/01/02/
+ER  - 
+
+TY  - ICOMM
+TI  - Subject
+AU  - AuthorL, AuthorsF I
+A2  - RecipientL, RecipientF I
+AB  - Abstract
+DA  - Date
+PY  - Date
+LA  - Language
+ST  - Short Title
+UR  - URL
+Y2  - 2003/01/02/
+ER  - 
+
+TY  - ENCYC
+TI  - Title
+AU  - AuthorL, AuthorsF I
+T2  - Encyclopedia Title
+A2  - EditorL, EditorF I
+A3  - Series EditorL, SeriesF I
+A4  - TranslatorL, TranslatorF I
+AB  - Abstract
+CN  - Call Number
+CY  - Place
+DA  - Date
+PY  - Date
+DP  - Library Catalog
+ET  - Edition
+VL  - Volume
+LA  - Language
+NV  - # of Volumes
+PB  - Publisher
+SN  - ISBN
+ST  - Short Title
+UR  - URL
+AN  - Loc. in Archive
+DB  - Archive
+Y2  - 2003/01/02/
+ER  - 
+
+TY  - MPCT
+TI  - Title
+AU  - DirectorL, DirectorF I
+A3  - ProducerL, ProducerF I
+A4  - ContributorL, ContributorF I
+AB  - Abstract
+C4  - Genre
+C5  - Format
+CN  - Call Number
+DA  - Date
+PY  - Date
+DP  - Library Catalog
+SP  - Running Time
+LA  - Language
+PB  - Publisher
+ST  - Short Title
+UR  - URL
+AN  - Loc. in Archive
+DB  - Archive
+Y2  - 2003/01/02/
+ER  - 
+
+TY  - ICOMM
+TI  - Title
+AU  - AuthorL, AuthorsF I
+T2  - Forum/Listserv Title
+AB  - Abstract
+DA  - Date
+PY  - Date
+LA  - Language
+M3  - Post Type
+ST  - Short Title
+UR  - URL
+Y2  - 2003/01/02/
+ER  - 
+
+TY  - HEAR
+TI  - Title
+T2  - Committee
+T3  - Legislative Body
+AB  - Abstract
+CY  - Place
+DA  - Date
+PY  - Date
+ET  - Session
+LA  - Language
+M1  - Document Number
+NV  - # of Volumes
+OP  - History
+PB  - Publisher
+ST  - Short Title
+UR  - URL
+Y2  - 2003/01/02/
+ER  - 
+
+TY  - ICOMM
+TI  - Title
+AU  - AuthorL, AuthorsF I
+A2  - RecipientL, RecipientF I
+AB  - Abstract
+DA  - Date
+PY  - Date
+LA  - Language
+ST  - Short Title
+UR  - URL
+Y2  - 2003/01/02/
+ER  - 
+
+TY  - PCOMM
+TI  - Title
+AU  - Interview WithL, AuthorsF I
+A2  - InterviewerL, InterviewerF I
+A4  - TranslatorL, TranslatorF I
+AB  - Abstract
+CN  - Call Number
+DA  - Date
+PY  - Date
+DP  - Library Catalog
+LA  - Language
+M3  - Medium
+ST  - Short Title
+UR  - URL
+AN  - Loc. in Archive
+DB  - Archive
+Y2  - 2003/01/02/
+ER  - 
+
+TY  - JOUR
+TI  - Title
+AU  - AuthorL, AuthorsF I
+T2  - Publication
+A2  - EditorL, EditorF I
+A4  - TranslatorL, TranslatorF I
+AB  - Abstract
+CN  - Call Number
+DA  - Date
+PY  - Date
+DO  - DOI
+DP  - Library Catalog
+VL  - Volume
+IS  - Issue
+J2  - Journal Abbr
+LA  - Language
+SN  - ISSN
+ST  - Short Title
+UR  - URL
+AN  - Loc. in Archive
+DB  - Archive
+Y2  - 2003/01/02/
+ER  - 
+
+TY  - JOUR
+TI  - Title (attachment test)
+AU  - AuthorL, AuthorsF I
+T2  - Publication
+A2  - EditorL, EditorF I
+A4  - TranslatorL, TranslatorF I
+AB  - Abstract
+CN  - Call Number
+DA  - Date
+PY  - Date
+DO  - DOI
+DP  - Library Catalog
+VL  - Volume
+IS  - Issue
+J2  - Journal Abbr
+LA  - Language
+SN  - ISSN
+ST  - Short Title
+UR  - URL
+AN  - Loc. in Archive
+DB  - Archive
+Y2  - 2003/01/02/
+L4  - https://www.google.com/
+L4  - files/1984/test.txt
+N1  - <p>Note</p>
+ER  - 
+
+TY  - PCOMM
+TI  - Title
+AU  - AuthorL, AuthorsF I
+A2  - RecipientL, RecipientF I
+AB  - Abstract
+CN  - Call Number
+DA  - Date
+PY  - Date
+DP  - Library Catalog
+LA  - Language
+M3  - Type
+ST  - Short Title
+UR  - URL
+AN  - Loc. in Archive
+DB  - Archive
+Y2  - 2003/01/02/
+ER  - 
+
+TY  - MGZN
+TI  - Title
+AU  - AuthorL, AuthorsF I
+T2  - Publication
+A4  - TranslatorL, TranslatorF I
+AB  - Abstract
+CN  - Call Number
+DA  - Date
+PY  - Date
+DP  - Library Catalog
+VL  - Volume
+IS  - Issue
+LA  - Language
+SN  - ISSN
+ST  - Short Title
+UR  - URL
+AN  - Loc. in Archive
+DB  - Archive
+Y2  - 2003/01/02/
+ER  - 
+
+TY  - MANSCPT
+TI  - Title
+AU  - AuthorL, AuthorsF I
+A4  - TranslatorL, TranslatorF I
+AB  - Abstract
+CN  - Call Number
+CY  - Place
+DA  - Date
+PY  - Date
+DP  - Library Catalog
+SP  - # of Pages
+LA  - Language
+M3  - Type
+ST  - Short Title
+UR  - URL
+AN  - Loc. in Archive
+DB  - Archive
+Y2  - 2003/01/02/
+ER  - 
+
+TY  - MAP
+TI  - Title
+AU  - AuthorL, AuthorsF I
+T2  - Series Title
+A3  - Series EditorL, SeriesF I
+AB  - Abstract
+C1  - Scale
+CN  - Call Number
+CY  - Place
+DA  - Date
+PY  - Date
+DP  - Library Catalog
+ET  - Edition
+LA  - Language
+M3  - Type
+PB  - Publisher
+SN  - ISBN
+ST  - Short Title
+UR  - URL
+AN  - Loc. in Archive
+DB  - Archive
+Y2  - 2003/01/02/
+ER  - 
+
+TY  - NEWS
+TI  - Title
+AU  - AuthorL, AuthorsF I
+T2  - Publication
+A4  - TranslatorL, TranslatorF I
+AB  - Abstract
+CN  - Call Number
+CY  - Place
+DA  - Date
+PY  - Date
+DP  - Library Catalog
+ET  - Edition
+LA  - Language
+SE  - Section
+SN  - ISSN
+ST  - Short Title
+UR  - URL
+AN  - Loc. in Archive
+DB  - Archive
+Y2  - 2003/01/02/
+ER  - 
+
+TY  - PAT
+TI  - Title
+AU  - InventorL, InventorF I
+A2  - Issuing Authority
+AB  - Abstract
+C1  - 0000-00-00 Filing Date
+C2  - Issue Date
+C3  - Country
+C4  - Attorney/AgentL, Attorney/AgentF I
+C5  - References
+C6  - Legal Status
+CY  - Place
+DA  - Issue Date
+PY  - Issue Date
+LA  - Language
+M1  - Application Number
+OP  - Priority Number
+PB  - Assignee
+SN  - Patent Number
+ST  - Short Title
+UR  - URL
+Y2  - 2003/01/02/
+ER  - 
+
+TY  - SOUND
+TI  - Title
+AU  - PodcasterL, PodcasterF I
+AB  - Abstract
+LA  - Language
+M1  - Episode Number
+M3  - File Type
+ST  - Short Title
+UR  - URL
+Y2  - 2003/01/02/
+ER  - 
+
+TY  - SLIDE
+TI  - Title
+T2  - Meeting Name
+A2  - PresenterL, PresenterF I
+AB  - Abstract
+CY  - Place
+DA  - Date
+PY  - Date
+LA  - Language
+M3  - Type
+ST  - Short Title
+UR  - URL
+Y2  - 2003/01/02/
+ER  - 
+
+TY  - SOUND
+TI  - Title
+AU  - DirectorL, DirectorF I
+T2  - Program Title
+A3  - ProducerL, ProducerF I
+AB  - Abstract
+C1  - Cast MemberL, Cast MemberF I
+C5  - Format
+CN  - Call Number
+CY  - Place
+DA  - Date
+PY  - Date
+DP  - Library Catalog
+LA  - Language
+M1  - Episode Number
+PB  - Network
+ST  - Short Title
+UR  - URL
+AN  - Loc. in Archive
+DB  - Archive
+Y2  - 2003/01/02/
+ER  - 
+
+TY  - RPRT
+TI  - Title
+AU  - AuthorL, AuthorsF I
+T2  - Series Title
+A2  - Series EditorL, SeriesF I
+A4  - TranslatorL, TranslatorF I
+AB  - Abstract
+CN  - Call Number
+CY  - Place
+DA  - Date
+PY  - Date
+DP  - Library Catalog
+LA  - Language
+M3  - Report Type
+PB  - Institution
+SN  - Report Number
+ST  - Short Title
+UR  - URL
+AN  - Loc. in Archive
+DB  - Archive
+Y2  - 2003/01/02/
+ER  - 
+
+TY  - STAT
+TI  - Name of Act
+AU  - AuthorL, AuthorsF I
+T2  - Code
+AB  - Abstract
+DA  - Date
+PY  - Date
+ET  - Session
+VL  - Code Number
+LA  - Language
+M1  - Public Law Number
+OP  - History
+SE  - Section
+ST  - Short Title
+UR  - URL
+Y2  - 2003/01/02/
+ER  - 
+
+TY  - MPCT
+TI  - Title
+AU  - DirectorL, DirectorF I
+T2  - Program Title
+A3  - ProducerL, ProducerF I
+AB  - Abstract
+C1  - Cast MemberL, Cast MemberF I
+C5  - Format
+CN  - Call Number
+CY  - Place
+DA  - Date
+PY  - Date
+DP  - Library Catalog
+LA  - Language
+M1  - Episode Number
+PB  - Network
+ST  - Short Title
+UR  - URL
+AN  - Loc. in Archive
+DB  - Archive
+Y2  - 2003/01/02/
+ER  - 
+
+TY  - THES
+TI  - Title
+AU  - AuthorL, AuthorsF I
+AB  - Abstract
+CN  - Call Number
+CY  - Place
+DA  - Date
+PY  - Date
+DP  - Library Catalog
+SP  - # of Pages
+LA  - Language
+M3  - Type
+PB  - University
+ST  - Short Title
+UR  - URL
+AN  - Loc. in Archive
+DB  - Archive
+Y2  - 2003/01/02/
+ER  - 
+
+TY  - VIDEO
+TI  - Title
+AU  - DirectorL, DirectorF I
+A3  - ProducerL, ProducerF I
+AB  - Abstract
+C1  - Cast MemberL, Cast MemberF I
+C5  - Format
+CN  - Call Number
+CY  - Place
+DA  - Date
+PY  - Date
+DP  - Library Catalog
+VL  - Volume
+LA  - Language
+NV  - # of Volumes
+PB  - Studio
+SN  - ISBN
+ST  - Short Title
+UR  - URL
+AN  - Loc. in Archive
+DB  - Archive
+Y2  - 2003/01/02/
+ER  - 
+
+TY  - ELEC
+TI  - Title
+AU  - AuthorL, AuthorsF I
+T2  - Website Title
+A4  - TranslatorL, TranslatorF I
+AB  - Abstract
+DA  - Date
+PY  - Date
+LA  - Language
+M3  - Website Type
+ST  - Short Title
+UR  - URL
+Y2  - 2003/01/02/
+ER  - 
+

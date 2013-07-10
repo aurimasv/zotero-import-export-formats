@@ -1,0 +1,1445 @@
+[
+	{
+		"id": 1980,
+		"type": "graphic",
+		"title": "Title",
+		"source": "Library Catalog",
+		"dimensions": "Artwork Size",
+		"medium": "Medium",
+		"archive": "Archive",
+		"archive_location": "Loc. in Archive",
+		"abstract": "Abstract",
+		"URL": "URL",
+		"call-number": "Call Number",
+		"note": "Extra",
+		"shortTitle": "Short Title",
+		"language": "Language",
+		"issued": {
+			"literal": "Date"
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2003",
+					1,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 1981,
+		"type": "song",
+		"title": "Title",
+		"collection-title": "Series Title",
+		"publisher": "Label",
+		"publisher-place": "Place",
+		"volume": "Volume",
+		"number-of-volumes": "# of Volumes",
+		"source": "Library Catalog",
+		"dimensions": "Running Time",
+		"medium": "Format",
+		"archive": "Archive",
+		"archive_location": "Loc. in Archive",
+		"event-place": "Place",
+		"abstract": "Abstract",
+		"URL": "URL",
+		"ISBN": "ISBN",
+		"call-number": "Call Number",
+		"note": "Extra",
+		"shortTitle": "Short Title",
+		"language": "Language",
+		"composer": [
+			{
+				"family": "ComposerL",
+				"given": "ComposerF I"
+			}
+		],
+		"issued": {
+			"literal": "Date"
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2003",
+					1,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 1982,
+		"type": "bill",
+		"title": "Title",
+		"container-title": "Code",
+		"page": "Code Pages",
+		"volume": "Code Volume",
+		"section": "Section",
+		"abstract": "Abstract",
+		"URL": "URL",
+		"note": "Extra",
+		"number": "Bill Number",
+		"references": "History",
+		"shortTitle": "Short Title",
+		"language": "Language",
+		"issued": {
+			"literal": "Date"
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2003",
+					1,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 1926,
+		"type": "post-weblog",
+		"title": "Title",
+		"container-title": "Blog Title",
+		"genre": "Website Type",
+		"abstract": "Abstract",
+		"URL": "URL",
+		"note": "Extra",
+		"shortTitle": "Short Title",
+		"language": "Language",
+		"author": [
+			{
+				"family": "AuthorL",
+				"given": "AuthorsF I"
+			}
+		],
+		"issued": {
+			"literal": "Date"
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2003",
+					1,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 1927,
+		"type": "book",
+		"title": "Title",
+		"collection-title": "Series",
+		"collection-number": "Series Number",
+		"publisher": "Publisher",
+		"publisher-place": "Place",
+		"volume": "Volume",
+		"number-of-volumes": "# of Volumes",
+		"number-of-pages": "# of Pages",
+		"edition": "Edition",
+		"source": "Library Catalog",
+		"archive": "Archive",
+		"archive_location": "Loc. in Archive",
+		"event-place": "Place",
+		"abstract": "Abstract",
+		"URL": "URL",
+		"ISBN": "ISBN",
+		"call-number": "Call Number",
+		"note": "Extra",
+		"shortTitle": "Short Title",
+		"language": "Language",
+		"author": [
+			{
+				"family": "AuthorL",
+				"given": "AuthorsF I"
+			}
+		],
+		"editor": [
+			{
+				"family": "EditorL",
+				"given": "EditorF I"
+			}
+		],
+		"collection-editor": [
+			{
+				"family": "Series EditorL",
+				"given": "SeriesF I"
+			}
+		],
+		"translator": [
+			{
+				"family": "TranslatorL",
+				"given": "TranslatorF I"
+			}
+		],
+		"issued": {
+			"literal": "Date"
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2003",
+					1,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 1932,
+		"type": "chapter",
+		"title": "Title",
+		"container-title": "Book Title",
+		"collection-title": "Series",
+		"collection-number": "Series Number",
+		"publisher": "Publisher",
+		"publisher-place": "Place",
+		"page": "Pages",
+		"volume": "Volume",
+		"number-of-volumes": "# of Volumes",
+		"edition": "Edition",
+		"source": "Library Catalog",
+		"archive": "Archive",
+		"archive_location": "Loc. in Archive",
+		"event-place": "Place",
+		"abstract": "Abstract",
+		"URL": "URL",
+		"ISBN": "ISBN",
+		"call-number": "Call Number",
+		"note": "Extra",
+		"shortTitle": "Short Title",
+		"language": "Language",
+		"author": [
+			{
+				"family": "AuthorL",
+				"given": "AuthorsF I"
+			}
+		],
+		"editor": [
+			{
+				"family": "EditorL",
+				"given": "EditorF I"
+			}
+		],
+		"collection-editor": [
+			{
+				"family": "Series EditorL",
+				"given": "SeriesF I"
+			}
+		],
+		"translator": [
+			{
+				"family": "TranslatorL",
+				"given": "TranslatorF I"
+			}
+		],
+		"container-author": [
+			{
+				"family": "Book AuthorL",
+				"given": "BookF I"
+			}
+		],
+		"issued": {
+			"literal": "Date"
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2003",
+					1,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 1942,
+		"type": "legal_case",
+		"title": "Title",
+		"container-title": "ReporterL, ReporterF",
+		"authority": "Court",
+		"page": "First Page",
+		"volume": "Volume",
+		"abstract": "Abstract",
+		"URL": "URL",
+		"note": "Extra",
+		"number": "Docket number",
+		"references": "History",
+		"shortTitle": "Short Title",
+		"language": "Language",
+		"author": [
+			{
+				"family": "AuthorL",
+				"given": "AuthorsF I"
+			}
+		],
+		"issued": {
+			"literal": "Date Decided"
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2003",
+					1,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 1943,
+		"type": "book",
+		"title": "Title",
+		"collection-title": "Series Title",
+		"publisher": "Publisher",
+		"publisher-place": "Place",
+		"version": "Version",
+		"source": "Library Catalog",
+		"medium": "System",
+		"archive": "Archive",
+		"archive_location": "Loc. in Archive",
+		"event-place": "Place",
+		"abstract": "Abstract",
+		"URL": "URL",
+		"ISBN": "ISBN",
+		"call-number": "Call Number",
+		"note": "Extra",
+		"shortTitle": "Short Title",
+		"issued": {
+			"literal": "Date"
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2003",
+					1,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 1944,
+		"type": "paper-conference",
+		"title": "Title",
+		"container-title": "Proceedings Title",
+		"collection-title": "Series",
+		"publisher": "Publisher",
+		"publisher-place": "Place",
+		"page": "Pages",
+		"volume": "Volume",
+		"source": "Library Catalog",
+		"archive": "Archive",
+		"archive_location": "Loc. in Archive",
+		"event": "Conference Name",
+		"event-place": "Place",
+		"abstract": "Abstract",
+		"URL": "URL",
+		"DOI": "DOI",
+		"ISBN": "ISBN",
+		"call-number": "Call Number",
+		"note": "Extra",
+		"shortTitle": "Short Title",
+		"language": "Language",
+		"author": [
+			{
+				"family": "AuthorL",
+				"given": "AuthorsF I"
+			}
+		],
+		"editor": [
+			{
+				"family": "EditorL",
+				"given": "EditorF I"
+			}
+		],
+		"collection-editor": [
+			{
+				"family": "Series EditorL",
+				"given": "SeriesF I"
+			}
+		],
+		"translator": [
+			{
+				"family": "TranslatorL",
+				"given": "TranslatorF I"
+			}
+		],
+		"issued": {
+			"literal": "Date"
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2003",
+					1,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 1945,
+		"type": "entry-dictionary",
+		"title": "Title",
+		"container-title": "Dictionary Title",
+		"collection-title": "Series",
+		"collection-number": "Series Number",
+		"publisher": "Publisher",
+		"publisher-place": "Place",
+		"page": "Pages",
+		"volume": "Volume",
+		"number-of-volumes": "# of Volumes",
+		"edition": "Edition",
+		"source": "Library Catalog",
+		"archive": "Archive",
+		"archive_location": "Loc. in Archive",
+		"event-place": "Place",
+		"abstract": "Abstract",
+		"URL": "URL",
+		"ISBN": "ISBN",
+		"call-number": "Call Number",
+		"note": "Extra",
+		"shortTitle": "Short Title",
+		"language": "Language",
+		"author": [
+			{
+				"family": "AuthorL",
+				"given": "AuthorsF I"
+			}
+		],
+		"editor": [
+			{
+				"family": "EditorL",
+				"given": "EditorF I"
+			}
+		],
+		"collection-editor": [
+			{
+				"family": "Series EditorL",
+				"given": "SeriesF I"
+			}
+		],
+		"translator": [
+			{
+				"family": "TranslatorL",
+				"given": "TranslatorF I"
+			}
+		],
+		"issued": {
+			"literal": "Date"
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2003",
+					1,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 1946,
+		"type": "article",
+		"title": "Title",
+		"publisher": "Publisher",
+		"source": "Library Catalog",
+		"archive": "Archive",
+		"archive_location": "Loc. in Archive",
+		"abstract": "Abstract",
+		"URL": "URL",
+		"call-number": "Call Number",
+		"note": "Extra",
+		"shortTitle": "Short Title",
+		"language": "Language",
+		"author": [
+			{
+				"family": "AuthorL",
+				"given": "AuthorsF I"
+			}
+		],
+		"editor": [
+			{
+				"family": "EditorL",
+				"given": "EditorF I"
+			}
+		],
+		"reviewed-author": [
+			{
+				"family": "Reviewed AuthorL",
+				"given": "Reviewed AuthorF I"
+			}
+		],
+		"translator": [
+			{
+				"family": "TranslatorL",
+				"given": "TranslatorF I"
+			}
+		],
+		"issued": {
+			"literal": "Date"
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2003",
+					1,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 1947,
+		"type": "personal_communication",
+		"title": "Subject",
+		"abstract": "Abstract",
+		"URL": "URL",
+		"note": "Extra",
+		"shortTitle": "Short Title",
+		"language": "Language",
+		"author": [
+			{
+				"family": "AuthorL",
+				"given": "AuthorsF I"
+			}
+		],
+		"recipient": [
+			{
+				"family": "RecipientL",
+				"given": "RecipientF I"
+			}
+		],
+		"issued": {
+			"literal": "Date"
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2003",
+					1,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 1948,
+		"type": "entry-encyclopedia",
+		"title": "Title",
+		"container-title": "Encyclopedia Title",
+		"collection-title": "Series",
+		"collection-number": "Series Number",
+		"publisher": "Publisher",
+		"publisher-place": "Place",
+		"page": "Pages",
+		"volume": "Volume",
+		"number-of-volumes": "# of Volumes",
+		"edition": "Edition",
+		"source": "Library Catalog",
+		"archive": "Archive",
+		"archive_location": "Loc. in Archive",
+		"event-place": "Place",
+		"abstract": "Abstract",
+		"URL": "URL",
+		"ISBN": "ISBN",
+		"call-number": "Call Number",
+		"note": "Extra",
+		"shortTitle": "Short Title",
+		"language": "Language",
+		"author": [
+			{
+				"family": "AuthorL",
+				"given": "AuthorsF I"
+			}
+		],
+		"editor": [
+			{
+				"family": "EditorL",
+				"given": "EditorF I"
+			}
+		],
+		"collection-editor": [
+			{
+				"family": "Series EditorL",
+				"given": "SeriesF I"
+			}
+		],
+		"translator": [
+			{
+				"family": "TranslatorL",
+				"given": "TranslatorF I"
+			}
+		],
+		"issued": {
+			"literal": "Date"
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2003",
+					1,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 1949,
+		"type": "motion_picture",
+		"title": "Title",
+		"publisher": "Publisher",
+		"genre": "Genre",
+		"source": "Library Catalog",
+		"dimensions": "Running Time",
+		"medium": "Format",
+		"archive": "Archive",
+		"archive_location": "Loc. in Archive",
+		"abstract": "Abstract",
+		"URL": "URL",
+		"call-number": "Call Number",
+		"note": "Extra",
+		"shortTitle": "Short Title",
+		"language": "Language",
+		"director": [
+			{
+				"family": "DirectorL",
+				"given": "DirectorF I"
+			}
+		],
+		"issued": {
+			"literal": "Date"
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2003",
+					1,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 1950,
+		"type": "post",
+		"title": "Title",
+		"container-title": "Forum/Listserv Title",
+		"genre": "Post Type",
+		"abstract": "Abstract",
+		"URL": "URL",
+		"note": "Extra",
+		"shortTitle": "Short Title",
+		"language": "Language",
+		"author": [
+			{
+				"family": "AuthorL",
+				"given": "AuthorsF I"
+			}
+		],
+		"issued": {
+			"literal": "Date"
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2003",
+					1,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 1951,
+		"type": "bill",
+		"title": "Title",
+		"publisher": "Publisher",
+		"publisher-place": "Place",
+		"page": "Pages",
+		"number-of-volumes": "# of Volumes",
+		"event-place": "Place",
+		"abstract": "Abstract",
+		"URL": "URL",
+		"note": "Extra",
+		"number": "Document Number",
+		"references": "History",
+		"shortTitle": "Short Title",
+		"language": "Language",
+		"issued": {
+			"literal": "Date"
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2003",
+					1,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 1953,
+		"type": "personal_communication",
+		"title": "Title",
+		"abstract": "Abstract",
+		"URL": "URL",
+		"note": "Extra",
+		"shortTitle": "Short Title",
+		"language": "Language",
+		"author": [
+			{
+				"family": "AuthorL",
+				"given": "AuthorsF I"
+			}
+		],
+		"recipient": [
+			{
+				"family": "RecipientL",
+				"given": "RecipientF I"
+			}
+		],
+		"issued": {
+			"literal": "Date"
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2003",
+					1,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 1954,
+		"type": "interview",
+		"title": "Title",
+		"source": "Library Catalog",
+		"medium": "Medium",
+		"archive": "Archive",
+		"archive_location": "Loc. in Archive",
+		"abstract": "Abstract",
+		"URL": "URL",
+		"call-number": "Call Number",
+		"note": "Extra",
+		"shortTitle": "Short Title",
+		"language": "Language",
+		"interviewer": [
+			{
+				"family": "InterviewerL",
+				"given": "InterviewerF I"
+			}
+		],
+		"translator": [
+			{
+				"family": "TranslatorL",
+				"given": "TranslatorF I"
+			}
+		],
+		"issued": {
+			"literal": "Date"
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2003",
+					1,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 1933,
+		"type": "article-journal",
+		"title": "Title",
+		"container-title": "Publication",
+		"collection-title": "Series Title",
+		"page": "Pages",
+		"volume": "Volume",
+		"issue": "Issue",
+		"source": "Library Catalog",
+		"archive": "Archive",
+		"archive_location": "Loc. in Archive",
+		"abstract": "Abstract",
+		"URL": "URL",
+		"DOI": "DOI",
+		"ISSN": "ISSN",
+		"call-number": "Call Number",
+		"note": "Extra",
+		"shortTitle": "Short Title",
+		"journalAbbreviation": "Journal Abbr",
+		"language": "Language",
+		"author": [
+			{
+				"family": "AuthorL",
+				"given": "AuthorsF I"
+			}
+		],
+		"editor": [
+			{
+				"family": "EditorL",
+				"given": "EditorF I"
+			}
+		],
+		"reviewed-author": [
+			{
+				"family": "Reviewed AuthorL",
+				"given": "ReviewedF I"
+			}
+		],
+		"translator": [
+			{
+				"family": "TranslatorL",
+				"given": "TranslatorF I"
+			}
+		],
+		"issued": {
+			"literal": "Date"
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2003",
+					1,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 1967,
+		"type": "article-journal",
+		"title": "Title (attachment test)",
+		"container-title": "Publication",
+		"collection-title": "Series Title",
+		"page": "Pages",
+		"volume": "Volume",
+		"issue": "Issue",
+		"source": "Library Catalog",
+		"archive": "Archive",
+		"archive_location": "Loc. in Archive",
+		"abstract": "Abstract",
+		"URL": "URL",
+		"DOI": "DOI",
+		"ISSN": "ISSN",
+		"call-number": "Call Number",
+		"note": "Extra",
+		"shortTitle": "Short Title",
+		"journalAbbreviation": "Journal Abbr",
+		"language": "Language",
+		"author": [
+			{
+				"family": "AuthorL",
+				"given": "AuthorsF I"
+			}
+		],
+		"editor": [
+			{
+				"family": "EditorL",
+				"given": "EditorF I"
+			}
+		],
+		"reviewed-author": [
+			{
+				"family": "Reviewed AuthorL",
+				"given": "ReviewedF I"
+			}
+		],
+		"translator": [
+			{
+				"family": "TranslatorL",
+				"given": "TranslatorF I"
+			}
+		],
+		"issued": {
+			"literal": "Date"
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2003",
+					1,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 1955,
+		"type": "personal_communication",
+		"title": "Title",
+		"genre": "Type",
+		"source": "Library Catalog",
+		"archive": "Archive",
+		"archive_location": "Loc. in Archive",
+		"abstract": "Abstract",
+		"URL": "URL",
+		"call-number": "Call Number",
+		"note": "Extra",
+		"shortTitle": "Short Title",
+		"language": "Language",
+		"author": [
+			{
+				"family": "AuthorL",
+				"given": "AuthorsF I"
+			}
+		],
+		"recipient": [
+			{
+				"family": "RecipientL",
+				"given": "RecipientF I"
+			}
+		],
+		"issued": {
+			"literal": "Date"
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2003",
+					1,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 1956,
+		"type": "article-magazine",
+		"title": "Title",
+		"container-title": "Publication",
+		"page": "Pages",
+		"volume": "Volume",
+		"issue": "Issue",
+		"source": "Library Catalog",
+		"archive": "Archive",
+		"archive_location": "Loc. in Archive",
+		"abstract": "Abstract",
+		"URL": "URL",
+		"ISSN": "ISSN",
+		"call-number": "Call Number",
+		"note": "Extra",
+		"shortTitle": "Short Title",
+		"language": "Language",
+		"author": [
+			{
+				"family": "AuthorL",
+				"given": "AuthorsF I"
+			}
+		],
+		"reviewed-author": [
+			{
+				"family": "Reviewed AuthorL",
+				"given": "Reviewed AuthorF I"
+			}
+		],
+		"translator": [
+			{
+				"family": "TranslatorL",
+				"given": "TranslatorF I"
+			}
+		],
+		"issued": {
+			"literal": "Date"
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2003",
+					1,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 1957,
+		"type": "manuscript",
+		"title": "Title",
+		"publisher-place": "Place",
+		"number-of-pages": "# of Pages",
+		"genre": "Type",
+		"source": "Library Catalog",
+		"archive": "Archive",
+		"archive_location": "Loc. in Archive",
+		"event-place": "Place",
+		"abstract": "Abstract",
+		"URL": "URL",
+		"call-number": "Call Number",
+		"note": "Extra",
+		"shortTitle": "Short Title",
+		"language": "Language",
+		"author": [
+			{
+				"family": "AuthorL",
+				"given": "AuthorsF I"
+			}
+		],
+		"translator": [
+			{
+				"family": "TranslatorL",
+				"given": "TranslatorF I"
+			}
+		],
+		"issued": {
+			"literal": "Date"
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2003",
+					1,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 1958,
+		"type": "map",
+		"title": "Title",
+		"collection-title": "Series Title",
+		"publisher": "Publisher",
+		"publisher-place": "Place",
+		"edition": "Edition",
+		"genre": "Type",
+		"source": "Library Catalog",
+		"scale": "Scale",
+		"archive": "Archive",
+		"archive_location": "Loc. in Archive",
+		"event-place": "Place",
+		"abstract": "Abstract",
+		"URL": "URL",
+		"ISBN": "ISBN",
+		"call-number": "Call Number",
+		"note": "Extra",
+		"shortTitle": "Short Title",
+		"language": "Language",
+		"collection-editor": [
+			{
+				"family": "Series EditorL",
+				"given": "SeriesF I"
+			}
+		],
+		"issued": {
+			"literal": "Date"
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2003",
+					1,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 1963,
+		"type": "article-newspaper",
+		"title": "Title",
+		"container-title": "Publication",
+		"publisher-place": "Place",
+		"page": "Pages",
+		"edition": "Edition",
+		"section": "Section",
+		"source": "Library Catalog",
+		"archive": "Archive",
+		"archive_location": "Loc. in Archive",
+		"event-place": "Place",
+		"abstract": "Abstract",
+		"URL": "URL",
+		"ISSN": "ISSN",
+		"call-number": "Call Number",
+		"note": "Extra",
+		"shortTitle": "Short Title",
+		"language": "Language",
+		"author": [
+			{
+				"family": "AuthorL",
+				"given": "AuthorsF I"
+			}
+		],
+		"translator": [
+			{
+				"family": "TranslatorL",
+				"given": "TranslatorF I"
+			}
+		],
+		"reviewed-author": [
+			{
+				"family": "Reviewed AuthorL",
+				"given": "Reviewed AuthorF I"
+			}
+		],
+		"issued": {
+			"literal": "Date"
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2003",
+					1,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 1964,
+		"type": "patent",
+		"title": "Title",
+		"publisher-place": "Place",
+		"page": "Pages",
+		"event-place": "Place",
+		"abstract": "Abstract",
+		"URL": "URL",
+		"note": "Extra",
+		"number": "Patent Number",
+		"shortTitle": "Short Title",
+		"language": "Language",
+		"issued": {
+			"literal": "Issue Date"
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2003",
+					1,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 1965,
+		"type": "song",
+		"title": "Title",
+		"collection-title": "Series Title",
+		"dimensions": "Running Time",
+		"medium": "File Type",
+		"abstract": "Abstract",
+		"URL": "URL",
+		"note": "Extra",
+		"number": "Episode Number",
+		"shortTitle": "Short Title",
+		"language": "Language",
+		"accessed": {
+			"date-parts": [
+				[
+					"2003",
+					1,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 1968,
+		"type": "speech",
+		"title": "Title",
+		"publisher-place": "Place",
+		"genre": "Type",
+		"event": "Meeting Name",
+		"event-place": "Place",
+		"abstract": "Abstract",
+		"URL": "URL",
+		"note": "Extra",
+		"shortTitle": "Short Title",
+		"language": "Language",
+		"issued": {
+			"literal": "Date"
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2003",
+					1,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 1969,
+		"type": "broadcast",
+		"title": "Title",
+		"container-title": "Program Title",
+		"publisher": "Network",
+		"publisher-place": "Place",
+		"source": "Library Catalog",
+		"dimensions": "Running Time",
+		"medium": "Format",
+		"archive": "Archive",
+		"archive_location": "Loc. in Archive",
+		"event-place": "Place",
+		"abstract": "Abstract",
+		"URL": "URL",
+		"call-number": "Call Number",
+		"note": "Extra",
+		"number": "Episode Number",
+		"shortTitle": "Short Title",
+		"language": "Language",
+		"director": [
+			{
+				"family": "DirectorL",
+				"given": "DirectorF I"
+			}
+		],
+		"issued": {
+			"literal": "Date"
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2003",
+					1,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 1970,
+		"type": "report",
+		"title": "Title",
+		"collection-title": "Series Title",
+		"publisher": "Institution",
+		"publisher-place": "Place",
+		"page": "Pages",
+		"genre": "Report Type",
+		"source": "Library Catalog",
+		"archive": "Archive",
+		"archive_location": "Loc. in Archive",
+		"event-place": "Place",
+		"abstract": "Abstract",
+		"URL": "URL",
+		"call-number": "Call Number",
+		"note": "Extra",
+		"number": "Report Number",
+		"shortTitle": "Short Title",
+		"language": "Language",
+		"author": [
+			{
+				"family": "AuthorL",
+				"given": "AuthorsF I"
+			}
+		],
+		"collection-editor": [
+			{
+				"family": "Series EditorL",
+				"given": "SeriesF I"
+			}
+		],
+		"translator": [
+			{
+				"family": "TranslatorL",
+				"given": "TranslatorF I"
+			}
+		],
+		"issued": {
+			"literal": "Date"
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2003",
+					1,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 1971,
+		"type": "legislation",
+		"title": "Name of Act",
+		"container-title": "Code",
+		"page": "Pages",
+		"section": "Section",
+		"abstract": "Abstract",
+		"URL": "URL",
+		"note": "Extra",
+		"number": "Public Law Number",
+		"references": "History",
+		"shortTitle": "Short Title",
+		"language": "Language",
+		"author": [
+			{
+				"family": "AuthorL",
+				"given": "AuthorsF I"
+			}
+		],
+		"issued": {
+			"literal": "Date"
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2003",
+					1,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 1975,
+		"type": "broadcast",
+		"title": "Title",
+		"container-title": "Program Title",
+		"publisher": "Network",
+		"publisher-place": "Place",
+		"source": "Library Catalog",
+		"dimensions": "Running Time",
+		"medium": "Format",
+		"archive": "Archive",
+		"archive_location": "Loc. in Archive",
+		"event-place": "Place",
+		"abstract": "Abstract",
+		"URL": "URL",
+		"call-number": "Call Number",
+		"note": "Extra",
+		"number": "Episode Number",
+		"shortTitle": "Short Title",
+		"language": "Language",
+		"director": [
+			{
+				"family": "DirectorL",
+				"given": "DirectorF I"
+			}
+		],
+		"issued": {
+			"literal": "Date"
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2003",
+					1,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 1972,
+		"type": "thesis",
+		"title": "Title",
+		"publisher": "University",
+		"publisher-place": "Place",
+		"number-of-pages": "# of Pages",
+		"genre": "Type",
+		"source": "Library Catalog",
+		"archive": "Archive",
+		"archive_location": "Loc. in Archive",
+		"event-place": "Place",
+		"abstract": "Abstract",
+		"URL": "URL",
+		"call-number": "Call Number",
+		"note": "Extra",
+		"shortTitle": "Short Title",
+		"language": "Language",
+		"author": [
+			{
+				"family": "AuthorL",
+				"given": "AuthorsF I"
+			}
+		],
+		"issued": {
+			"literal": "Date"
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2003",
+					1,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 1978,
+		"type": "motion_picture",
+		"title": "Title",
+		"collection-title": "Series Title",
+		"publisher": "Studio",
+		"publisher-place": "Place",
+		"volume": "Volume",
+		"number-of-volumes": "# of Volumes",
+		"source": "Library Catalog",
+		"dimensions": "Running Time",
+		"medium": "Format",
+		"archive": "Archive",
+		"archive_location": "Loc. in Archive",
+		"event-place": "Place",
+		"abstract": "Abstract",
+		"URL": "URL",
+		"ISBN": "ISBN",
+		"call-number": "Call Number",
+		"note": "Extra",
+		"shortTitle": "Short Title",
+		"language": "Language",
+		"director": [
+			{
+				"family": "DirectorL",
+				"given": "DirectorF I"
+			}
+		],
+		"issued": {
+			"literal": "Date"
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2003",
+					1,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": 1976,
+		"type": "webpage",
+		"title": "Title",
+		"container-title": "Website Title",
+		"genre": "Website Type",
+		"abstract": "Abstract",
+		"URL": "URL",
+		"note": "Extra",
+		"shortTitle": "Short Title",
+		"language": "Language",
+		"author": [
+			{
+				"family": "AuthorL",
+				"given": "AuthorsF I"
+			}
+		],
+		"translator": [
+			{
+				"family": "TranslatorL",
+				"given": "TranslatorF I"
+			}
+		],
+		"issued": {
+			"literal": "Date"
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					"2003",
+					1,
+					2
+				]
+			]
+		}
+	}
+]

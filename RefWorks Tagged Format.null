@@ -1,0 +1,686 @@
+RT Artwork
+T1 Title
+A1 ArtistL, ArtistF I
+AB Abstract
+U3 Artwork Size
+CN Call Number
+FD Date
+YR Date
+SL Archive
+LL Loc. in Archive
+LA Language
+CL Medium
+ST Short Title
+UL URL
+RD 2003/01/02/
+
+
+RT Sound Recording
+T1 Title
+A1 ComposerL, ComposerF I
+A2 PerformerL, PerformerF I
+T3 Series Title
+AB Abstract
+U4 Words ByL, Words ByF I
+U5 Format
+CN Call Number
+PP Place
+FD Date
+YR Date
+SL Archive
+LL Loc. in Archive
+VO Volume
+LA Language
+PB Label
+SN ISBN
+ST Short Title
+UL URL
+RD 2003/01/02/
+
+
+RT Bills
+T1 Title
+T2 Code
+A2 SponsorL, SponsorF I
+A3 CosponsorL, CosponsorF I
+T3 Legislative Body
+AB Abstract
+FD Date
+YR Date
+ED Session
+VO Code Volume
+SP Code Pages
+LA Language
+CL Bill Number
+ST Short Title
+UL URL
+RD 2003/01/02/
+
+
+RT Web Page
+T1 Title
+A1 AuthorL, AuthorsF I
+T2 Blog Title
+AB Abstract
+U2 CommenterrL, CommenterrF I
+FD Date
+YR Date
+LA Language
+CL Website Type
+ST Short Title
+UL URL
+RD 2003/01/02/
+
+
+RT Book, Whole
+T1 Title
+A1 AuthorL, AuthorsF I
+T2 Series
+A2 Series EditorL, SeriesF I
+A3 EditorL, EditorF I
+A4 TranslatorL, TranslatorF I
+AB Abstract
+CN Call Number
+PP Place
+FD Date
+YR Date
+SL Archive
+LL Loc. in Archive
+ED Edition
+VO Volume
+SP # of Pages
+LA Language
+PB Publisher
+SN ISBN
+ST Short Title
+UL URL
+RD 2003/01/02/
+
+
+RT Book, Section
+T1 Title
+A1 AuthorL, AuthorsF I
+T2 Book Title
+A2 EditorL, EditorF I
+T3 Series
+A3 Series EditorL, SeriesF I
+A4 TranslatorL, TranslatorF I
+AB Abstract
+U2 Book AuthorL, BookF I
+CN Call Number
+PP Place
+FD Date
+YR Date
+SL Archive
+LL Loc. in Archive
+ED Edition
+VO Volume
+LA Language
+PB Publisher
+SN ISBN
+ST Short Title
+UL URL
+RD 2003/01/02/
+
+
+RT Case
+T1 Title
+A1 AuthorL, AuthorsF I
+A2 ReporterL, ReporterF
+A4 CounselL, CounselF I
+AB Abstract
+FD Date Decided
+YR Date Decided
+VO Volume
+SP First Page
+LA Language
+PB Court
+ST Short Title
+UL URL
+RD 2003/01/02/
+
+
+RT Computer Program
+T1 Title
+A1 ProgrammerL, ProgrammerF I
+T2 Series Title
+AB Abstract
+CN Call Number
+PP Place
+FD Date
+YR Date
+SL Archive
+LL Loc. in Archive
+ED Version
+LA Language
+CL System
+PB Publisher
+SN ISBN
+ST Short Title
+UL URL
+RD 2003/01/02/
+
+
+RT Conference Proceedings
+T1 Title
+A1 AuthorL, AuthorsF I
+T2 Conference Name
+A2 EditorL, EditorF I
+T3 Series
+A3 Series EditorL, SeriesF I
+A4 ContributorL, ContributorF I
+AB Abstract
+U1 Place
+U3 Proceedings Title
+CN Call Number
+FD Date
+YR Date
+DO DOI
+SL Archive
+LL Loc. in Archive
+VO Volume
+LA Language
+PB Publisher
+SN ISBN
+ST Short Title
+UL URL
+RD 2003/01/02/
+
+
+RT Book, Section
+T1 Title
+A1 AuthorL, AuthorsF I
+T2 Dictionary Title
+A2 EditorL, EditorF I
+A3 Series EditorL, SeriesF I
+A4 TranslatorL, TranslatorF I
+AB Abstract
+CN Call Number
+PP Place
+FD Date
+YR Date
+SL Archive
+LL Loc. in Archive
+ED Edition
+VO Volume
+LA Language
+PB Publisher
+SN ISBN
+ST Short Title
+UL URL
+RD 2003/01/02/
+
+
+RT Generic
+T1 Title
+A1 AuthorL, AuthorsF I
+A2 EditorL, EditorF I
+A4 TranslatorL, TranslatorF I
+AB Abstract
+CN Call Number
+FD Date
+YR Date
+SL Archive
+LL Loc. in Archive
+LA Language
+PB Publisher
+ST Short Title
+UL URL
+RD 2003/01/02/
+
+
+RT Personal Communication
+T1 Subject
+A1 AuthorL, AuthorsF I
+A2 RecipientL, RecipientF I
+AB Abstract
+FD Date
+YR Date
+LA Language
+ST Short Title
+UL URL
+RD 2003/01/02/
+
+
+RT Book, Section
+T1 Title
+A1 AuthorL, AuthorsF I
+T2 Encyclopedia Title
+A2 EditorL, EditorF I
+A3 Series EditorL, SeriesF I
+A4 TranslatorL, TranslatorF I
+AB Abstract
+CN Call Number
+PP Place
+FD Date
+YR Date
+SL Archive
+LL Loc. in Archive
+ED Edition
+VO Volume
+LA Language
+PB Publisher
+SN ISBN
+ST Short Title
+UL URL
+RD 2003/01/02/
+
+
+RT Motion Picture
+T1 Title
+A1 DirectorL, DirectorF I
+A3 ProducerL, ProducerF I
+A4 ContributorL, ContributorF I
+AB Abstract
+U4 Genre
+U5 Format
+CN Call Number
+FD Date
+YR Date
+SL Archive
+LL Loc. in Archive
+SP Running Time
+LA Language
+PB Publisher
+ST Short Title
+UL URL
+RD 2003/01/02/
+
+
+RT Online Discussion Forum
+T1 Title
+A1 AuthorL, AuthorsF I
+T2 Forum/Listserv Title
+AB Abstract
+FD Date
+YR Date
+LA Language
+CL Post Type
+ST Short Title
+UL URL
+RD 2003/01/02/
+
+
+RT Hearing
+T1 Title
+T2 Committee
+T3 Legislative Body
+AB Abstract
+PP Place
+FD Date
+YR Date
+ED Session
+LA Language
+CL Document Number
+PB Publisher
+ST Short Title
+UL URL
+RD 2003/01/02/
+
+
+RT Personal Communication
+T1 Title
+A1 AuthorL, AuthorsF I
+A2 RecipientL, RecipientF I
+AB Abstract
+FD Date
+YR Date
+LA Language
+ST Short Title
+UL URL
+RD 2003/01/02/
+
+
+RT Personal Communication
+T1 Title
+A1 Interview WithL, AuthorsF I
+A2 InterviewerL, InterviewerF I
+A4 TranslatorL, TranslatorF I
+AB Abstract
+CN Call Number
+FD Date
+YR Date
+SL Archive
+LL Loc. in Archive
+LA Language
+CL Medium
+ST Short Title
+UL URL
+RD 2003/01/02/
+
+
+RT Journal Article
+T1 Title
+A1 AuthorL, AuthorsF I
+T2 Publication
+A2 EditorL, EditorF I
+A4 TranslatorL, TranslatorF I
+AB Abstract
+CN Call Number
+FD Date
+YR Date
+DO DOI
+SL Archive
+LL Loc. in Archive
+VO Volume
+IS Issue
+JO Journal Abbr
+LA Language
+SN ISSN
+ST Short Title
+UL URL
+RD 2003/01/02/
+
+
+RT Journal Article
+T1 Title (attachment test)
+A1 AuthorL, AuthorsF I
+T2 Publication
+A2 EditorL, EditorF I
+A4 TranslatorL, TranslatorF I
+AB Abstract
+CN Call Number
+FD Date
+YR Date
+DO DOI
+SL Archive
+LL Loc. in Archive
+VO Volume
+IS Issue
+JO Journal Abbr
+LA Language
+SN ISSN
+ST Short Title
+UL URL
+RD 2003/01/02/
+LK https://www.google.com/
+LK files/1984/test.txt
+NO <p>Note</p>
+
+
+RT Personal Communication
+T1 Title
+A1 AuthorL, AuthorsF I
+A2 RecipientL, RecipientF I
+AB Abstract
+CN Call Number
+FD Date
+YR Date
+SL Archive
+LL Loc. in Archive
+LA Language
+CL Type
+ST Short Title
+UL URL
+RD 2003/01/02/
+
+
+RT Magazine Article
+T1 Title
+A1 AuthorL, AuthorsF I
+T2 Publication
+A4 TranslatorL, TranslatorF I
+AB Abstract
+CN Call Number
+FD Date
+YR Date
+SL Archive
+LL Loc. in Archive
+VO Volume
+IS Issue
+LA Language
+SN ISSN
+ST Short Title
+UL URL
+RD 2003/01/02/
+
+
+RT Unpublished Material
+T1 Title
+A1 AuthorL, AuthorsF I
+A4 TranslatorL, TranslatorF I
+AB Abstract
+CN Call Number
+PP Place
+FD Date
+YR Date
+SL Archive
+LL Loc. in Archive
+SP # of Pages
+LA Language
+CL Type
+ST Short Title
+UL URL
+RD 2003/01/02/
+
+
+RT Map
+T1 Title
+A1 AuthorL, AuthorsF I
+T2 Series Title
+A3 Series EditorL, SeriesF I
+AB Abstract
+U1 Scale
+CN Call Number
+PP Place
+FD Date
+YR Date
+SL Archive
+LL Loc. in Archive
+ED Edition
+LA Language
+CL Type
+PB Publisher
+SN ISBN
+ST Short Title
+UL URL
+RD 2003/01/02/
+
+
+RT Newspaper Article
+T1 Title
+A1 AuthorL, AuthorsF I
+T2 Publication
+A4 TranslatorL, TranslatorF I
+AB Abstract
+CN Call Number
+PP Place
+FD Date
+YR Date
+SL Archive
+LL Loc. in Archive
+ED Edition
+LA Language
+SN ISSN
+ST Short Title
+UL URL
+RD 2003/01/02/
+
+
+RT Patent
+T1 Title
+A1 InventorL, InventorF I
+A2 Issuing Authority
+AB Abstract
+U1 0000-00-00 Filing Date
+U2 Issue Date
+U3 Country
+U4 Attorney/AgentL, Attorney/AgentF I
+U5 References
+U6 Legal Status
+PP Place
+FD Issue Date
+YR Issue Date
+LA Language
+CL Application Number
+PB Assignee
+SN Patent Number
+ST Short Title
+UL URL
+RD 2003/01/02/
+
+
+RT Sound Recording
+T1 Title
+A1 PodcasterL, PodcasterF I
+AB Abstract
+LA Language
+CL File Type
+ST Short Title
+UL URL
+RD 2003/01/02/
+
+
+RT Report
+T1 Title
+T2 Meeting Name
+A2 PresenterL, PresenterF I
+AB Abstract
+PP Place
+FD Date
+YR Date
+LA Language
+CL Type
+ST Short Title
+UL URL
+RD 2003/01/02/
+
+
+RT Sound Recording
+T1 Title
+A1 DirectorL, DirectorF I
+T2 Program Title
+A3 ProducerL, ProducerF I
+AB Abstract
+U1 Cast MemberL, Cast MemberF I
+U5 Format
+CN Call Number
+PP Place
+FD Date
+YR Date
+SL Archive
+LL Loc. in Archive
+LA Language
+CL Episode Number
+PB Network
+ST Short Title
+UL URL
+RD 2003/01/02/
+
+
+RT Report
+T1 Title
+A1 AuthorL, AuthorsF I
+T2 Series Title
+A3 Series EditorL, SeriesF I
+A4 TranslatorL, TranslatorF I
+AB Abstract
+CN Call Number
+PP Place
+FD Date
+YR Date
+SL Archive
+LL Loc. in Archive
+LA Language
+CL Report Type
+PB Institution
+SN Report Number
+ST Short Title
+UL URL
+RD 2003/01/02/
+
+
+RT Statutes
+T1 Name of Act
+A1 AuthorL, AuthorsF I
+T2 Code
+AB Abstract
+FD Date
+YR Date
+ED Session
+VO Code Number
+LA Language
+CL Public Law Number
+ST Short Title
+UL URL
+RD 2003/01/02/
+
+
+RT Motion Picture
+T1 Title
+A1 DirectorL, DirectorF I
+T2 Program Title
+A3 ProducerL, ProducerF I
+AB Abstract
+U1 Cast MemberL, Cast MemberF I
+U5 Format
+CN Call Number
+PP Place
+FD Date
+YR Date
+SL Archive
+LL Loc. in Archive
+LA Language
+CL Episode Number
+PB Network
+ST Short Title
+UL URL
+RD 2003/01/02/
+
+
+RT Dissertation
+T1 Title
+A1 AuthorL, AuthorsF I
+AB Abstract
+CN Call Number
+PP Place
+FD Date
+YR Date
+SL Archive
+LL Loc. in Archive
+SP # of Pages
+LA Language
+CL Type
+PB University
+ST Short Title
+UL URL
+RD 2003/01/02/
+
+
+RT Video
+T1 Title
+A1 DirectorL, DirectorF I
+A3 ProducerL, ProducerF I
+AB Abstract
+U1 Cast MemberL, Cast MemberF I
+U5 Format
+CN Call Number
+PP Place
+FD Date
+YR Date
+SL Archive
+LL Loc. in Archive
+VO Volume
+LA Language
+PB Studio
+SN ISBN
+ST Short Title
+UL URL
+RD 2003/01/02/
+
+
+RT Web Page
+T1 Title
+A1 AuthorL, AuthorsF I
+T2 Website Title
+A4 TranslatorL, TranslatorF I
+AB Abstract
+FD Date
+YR Date
+LA Language
+CL Website Type
+ST Short Title
+UL URL
+RD 2003/01/02/
+
+

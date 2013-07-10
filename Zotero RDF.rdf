@@ -1,0 +1,2375 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/">
+    <bib:Illustration rdf:about="URL">
+        <z:itemType>artwork</z:itemType>
+        <z:artists>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ArtistL</foaf:surname>
+                        <foaf:givenname>ArtistF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:artists>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ContributorL</foaf:surname>
+                        <foaf:givenname>ContributorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:title>Title</dc:title>
+        <dcterms:abstract>Abstract</dcterms:abstract>
+        <z:medium>Medium</z:medium>
+        <z:artworkSize>Artwork Size</z:artworkSize>
+        <dc:date>Date</dc:date>
+        <z:language>Language</z:language>
+        <z:shortTitle>Short Title</z:shortTitle>
+        <z:archive>Archive</z:archive>
+        <dc:coverage>Loc. in Archive</dc:coverage>
+        <z:libraryCatalog>Library Catalog</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>Call Number</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2003-01-02</dcterms:dateSubmitted>
+        <dc:rights>Rights</dc:rights>
+        <dc:description>Extra</dc:description>
+    </bib:Illustration>
+    <bib:Recording rdf:about="urn:isbn:ISBN">
+        <z:itemType>audioRecording</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dcterms:alternative>Series Title</dcterms:alternative>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Place</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Label</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:performers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>PerformerL</foaf:surname>
+                        <foaf:givenname>PerformerF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:performers>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ContributorL</foaf:surname>
+                        <foaf:givenname>ContributorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <z:composers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ComposerL</foaf:surname>
+                        <foaf:givenname>ComposerF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:composers>
+        <z:wordsBys>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Words ByL</foaf:surname>
+                        <foaf:givenname>Words ByF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:wordsBys>
+        <dc:title>Title</dc:title>
+        <dcterms:abstract>Abstract</dcterms:abstract>
+        <z:medium>Format</z:medium>
+        <prism:volume>Volume</prism:volume>
+        <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+        <dc:date>Date</dc:date>
+        <z:runningTime>Running Time</z:runningTime>
+        <z:language>Language</z:language>
+        <dc:identifier>ISBN ISBN</dc:identifier>
+        <z:shortTitle>Short Title</z:shortTitle>
+        <z:archive>Archive</z:archive>
+        <dc:coverage>Loc. in Archive</dc:coverage>
+        <z:libraryCatalog>Library Catalog</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>Call Number</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2003-01-02</dcterms:dateSubmitted>
+        <dc:rights>Rights</dc:rights>
+        <dc:description>Extra</dc:description>
+    </bib:Recording>
+    <bib:Legislation rdf:about="#item_1982">
+        <z:itemType>bill</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Part><dc:title>Section</dc:title></bib:Part>
+        </dcterms:isPartOf>
+        <z:sponsors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>SponsorL</foaf:surname>
+                        <foaf:givenname>SponsorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:sponsors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ContributorL</foaf:surname>
+                        <foaf:givenname>ContributorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <z:cosponsors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>CosponsorL</foaf:surname>
+                        <foaf:givenname>CosponsorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:cosponsors>
+        <dc:title>Title</dc:title>
+        <dcterms:abstract>Abstract</dcterms:abstract>
+        <prism:number>Bill Number</prism:number>
+        <z:code>Code</z:code>
+        <prism:volume>Code Volume</prism:volume>
+        <bib:pages>Code Pages</bib:pages>
+        <z:legislativeBody>Legislative Body</z:legislativeBody>
+        <z:session>Session</z:session>
+        <z:history>History</z:history>
+        <dc:date>Date</dc:date>
+        <z:language>Language</z:language>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2003-01-02</dcterms:dateSubmitted>
+        <z:shortTitle>Short Title</z:shortTitle>
+        <dc:rights>Rights</dc:rights>
+        <dc:description>Extra</dc:description>
+    </bib:Legislation>
+    <bib:Document rdf:about="#item_1926">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>Blog Title</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>AuthorL</foaf:surname>
+                        <foaf:givenname>AuthorsF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ContributorL</foaf:surname>
+                        <foaf:givenname>ContributorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <z:commenters>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>CommenterrL</foaf:surname>
+                        <foaf:givenname>CommenterrF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:commenters>
+        <dc:title>Title</dc:title>
+        <dcterms:abstract>Abstract</dcterms:abstract>
+        <z:type>Website Type</z:type>
+        <dc:date>Date</dc:date>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2003-01-02</dcterms:dateSubmitted>
+        <z:language>Language</z:language>
+        <z:shortTitle>Short Title</z:shortTitle>
+        <dc:rights>Rights</dc:rights>
+        <dc:description>Extra</dc:description>
+    </bib:Document>
+    <bib:Book rdf:about="#item_1927">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Series</dc:title>
+                <dc:identifier>Series Number</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Place</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Publisher</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>AuthorL</foaf:surname>
+                        <foaf:givenname>AuthorsF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ContributorL</foaf:surname>
+                        <foaf:givenname>ContributorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>EditorL</foaf:surname>
+                        <foaf:givenname>EditorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <z:seriesEditors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Series EditorL</foaf:surname>
+                        <foaf:givenname>SeriesF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:seriesEditors>
+        <z:translators>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>TranslatorL</foaf:surname>
+                        <foaf:givenname>TranslatorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:translators>
+        <dc:title>Title</dc:title>
+        <dcterms:abstract>Abstract</dcterms:abstract>
+        <prism:volume>Volume</prism:volume>
+        <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+        <prism:edition>Edition</prism:edition>
+        <dc:date>Date</dc:date>
+        <z:numPages># of Pages</z:numPages>
+        <z:language>Language</z:language>
+        <dc:identifier>ISBN ISBN</dc:identifier>
+        <z:shortTitle>Short Title</z:shortTitle>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2003-01-02</dcterms:dateSubmitted>
+        <z:archive>Archive</z:archive>
+        <dc:coverage>Loc. in Archive</dc:coverage>
+        <z:libraryCatalog>Library Catalog</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>Call Number</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:rights>Rights</dc:rights>
+        <dc:description>Extra</dc:description>
+    </bib:Book>
+    <bib:BookSection rdf:about="#item_1932">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                        <dc:title>Series</dc:title>
+                        <dc:identifier>Series Number</dc:identifier>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <dc:title>Book Title</dc:title>
+                <prism:volume>Volume</prism:volume>
+                <dc:identifier>ISBN ISBN</dc:identifier>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Place</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Publisher</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>AuthorL</foaf:surname>
+                        <foaf:givenname>AuthorsF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ContributorL</foaf:surname>
+                        <foaf:givenname>ContributorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>EditorL</foaf:surname>
+                        <foaf:givenname>EditorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <z:seriesEditors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Series EditorL</foaf:surname>
+                        <foaf:givenname>SeriesF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:seriesEditors>
+        <z:translators>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>TranslatorL</foaf:surname>
+                        <foaf:givenname>TranslatorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:translators>
+        <z:bookAuthors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Book AuthorL</foaf:surname>
+                        <foaf:givenname>BookF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:bookAuthors>
+        <dc:title>Title</dc:title>
+        <dcterms:abstract>Abstract</dcterms:abstract>
+        <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+        <prism:edition>Edition</prism:edition>
+        <dc:date>Date</dc:date>
+        <bib:pages>Pages</bib:pages>
+        <z:language>Language</z:language>
+        <z:shortTitle>Short Title</z:shortTitle>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2003-01-02</dcterms:dateSubmitted>
+        <z:archive>Archive</z:archive>
+        <dc:coverage>Loc. in Archive</dc:coverage>
+        <z:libraryCatalog>Library Catalog</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>Call Number</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:rights>Rights</dc:rights>
+        <dc:description>Extra</dc:description>
+    </bib:BookSection>
+    <bib:Document rdf:about="#item_1942">
+        <z:itemType>case</z:itemType>
+        <dcterms:isPartOf>
+            <bib:CourtReporter>
+                <dc:title>ReporterL, ReporterF</dc:title>
+                <prism:volume>Volume</prism:volume>
+                <prism:number>Docket number</prism:number>
+            </bib:CourtReporter>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>AuthorL</foaf:surname>
+                        <foaf:givenname>AuthorsF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ContributorL</foaf:surname>
+                        <foaf:givenname>ContributorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <z:counsels>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>CounselL</foaf:surname>
+                        <foaf:givenname>CounselF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:counsels>
+        <dc:title>Title</dc:title>
+        <dcterms:abstract>Abstract</dcterms:abstract>
+        <z:court>Court</z:court>
+        <bib:pages>First Page</bib:pages>
+        <z:history>History</z:history>
+        <dc:date>Date Decided</dc:date>
+        <z:language>Language</z:language>
+        <z:shortTitle>Short Title</z:shortTitle>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2003-01-02</dcterms:dateSubmitted>
+        <dc:rights>Rights</dc:rights>
+        <dc:description>Extra</dc:description>
+        <z:displayTitle>Title (ReporterL, ReporterF)</z:displayTitle>
+    </bib:Document>
+    <bib:Data rdf:about="#item_1943">
+        <z:itemType>computerProgram</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dcterms:alternative>Series Title</dcterms:alternative>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Place</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Publisher</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:programmers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ProgrammerL</foaf:surname>
+                        <foaf:givenname>ProgrammerF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:programmers>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ContributorL</foaf:surname>
+                        <foaf:givenname>ContributorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:title>Title</dc:title>
+        <dcterms:abstract>Abstract</dcterms:abstract>
+        <prism:edition>Version</prism:edition>
+        <dc:date>Date</dc:date>
+        <z:system>System</z:system>
+        <z:programmingLanguage>Language</z:programmingLanguage>
+        <dc:identifier>ISBN ISBN</dc:identifier>
+        <z:shortTitle>Short Title</z:shortTitle>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dc:rights>Rights</dc:rights>
+        <z:archive>Archive</z:archive>
+        <dc:coverage>Loc. in Archive</dc:coverage>
+        <z:libraryCatalog>Library Catalog</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>Call Number</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dcterms:dateSubmitted>2003-01-02</dcterms:dateSubmitted>
+        <dc:description>Extra</dc:description>
+    </bib:Data>
+    <rdf:Description rdf:about="#item_1944">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Series><dc:title>Series</dc:title></bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Place</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Publisher</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>AuthorL</foaf:surname>
+                        <foaf:givenname>AuthorsF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ContributorL</foaf:surname>
+                        <foaf:givenname>ContributorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>EditorL</foaf:surname>
+                        <foaf:givenname>EditorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <z:seriesEditors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Series EditorL</foaf:surname>
+                        <foaf:givenname>SeriesF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:seriesEditors>
+        <z:translators>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>TranslatorL</foaf:surname>
+                        <foaf:givenname>TranslatorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:translators>
+        <dc:title>Title</dc:title>
+        <dcterms:abstract>Abstract</dcterms:abstract>
+        <dc:date>Date</dc:date>
+        <dc:title>Proceedings Title</dc:title>
+        <bib:presentedAt>
+           <bib:Conference><dc:title>Conference Name</dc:title></bib:Conference>
+        </bib:presentedAt>
+        <prism:volume>Volume</prism:volume>
+        <bib:pages>Pages</bib:pages>
+        <z:language>Language</z:language>
+        <dc:identifier>DOI DOI</dc:identifier>
+        <dc:identifier>ISBN ISBN</dc:identifier>
+        <z:shortTitle>Short Title</z:shortTitle>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2003-01-02</dcterms:dateSubmitted>
+        <z:archive>Archive</z:archive>
+        <dc:coverage>Loc. in Archive</dc:coverage>
+        <z:libraryCatalog>Library Catalog</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>Call Number</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:rights>Rights</dc:rights>
+        <dc:description>Extra</dc:description>
+    </rdf:Description>
+    <rdf:Description rdf:about="#item_1945">
+        <z:itemType>dictionaryEntry</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Series</dc:title>
+                <dc:identifier>Series Number</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Place</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Publisher</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>AuthorL</foaf:surname>
+                        <foaf:givenname>AuthorsF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ContributorL</foaf:surname>
+                        <foaf:givenname>ContributorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>EditorL</foaf:surname>
+                        <foaf:givenname>EditorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <z:seriesEditors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Series EditorL</foaf:surname>
+                        <foaf:givenname>SeriesF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:seriesEditors>
+        <z:translators>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>TranslatorL</foaf:surname>
+                        <foaf:givenname>TranslatorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:translators>
+        <dc:title>Title</dc:title>
+        <dcterms:abstract>Abstract</dcterms:abstract>
+        <dc:title>Dictionary Title</dc:title>
+        <prism:volume>Volume</prism:volume>
+        <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+        <prism:edition>Edition</prism:edition>
+        <dc:date>Date</dc:date>
+        <bib:pages>Pages</bib:pages>
+        <z:language>Language</z:language>
+        <dc:identifier>ISBN ISBN</dc:identifier>
+        <z:shortTitle>Short Title</z:shortTitle>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2003-01-02</dcterms:dateSubmitted>
+        <z:archive>Archive</z:archive>
+        <dc:coverage>Loc. in Archive</dc:coverage>
+        <z:libraryCatalog>Library Catalog</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>Call Number</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:rights>Rights</dc:rights>
+        <dc:description>Extra</dc:description>
+    </rdf:Description>
+    <rdf:Description rdf:about="#item_1946">
+        <z:itemType>document</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>Publisher</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>AuthorL</foaf:surname>
+                        <foaf:givenname>AuthorsF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ContributorL</foaf:surname>
+                        <foaf:givenname>ContributorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>EditorL</foaf:surname>
+                        <foaf:givenname>EditorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <z:reviewedAuthors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Reviewed AuthorL</foaf:surname>
+                        <foaf:givenname>Reviewed AuthorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:reviewedAuthors>
+        <z:translators>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>TranslatorL</foaf:surname>
+                        <foaf:givenname>TranslatorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:translators>
+        <dc:title>Title</dc:title>
+        <dcterms:abstract>Abstract</dcterms:abstract>
+        <dc:date>Date</dc:date>
+        <z:language>Language</z:language>
+        <z:shortTitle>Short Title</z:shortTitle>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2003-01-02</dcterms:dateSubmitted>
+        <z:archive>Archive</z:archive>
+        <dc:coverage>Loc. in Archive</dc:coverage>
+        <z:libraryCatalog>Library Catalog</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>Call Number</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:rights>Rights</dc:rights>
+        <dc:description>Extra</dc:description>
+    </rdf:Description>
+    <bib:Letter rdf:about="#item_1947">
+        <z:itemType>email</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>AuthorL</foaf:surname>
+                        <foaf:givenname>AuthorsF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ContributorL</foaf:surname>
+                        <foaf:givenname>ContributorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <z:recipients>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>RecipientL</foaf:surname>
+                        <foaf:givenname>RecipientF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:recipients>
+        <dc:title>Subject</dc:title>
+        <dcterms:abstract>Abstract</dcterms:abstract>
+        <dc:date>Date</dc:date>
+        <z:shortTitle>Short Title</z:shortTitle>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2003-01-02</dcterms:dateSubmitted>
+        <z:language>Language</z:language>
+        <dc:rights>Rights</dc:rights>
+        <dc:description>Extra</dc:description>
+    </bib:Letter>
+    <rdf:Description rdf:about="#item_1948">
+        <z:itemType>encyclopediaArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Series</dc:title>
+                <dc:identifier>Series Number</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Place</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Publisher</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>AuthorL</foaf:surname>
+                        <foaf:givenname>AuthorsF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ContributorL</foaf:surname>
+                        <foaf:givenname>ContributorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>EditorL</foaf:surname>
+                        <foaf:givenname>EditorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <z:seriesEditors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Series EditorL</foaf:surname>
+                        <foaf:givenname>SeriesF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:seriesEditors>
+        <z:translators>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>TranslatorL</foaf:surname>
+                        <foaf:givenname>TranslatorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:translators>
+        <dc:title>Title</dc:title>
+        <dcterms:abstract>Abstract</dcterms:abstract>
+        <dc:title>Encyclopedia Title</dc:title>
+        <prism:volume>Volume</prism:volume>
+        <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+        <prism:edition>Edition</prism:edition>
+        <dc:date>Date</dc:date>
+        <bib:pages>Pages</bib:pages>
+        <dc:identifier>ISBN ISBN</dc:identifier>
+        <z:shortTitle>Short Title</z:shortTitle>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2003-01-02</dcterms:dateSubmitted>
+        <z:language>Language</z:language>
+        <z:archive>Archive</z:archive>
+        <dc:coverage>Loc. in Archive</dc:coverage>
+        <z:libraryCatalog>Library Catalog</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>Call Number</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:rights>Rights</dc:rights>
+        <dc:description>Extra</dc:description>
+    </rdf:Description>
+    <bib:MotionPicture rdf:about="#item_1949">
+        <z:itemType>film</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>Publisher</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <z:directors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>DirectorL</foaf:surname>
+                        <foaf:givenname>DirectorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:directors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ContributorL</foaf:surname>
+                        <foaf:givenname>ContributorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <z:producers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ProducerL</foaf:surname>
+                        <foaf:givenname>ProducerF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:producers>
+        <z:scriptwriters>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ScriptwriterL</foaf:surname>
+                        <foaf:givenname>ScriptwriterF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:scriptwriters>
+        <dc:title>Title</dc:title>
+        <dcterms:abstract>Abstract</dcterms:abstract>
+        <dc:date>Date</dc:date>
+        <z:type>Genre</z:type>
+        <z:medium>Format</z:medium>
+        <z:runningTime>Running Time</z:runningTime>
+        <z:language>Language</z:language>
+        <z:shortTitle>Short Title</z:shortTitle>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2003-01-02</dcterms:dateSubmitted>
+        <z:archive>Archive</z:archive>
+        <dc:coverage>Loc. in Archive</dc:coverage>
+        <z:libraryCatalog>Library Catalog</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>Call Number</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:rights>Rights</dc:rights>
+        <dc:description>Extra</dc:description>
+    </bib:MotionPicture>
+    <bib:Document rdf:about="#item_1950">
+        <z:itemType>forumPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Forum><dc:title>Forum/Listserv Title</dc:title></z:Forum>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>AuthorL</foaf:surname>
+                        <foaf:givenname>AuthorsF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ContributorL</foaf:surname>
+                        <foaf:givenname>ContributorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:title>Title</dc:title>
+        <dcterms:abstract>Abstract</dcterms:abstract>
+        <z:type>Post Type</z:type>
+        <dc:date>Date</dc:date>
+        <z:language>Language</z:language>
+        <z:shortTitle>Short Title</z:shortTitle>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2003-01-02</dcterms:dateSubmitted>
+        <dc:rights>Rights</dc:rights>
+        <dc:description>Extra</dc:description>
+    </bib:Document>
+    <bib:Report rdf:about="#item_1951">
+        <z:itemType>hearing</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Place</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Publisher</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>AuthorL</foaf:surname>
+                        <foaf:givenname>AuthorsF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:title>Title</dc:title>
+        <dcterms:abstract>Abstract</dcterms:abstract>
+        <z:committee>Committee</z:committee>
+        <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+        <prism:number>Document Number</prism:number>
+        <bib:pages>Pages</bib:pages>
+        <z:legislativeBody>Legislative Body</z:legislativeBody>
+        <z:session>Session</z:session>
+        <z:history>History</z:history>
+        <dc:date>Date</dc:date>
+        <z:language>Language</z:language>
+        <z:shortTitle>Short Title</z:shortTitle>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2003-01-02</dcterms:dateSubmitted>
+        <dc:rights>Rights</dc:rights>
+        <dc:description>Extra</dc:description>
+    </bib:Report>
+    <bib:Letter rdf:about="#item_1953">
+        <z:itemType>instantMessage</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>AuthorL</foaf:surname>
+                        <foaf:givenname>AuthorsF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ContributorL</foaf:surname>
+                        <foaf:givenname>ContributorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <z:recipients>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>RecipientL</foaf:surname>
+                        <foaf:givenname>RecipientF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:recipients>
+        <dc:title>Title</dc:title>
+        <dcterms:abstract>Abstract</dcterms:abstract>
+        <dc:date>Date</dc:date>
+        <z:language>Language</z:language>
+        <z:shortTitle>Short Title</z:shortTitle>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2003-01-02</dcterms:dateSubmitted>
+        <dc:rights>Rights</dc:rights>
+        <dc:description>Extra</dc:description>
+    </bib:Letter>
+    <bib:Interview rdf:about="#item_1954">
+        <z:itemType>interview</z:itemType>
+        <z:interviewees>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Interview WithL</foaf:surname>
+                        <foaf:givenname>AuthorsF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:interviewees>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ContributorL</foaf:surname>
+                        <foaf:givenname>ContributorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <z:interviewers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>InterviewerL</foaf:surname>
+                        <foaf:givenname>InterviewerF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:interviewers>
+        <z:translators>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>TranslatorL</foaf:surname>
+                        <foaf:givenname>TranslatorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:translators>
+        <dc:title>Title</dc:title>
+        <dcterms:abstract>Abstract</dcterms:abstract>
+        <dc:date>Date</dc:date>
+        <z:medium>Medium</z:medium>
+        <z:language>Language</z:language>
+        <z:shortTitle>Short Title</z:shortTitle>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2003-01-02</dcterms:dateSubmitted>
+        <z:archive>Archive</z:archive>
+        <dc:coverage>Loc. in Archive</dc:coverage>
+        <z:libraryCatalog>Library Catalog</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>Call Number</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:rights>Rights</dc:rights>
+        <dc:description>Extra</dc:description>
+    </bib:Interview>
+    <bib:Article rdf:about="#item_1933">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:ISSN"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>AuthorL</foaf:surname>
+                        <foaf:givenname>AuthorsF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ContributorL</foaf:surname>
+                        <foaf:givenname>ContributorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>EditorL</foaf:surname>
+                        <foaf:givenname>EditorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <z:reviewedAuthors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Reviewed AuthorL</foaf:surname>
+                        <foaf:givenname>ReviewedF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:reviewedAuthors>
+        <z:translators>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>TranslatorL</foaf:surname>
+                        <foaf:givenname>TranslatorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:translators>
+        <dc:title>Title</dc:title>
+        <dcterms:abstract>Abstract</dcterms:abstract>
+        <bib:pages>Pages</bib:pages>
+        <dc:date>Date</dc:date>
+        <z:language>Language</z:language>
+        <z:shortTitle>Short Title</z:shortTitle>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2003-01-02</dcterms:dateSubmitted>
+        <z:archive>Archive</z:archive>
+        <dc:coverage>Loc. in Archive</dc:coverage>
+        <z:libraryCatalog>Library Catalog</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>Call Number</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:rights>Rights</dc:rights>
+        <dc:description>Extra</dc:description>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:ISSN">
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Series</dc:title>
+                <dcterms:alternative>Series Title</dcterms:alternative>
+                <dc:description>Series Text</dc:description>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:title>Publication</dc:title>
+        <prism:volume>Volume</prism:volume>
+        <prism:number>Issue</prism:number>
+        <dcterms:alternative>Journal Abbr</dcterms:alternative>
+        <dc:identifier>DOI DOI</dc:identifier>
+        <dc:identifier>ISSN ISSN</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="#item_1967">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                        <dc:title>Series</dc:title>
+                        <dcterms:alternative>Series Title</dcterms:alternative>
+                        <dc:description>Series Text</dc:description>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <dc:title>Publication</dc:title>
+                <prism:volume>Volume</prism:volume>
+                <prism:number>Issue</prism:number>
+                <dcterms:alternative>Journal Abbr</dcterms:alternative>
+                <dc:identifier>DOI DOI</dc:identifier>
+                <dc:identifier>ISSN ISSN</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>AuthorL</foaf:surname>
+                        <foaf:givenname>AuthorsF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ContributorL</foaf:surname>
+                        <foaf:givenname>ContributorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>EditorL</foaf:surname>
+                        <foaf:givenname>EditorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <z:reviewedAuthors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Reviewed AuthorL</foaf:surname>
+                        <foaf:givenname>ReviewedF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:reviewedAuthors>
+        <z:translators>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>TranslatorL</foaf:surname>
+                        <foaf:givenname>TranslatorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:translators>
+        <dcterms:isReferencedBy rdf:resource="#item_1983"/>
+        <link:link rdf:resource="#item_1985"/>
+        <link:link rdf:resource="#item_1984"/>
+        <dc:title>Title (attachment test)</dc:title>
+        <dcterms:abstract>Abstract</dcterms:abstract>
+        <bib:pages>Pages</bib:pages>
+        <dc:date>Date</dc:date>
+        <z:language>Language</z:language>
+        <z:shortTitle>Short Title</z:shortTitle>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2003-01-02</dcterms:dateSubmitted>
+        <z:archive>Archive</z:archive>
+        <dc:coverage>Loc. in Archive</dc:coverage>
+        <z:libraryCatalog>Library Catalog</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>Call Number</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:rights>Rights</dc:rights>
+        <dc:description>Extra</dc:description>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_1983">
+       <rdf:value>&lt;p>Note&lt;/p></rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_1985">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Link to URI</dc:title>
+        <dcterms:dateSubmitted>2013-06-10 01:49:09</dcterms:dateSubmitted>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.google.com/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_1984">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/1984/test.txt"/>
+        <dc:title>test.txt</dc:title>
+        <link:type>text/plain</link:type>
+        <link:charset>5</link:charset>
+    </z:Attachment>
+    <bib:Letter rdf:about="#item_1955">
+        <z:itemType>letter</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>AuthorL</foaf:surname>
+                        <foaf:givenname>AuthorsF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ContributorL</foaf:surname>
+                        <foaf:givenname>ContributorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <z:recipients>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>RecipientL</foaf:surname>
+                        <foaf:givenname>RecipientF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:recipients>
+        <dc:title>Title</dc:title>
+        <dcterms:abstract>Abstract</dcterms:abstract>
+        <z:type>Type</z:type>
+        <dc:date>Date</dc:date>
+        <z:language>Language</z:language>
+        <z:shortTitle>Short Title</z:shortTitle>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2003-01-02</dcterms:dateSubmitted>
+        <z:archive>Archive</z:archive>
+        <dc:coverage>Loc. in Archive</dc:coverage>
+        <z:libraryCatalog>Library Catalog</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>Call Number</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:rights>Rights</dc:rights>
+        <dc:description>Extra</dc:description>
+    </bib:Letter>
+    <bib:Article rdf:about="#item_1956">
+        <z:itemType>magazineArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Periodical>
+                <dc:title>Publication</dc:title>
+                <prism:volume>Volume</prism:volume>
+                <prism:number>Issue</prism:number>
+                <dc:identifier>ISSN ISSN</dc:identifier>
+            </bib:Periodical>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>AuthorL</foaf:surname>
+                        <foaf:givenname>AuthorsF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ContributorL</foaf:surname>
+                        <foaf:givenname>ContributorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <z:reviewedAuthors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Reviewed AuthorL</foaf:surname>
+                        <foaf:givenname>Reviewed AuthorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:reviewedAuthors>
+        <z:translators>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>TranslatorL</foaf:surname>
+                        <foaf:givenname>TranslatorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:translators>
+        <dc:title>Title</dc:title>
+        <dcterms:abstract>Abstract</dcterms:abstract>
+        <dc:date>Date</dc:date>
+        <bib:pages>Pages</bib:pages>
+        <z:language>Language</z:language>
+        <z:shortTitle>Short Title</z:shortTitle>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2003-01-02</dcterms:dateSubmitted>
+        <z:archive>Archive</z:archive>
+        <dc:coverage>Loc. in Archive</dc:coverage>
+        <z:libraryCatalog>Library Catalog</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>Call Number</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:rights>Rights</dc:rights>
+        <dc:description>Extra</dc:description>
+    </bib:Article>
+    <bib:Manuscript rdf:about="#item_1957">
+        <z:itemType>manuscript</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Place</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>AuthorL</foaf:surname>
+                        <foaf:givenname>AuthorsF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ContributorL</foaf:surname>
+                        <foaf:givenname>ContributorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <z:translators>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>TranslatorL</foaf:surname>
+                        <foaf:givenname>TranslatorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:translators>
+        <dc:title>Title</dc:title>
+        <dcterms:abstract>Abstract</dcterms:abstract>
+        <z:type>Type</z:type>
+        <dc:date>Date</dc:date>
+        <z:numPages># of Pages</z:numPages>
+        <z:language>Language</z:language>
+        <z:shortTitle>Short Title</z:shortTitle>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2003-01-02</dcterms:dateSubmitted>
+        <z:archive>Archive</z:archive>
+        <dc:coverage>Loc. in Archive</dc:coverage>
+        <z:libraryCatalog>Library Catalog</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>Call Number</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:rights>Rights</dc:rights>
+        <dc:description>Extra</dc:description>
+    </bib:Manuscript>
+    <bib:Image rdf:about="#item_1958">
+        <z:itemType>map</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dcterms:alternative>Series Title</dcterms:alternative>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Place</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Publisher</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:cartographers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>AuthorL</foaf:surname>
+                        <foaf:givenname>AuthorsF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:cartographers>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ContributorL</foaf:surname>
+                        <foaf:givenname>ContributorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <z:seriesEditors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Series EditorL</foaf:surname>
+                        <foaf:givenname>SeriesF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:seriesEditors>
+        <dc:title>Title</dc:title>
+        <dcterms:abstract>Abstract</dcterms:abstract>
+        <z:type>Type</z:type>
+        <z:scale>Scale</z:scale>
+        <prism:edition>Edition</prism:edition>
+        <dc:date>Date</dc:date>
+        <z:language>Language</z:language>
+        <dc:identifier>ISBN ISBN</dc:identifier>
+        <z:shortTitle>Short Title</z:shortTitle>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2003-01-02</dcterms:dateSubmitted>
+        <z:archive>Archive</z:archive>
+        <dc:coverage>Loc. in Archive</dc:coverage>
+        <z:libraryCatalog>Library Catalog</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>Call Number</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:rights>Rights</dc:rights>
+        <dc:description>Extra</dc:description>
+    </bib:Image>
+    <bib:Article rdf:about="#item_1963">
+        <z:itemType>newspaperArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Part>
+                <dc:title>Section</dc:title>
+                <dcterms:isPartOf>
+                    <bib:Newspaper>
+                        <dc:title>Publication</dc:title>
+                        <dc:identifier>ISSN ISSN</dc:identifier>
+                    </bib:Newspaper>
+                </dcterms:isPartOf>
+            </bib:Part>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Place</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>AuthorL</foaf:surname>
+                        <foaf:givenname>AuthorsF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ContributorL</foaf:surname>
+                        <foaf:givenname>ContributorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <z:translators>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>TranslatorL</foaf:surname>
+                        <foaf:givenname>TranslatorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:translators>
+        <z:reviewedAuthors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Reviewed AuthorL</foaf:surname>
+                        <foaf:givenname>Reviewed AuthorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:reviewedAuthors>
+        <dc:title>Title</dc:title>
+        <dcterms:abstract>Abstract</dcterms:abstract>
+        <prism:edition>Edition</prism:edition>
+        <dc:date>Date</dc:date>
+        <bib:pages>Pages</bib:pages>
+        <z:language>Language</z:language>
+        <z:shortTitle>Short Title</z:shortTitle>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2003-01-02</dcterms:dateSubmitted>
+        <z:archive>Archive</z:archive>
+        <dc:coverage>Loc. in Archive</dc:coverage>
+        <z:libraryCatalog>Library Catalog</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>Call Number</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:rights>Rights</dc:rights>
+        <dc:description>Extra</dc:description>
+    </bib:Article>
+    <bib:Patent rdf:about="#item_1964">
+        <z:itemType>patent</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Place</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:inventors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>InventorL</foaf:surname>
+                        <foaf:givenname>InventorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:inventors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ContributorL</foaf:surname>
+                        <foaf:givenname>ContributorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <z:attorneyAgents>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Attorney/AgentL</foaf:surname>
+                        <foaf:givenname>Attorney/AgentF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:attorneyAgents>
+        <dc:title>Title</dc:title>
+        <dcterms:abstract>Abstract</dcterms:abstract>
+        <z:country>Country</z:country>
+        <z:assignee>Assignee</z:assignee>
+        <z:issuingAuthority>Issuing Authority</z:issuingAuthority>
+        <prism:number>Patent Number</prism:number>
+        <z:filingDate>0000-00-00 Filing Date</z:filingDate>
+        <bib:pages>Pages</bib:pages>
+        <z:applicationNumber>Application Number</z:applicationNumber>
+        <z:priorityNumbers>Priority Number</z:priorityNumbers>
+        <dc:date>Issue Date</dc:date>
+        <z:references>References</z:references>
+        <z:legalStatus>Legal Status</z:legalStatus>
+        <z:language>Language</z:language>
+        <z:shortTitle>Short Title</z:shortTitle>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2003-01-02</dcterms:dateSubmitted>
+        <dc:rights>Rights</dc:rights>
+        <dc:description>Extra</dc:description>
+    </bib:Patent>
+    <bib:Recording rdf:about="#item_1965">
+        <z:itemType>podcast</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dcterms:alternative>Series Title</dcterms:alternative>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <z:podcasters>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>PodcasterL</foaf:surname>
+                        <foaf:givenname>PodcasterF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:podcasters>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ContributorL</foaf:surname>
+                        <foaf:givenname>ContributorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <z:guests>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>GuestL</foaf:surname>
+                        <foaf:givenname>GuestF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:guests>
+        <dc:title>Title</dc:title>
+        <dcterms:abstract>Abstract</dcterms:abstract>
+        <prism:number>Episode Number</prism:number>
+        <z:medium>File Type</z:medium>
+        <z:runningTime>Running Time</z:runningTime>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2003-01-02</dcterms:dateSubmitted>
+        <z:language>Language</z:language>
+        <z:shortTitle>Short Title</z:shortTitle>
+        <dc:rights>Rights</dc:rights>
+        <dc:description>Extra</dc:description>
+    </bib:Recording>
+    <bib:ConferenceProceedings rdf:about="#item_1968">
+        <z:itemType>presentation</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Place</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:presenters>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>PresenterL</foaf:surname>
+                        <foaf:givenname>PresenterF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:presenters>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ContributorL</foaf:surname>
+                        <foaf:givenname>ContributorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:title>Title</dc:title>
+        <dcterms:abstract>Abstract</dcterms:abstract>
+        <z:type>Type</z:type>
+        <dc:date>Date</dc:date>
+        <z:meetingName>Meeting Name</z:meetingName>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2003-01-02</dcterms:dateSubmitted>
+        <z:language>Language</z:language>
+        <z:shortTitle>Short Title</z:shortTitle>
+        <dc:rights>Rights</dc:rights>
+        <dc:description>Extra</dc:description>
+    </bib:ConferenceProceedings>
+    <bib:Recording rdf:about="#item_1969">
+        <z:itemType>radioBroadcast</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Place</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Network</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:directors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>DirectorL</foaf:surname>
+                        <foaf:givenname>DirectorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:directors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ContributorL</foaf:surname>
+                        <foaf:givenname>ContributorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <z:castMembers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cast MemberL</foaf:surname>
+                        <foaf:givenname>Cast MemberF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:castMembers>
+        <z:guests>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>GuestL</foaf:surname>
+                        <foaf:givenname>GuestF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:guests>
+        <z:producers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ProducerL</foaf:surname>
+                        <foaf:givenname>ProducerF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:producers>
+        <z:scriptwriters>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ScriptwriterL</foaf:surname>
+                        <foaf:givenname>ScriptwriterF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:scriptwriters>
+        <dc:title>Title</dc:title>
+        <dcterms:abstract>Abstract</dcterms:abstract>
+        <dc:title>Program Title</dc:title>
+        <prism:number>Episode Number</prism:number>
+        <z:medium>Format</z:medium>
+        <dc:date>Date</dc:date>
+        <z:runningTime>Running Time</z:runningTime>
+        <z:language>Language</z:language>
+        <z:shortTitle>Short Title</z:shortTitle>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2003-01-02</dcterms:dateSubmitted>
+        <z:archive>Archive</z:archive>
+        <dc:coverage>Loc. in Archive</dc:coverage>
+        <z:libraryCatalog>Library Catalog</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>Call Number</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:rights>Rights</dc:rights>
+        <dc:description>Extra</dc:description>
+    </bib:Recording>
+    <bib:Report rdf:about="#item_1970">
+        <z:itemType>report</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dcterms:alternative>Series Title</dcterms:alternative>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Place</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Institution</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>AuthorL</foaf:surname>
+                        <foaf:givenname>AuthorsF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ContributorL</foaf:surname>
+                        <foaf:givenname>ContributorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <z:seriesEditors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Series EditorL</foaf:surname>
+                        <foaf:givenname>SeriesF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:seriesEditors>
+        <z:translators>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>TranslatorL</foaf:surname>
+                        <foaf:givenname>TranslatorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:translators>
+        <dc:title>Title</dc:title>
+        <dcterms:abstract>Abstract</dcterms:abstract>
+        <prism:number>Report Number</prism:number>
+        <z:type>Report Type</z:type>
+        <dc:date>Date</dc:date>
+        <bib:pages>Pages</bib:pages>
+        <z:language>Language</z:language>
+        <z:shortTitle>Short Title</z:shortTitle>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2003-01-02</dcterms:dateSubmitted>
+        <z:archive>Archive</z:archive>
+        <dc:coverage>Loc. in Archive</dc:coverage>
+        <z:libraryCatalog>Library Catalog</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>Call Number</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:rights>Rights</dc:rights>
+        <dc:description>Extra</dc:description>
+    </bib:Report>
+    <bib:Legislation rdf:about="#item_1971">
+        <z:itemType>statute</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Part><dc:title>Section</dc:title></bib:Part>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>AuthorL</foaf:surname>
+                        <foaf:givenname>AuthorsF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ContributorL</foaf:surname>
+                        <foaf:givenname>ContributorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:title>Name of Act</dc:title>
+        <dcterms:abstract>Abstract</dcterms:abstract>
+        <z:code>Code</z:code>
+        <z:codeNumber>Code Number</z:codeNumber>
+        <prism:number>Public Law Number</prism:number>
+        <dc:date>Date</dc:date>
+        <bib:pages>Pages</bib:pages>
+        <z:session>Session</z:session>
+        <z:history>History</z:history>
+        <z:language>Language</z:language>
+        <z:shortTitle>Short Title</z:shortTitle>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2003-01-02</dcterms:dateSubmitted>
+        <dc:rights>Rights</dc:rights>
+        <dc:description>Extra</dc:description>
+    </bib:Legislation>
+    <bib:Recording rdf:about="#item_1975">
+        <z:itemType>tvBroadcast</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Place</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Network</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:directors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>DirectorL</foaf:surname>
+                        <foaf:givenname>DirectorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:directors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ContributorL</foaf:surname>
+                        <foaf:givenname>ContributorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <z:castMembers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cast MemberL</foaf:surname>
+                        <foaf:givenname>Cast MemberF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:castMembers>
+        <z:guests>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>GuestL</foaf:surname>
+                        <foaf:givenname>GuestF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:guests>
+        <z:producers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ProducerL</foaf:surname>
+                        <foaf:givenname>ProducerF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:producers>
+        <z:scriptwriters>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ScriptwriterL</foaf:surname>
+                        <foaf:givenname>ScriptwriterF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:scriptwriters>
+        <dc:title>Title</dc:title>
+        <dcterms:abstract>Abstract</dcterms:abstract>
+        <dc:title>Program Title</dc:title>
+        <prism:number>Episode Number</prism:number>
+        <z:medium>Format</z:medium>
+        <dc:date>Date</dc:date>
+        <z:runningTime>Running Time</z:runningTime>
+        <z:language>Language</z:language>
+        <z:shortTitle>Short Title</z:shortTitle>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2003-01-02</dcterms:dateSubmitted>
+        <z:archive>Archive</z:archive>
+        <dc:coverage>Loc. in Archive</dc:coverage>
+        <z:libraryCatalog>Library Catalog</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>Call Number</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:rights>Rights</dc:rights>
+        <dc:description>Extra</dc:description>
+    </bib:Recording>
+    <bib:Thesis rdf:about="#item_1972">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <foaf:name>University</foaf:name>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Place</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>AuthorL</foaf:surname>
+                        <foaf:givenname>AuthorsF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ContributorL</foaf:surname>
+                        <foaf:givenname>ContributorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:title>Title</dc:title>
+        <dcterms:abstract>Abstract</dcterms:abstract>
+        <z:type>Type</z:type>
+        <dc:date>Date</dc:date>
+        <z:numPages># of Pages</z:numPages>
+        <z:language>Language</z:language>
+        <z:shortTitle>Short Title</z:shortTitle>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2003-01-02</dcterms:dateSubmitted>
+        <z:archive>Archive</z:archive>
+        <dc:coverage>Loc. in Archive</dc:coverage>
+        <z:libraryCatalog>Library Catalog</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>Call Number</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:rights>Rights</dc:rights>
+        <dc:description>Extra</dc:description>
+    </bib:Thesis>
+    <bib:Recording rdf:about="#item_1978">
+        <z:itemType>videoRecording</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dcterms:alternative>Series Title</dcterms:alternative>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Place</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Studio</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:directors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>DirectorL</foaf:surname>
+                        <foaf:givenname>DirectorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:directors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ContributorL</foaf:surname>
+                        <foaf:givenname>ContributorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <z:castMembers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cast MemberL</foaf:surname>
+                        <foaf:givenname>Cast MemberF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:castMembers>
+        <z:producers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ProducerL</foaf:surname>
+                        <foaf:givenname>ProducerF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:producers>
+        <z:scriptwriters>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ScriptwriterL</foaf:surname>
+                        <foaf:givenname>ScriptwriterF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:scriptwriters>
+        <dc:title>Title</dc:title>
+        <dcterms:abstract>Abstract</dcterms:abstract>
+        <z:medium>Format</z:medium>
+        <prism:volume>Volume</prism:volume>
+        <z:numberOfVolumes># of Volumes</z:numberOfVolumes>
+        <dc:date>Date</dc:date>
+        <z:runningTime>Running Time</z:runningTime>
+        <z:language>Language</z:language>
+        <dc:identifier>ISBN ISBN</dc:identifier>
+        <z:shortTitle>Short Title</z:shortTitle>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2003-01-02</dcterms:dateSubmitted>
+        <z:archive>Archive</z:archive>
+        <dc:coverage>Loc. in Archive</dc:coverage>
+        <z:libraryCatalog>Library Catalog</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>Call Number</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:rights>Rights</dc:rights>
+        <dc:description>Extra</dc:description>
+    </bib:Recording>
+    <bib:Document rdf:about="#item_1976">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Website Title</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>AuthorL</foaf:surname>
+                        <foaf:givenname>AuthorsF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ContributorL</foaf:surname>
+                        <foaf:givenname>ContributorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <z:translators>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>TranslatorL</foaf:surname>
+                        <foaf:givenname>TranslatorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:translators>
+        <dc:title>Title</dc:title>
+        <dcterms:abstract>Abstract</dcterms:abstract>
+        <z:type>Website Type</z:type>
+        <dc:date>Date</dc:date>
+        <z:shortTitle>Short Title</z:shortTitle>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2003-01-02</dcterms:dateSubmitted>
+        <z:language>Language</z:language>
+        <dc:rights>Rights</dc:rights>
+        <dc:description>Extra</dc:description>
+    </bib:Document>
+</rdf:RDF>

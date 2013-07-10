@@ -1,0 +1,526 @@
+%0 Artwork
+%T Title
+%W Loc. in Archive
+%* Rights
+%L Call Number
+%U URL
+%X Abstract
+%A ArtistL, ArtistF I
+%A ContributorL, ContributorF I
+%D Date
+
+%0 Audiovisual Material
+%T Title
+%V Volume
+%C Place
+%I Label
+%W Loc. in Archive
+%* Rights
+%@ ISBN
+%L Call Number
+%U URL
+%X Abstract
+%A PerformerL, PerformerF I
+%A ContributorL, ContributorF I
+%A ComposerL, ComposerF I
+%A Words ByL, Words ByF I
+%D Date
+
+%0 Bill
+%T Title
+%V Code Volume
+%P Code Pages
+%* Rights
+%U URL
+%X Abstract
+%A SponsorL, SponsorF I
+%A ContributorL, ContributorF I
+%A CosponsorL, CosponsorF I
+%D Date
+
+%0 Web Page
+%T Title
+%R Website Type
+%* Rights
+%U URL
+%X Abstract
+%B Blog Title
+%A AuthorL, AuthorsF I
+%A ContributorL, ContributorF I
+%A CommenterrL, CommenterrF I
+%D Date
+
+%0 Book
+%T Title
+%S Series
+%V Volume
+%C Place
+%I Publisher
+%W Loc. in Archive
+%* Rights
+%@ ISBN
+%L Call Number
+%U URL
+%7 Edition
+%X Abstract
+%A AuthorL, AuthorsF I
+%A ContributorL, ContributorF I
+%E EditorL, EditorF I
+%A Series EditorL, SeriesF I
+%? TranslatorL, TranslatorF I
+%D Date
+
+%0 Book Section
+%T Title
+%S Series
+%V Volume
+%C Place
+%I Publisher
+%P Pages
+%W Loc. in Archive
+%* Rights
+%@ ISBN
+%L Call Number
+%U URL
+%7 Edition
+%X Abstract
+%B Book Title
+%A AuthorL, AuthorsF I
+%A ContributorL, ContributorF I
+%E EditorL, EditorF I
+%A Series EditorL, SeriesF I
+%? TranslatorL, TranslatorF I
+%A Book AuthorL, BookF I
+%D Date
+
+%0 Case
+%T Title
+%V Volume
+%P First Page
+%* Rights
+%U URL
+%X Abstract
+%A AuthorL, AuthorsF I
+%A ContributorL, ContributorF I
+%A CounselL, CounselF I
+%D Date Decided
+
+%0 Computer Program
+%T Title
+%C Place
+%I Publisher
+%W Loc. in Archive
+%* Rights
+%@ ISBN
+%L Call Number
+%U URL
+%X Abstract
+%A ProgrammerL, ProgrammerF I
+%A ContributorL, ContributorF I
+%D Date
+
+%0 Conference Paper
+%T Title
+%S Series
+%V Volume
+%C Place
+%I Publisher
+%P Pages
+%W Loc. in Archive
+%* Rights
+%@ ISBN
+%L Call Number
+%U URL
+%X Abstract
+%B Proceedings Title
+%A AuthorL, AuthorsF I
+%A ContributorL, ContributorF I
+%E EditorL, EditorF I
+%A Series EditorL, SeriesF I
+%? TranslatorL, TranslatorF I
+%D Date
+
+%0 Dictionary
+%T Title
+%S Series
+%V Volume
+%C Place
+%I Publisher
+%P Pages
+%W Loc. in Archive
+%* Rights
+%@ ISBN
+%L Call Number
+%U URL
+%7 Edition
+%X Abstract
+%B Dictionary Title
+%A AuthorL, AuthorsF I
+%A ContributorL, ContributorF I
+%E EditorL, EditorF I
+%A Series EditorL, SeriesF I
+%? TranslatorL, TranslatorF I
+%D Date
+
+%0 Generic
+%T Title
+%I Publisher
+%W Loc. in Archive
+%* Rights
+%L Call Number
+%U URL
+%X Abstract
+%A AuthorL, AuthorsF I
+%A ContributorL, ContributorF I
+%E EditorL, EditorF I
+%A Reviewed AuthorL, Reviewed AuthorF I
+%? TranslatorL, TranslatorF I
+%D Date
+
+%0 Personal Communication
+%T Subject
+%* Rights
+%U URL
+%X Abstract
+%A AuthorL, AuthorsF I
+%A ContributorL, ContributorF I
+%A RecipientL, RecipientF I
+%D Date
+
+%0 Encyclopedia
+%T Title
+%S Series
+%V Volume
+%C Place
+%I Publisher
+%P Pages
+%W Loc. in Archive
+%* Rights
+%@ ISBN
+%L Call Number
+%U URL
+%7 Edition
+%X Abstract
+%B Encyclopedia Title
+%A AuthorL, AuthorsF I
+%A ContributorL, ContributorF I
+%E EditorL, EditorF I
+%A Series EditorL, SeriesF I
+%? TranslatorL, TranslatorF I
+%D Date
+
+%0 Film or Broadcast
+%T Title
+%I Publisher
+%R Genre
+%W Loc. in Archive
+%* Rights
+%L Call Number
+%U URL
+%X Abstract
+%A DirectorL, DirectorF I
+%A ContributorL, ContributorF I
+%A ProducerL, ProducerF I
+%A ScriptwriterL, ScriptwriterF I
+%D Date
+
+%0 Web Page
+%T Title
+%R Post Type
+%* Rights
+%U URL
+%X Abstract
+%B Forum/Listserv Title
+%A AuthorL, AuthorsF I
+%A ContributorL, ContributorF I
+%D Date
+
+%0 Hearing
+%T Title
+%C Place
+%I Publisher
+%P Pages
+%* Rights
+%U URL
+%X Abstract
+%A AuthorL, AuthorsF I
+%D Date
+
+%0 Personal Communication
+%T Title
+%* Rights
+%U URL
+%X Abstract
+%A AuthorL, AuthorsF I
+%A ContributorL, ContributorF I
+%A RecipientL, RecipientF I
+%D Date
+
+%0 Personal Communication
+%T Title
+%W Loc. in Archive
+%* Rights
+%L Call Number
+%U URL
+%X Abstract
+%A Interview WithL, AuthorsF I
+%A ContributorL, ContributorF I
+%A InterviewerL, InterviewerF I
+%? TranslatorL, TranslatorF I
+%D Date
+
+%0 Journal Article
+%T Title
+%S Series
+%V Volume
+%N Issue
+%P Pages
+%W Loc. in Archive
+%* Rights
+%L Call Number
+%U URL
+%X Abstract
+%J Publication
+%A AuthorL, AuthorsF I
+%A ContributorL, ContributorF I
+%E EditorL, EditorF I
+%A Reviewed AuthorL, ReviewedF I
+%? TranslatorL, TranslatorF I
+%D Date
+
+%0 Journal Article
+%T Title (attachment test)
+%S Series
+%V Volume
+%N Issue
+%P Pages
+%W Loc. in Archive
+%* Rights
+%L Call Number
+%U URL
+%X Abstract
+%J Publication
+%A AuthorL, AuthorsF I
+%A ContributorL, ContributorF I
+%E EditorL, EditorF I
+%A Reviewed AuthorL, ReviewedF I
+%? TranslatorL, TranslatorF I
+%D Date
+
+%0 Personal Communication
+%T Title
+%R Type
+%W Loc. in Archive
+%* Rights
+%L Call Number
+%U URL
+%X Abstract
+%A AuthorL, AuthorsF I
+%A ContributorL, ContributorF I
+%A RecipientL, RecipientF I
+%D Date
+
+%0 Magazine Article
+%T Title
+%V Volume
+%N Issue
+%P Pages
+%W Loc. in Archive
+%* Rights
+%L Call Number
+%U URL
+%X Abstract
+%B Publication
+%A AuthorL, AuthorsF I
+%A ContributorL, ContributorF I
+%A Reviewed AuthorL, Reviewed AuthorF I
+%? TranslatorL, TranslatorF I
+%D Date
+
+%0 Unpublished Work
+%T Title
+%C Place
+%R Type
+%W Loc. in Archive
+%* Rights
+%L Call Number
+%U URL
+%X Abstract
+%A AuthorL, AuthorsF I
+%A ContributorL, ContributorF I
+%? TranslatorL, TranslatorF I
+%D Date
+
+%0 Map
+%T Title
+%C Place
+%I Publisher
+%R Type
+%W Loc. in Archive
+%* Rights
+%@ ISBN
+%L Call Number
+%U URL
+%7 Edition
+%X Abstract
+%A AuthorL, AuthorsF I
+%A ContributorL, ContributorF I
+%A Series EditorL, SeriesF I
+%D Date
+
+%0 Newspaper Article
+%T Title
+%C Place
+%P Pages
+%W Loc. in Archive
+%* Rights
+%L Call Number
+%U URL
+%7 Edition
+%X Abstract
+%B Publication
+%A AuthorL, AuthorsF I
+%A ContributorL, ContributorF I
+%? TranslatorL, TranslatorF I
+%A Reviewed AuthorL, Reviewed AuthorF I
+%D Date
+
+%0 Patent
+%T Title
+%C Place
+%P Pages
+%* Rights
+%U URL
+%X Abstract
+%A InventorL, InventorF I
+%A ContributorL, ContributorF I
+%A Attorney/AgentL, Attorney/AgentF I
+%D Issue Date
+
+%0 Audiovisual Material
+%T Title
+%* Rights
+%U URL
+%X Abstract
+%A PodcasterL, PodcasterF I
+%A ContributorL, ContributorF I
+%A GuestL, GuestF I
+
+%0 Report
+%T Title
+%C Place
+%R Type
+%* Rights
+%U URL
+%X Abstract
+%A PresenterL, PresenterF I
+%A ContributorL, ContributorF I
+%D Date
+
+%0 Film or Broadcast
+%T Title
+%C Place
+%I Network
+%W Loc. in Archive
+%* Rights
+%L Call Number
+%U URL
+%X Abstract
+%B Program Title
+%A DirectorL, DirectorF I
+%A ContributorL, ContributorF I
+%A Cast MemberL, Cast MemberF I
+%A GuestL, GuestF I
+%A ProducerL, ProducerF I
+%A ScriptwriterL, ScriptwriterF I
+%D Date
+
+%0 Report
+%T Title
+%C Place
+%I Institution
+%R Report Type
+%P Pages
+%W Loc. in Archive
+%* Rights
+%L Call Number
+%U URL
+%X Abstract
+%A AuthorL, AuthorsF I
+%A ContributorL, ContributorF I
+%A Series EditorL, SeriesF I
+%? TranslatorL, TranslatorF I
+%D Date
+
+%0 Statute
+%T Name of Act
+%P Pages
+%* Rights
+%U URL
+%X Abstract
+%A AuthorL, AuthorsF I
+%A ContributorL, ContributorF I
+%D Date
+
+%0 Film or Broadcast
+%T Title
+%C Place
+%I Network
+%W Loc. in Archive
+%* Rights
+%L Call Number
+%U URL
+%X Abstract
+%B Program Title
+%A DirectorL, DirectorF I
+%A ContributorL, ContributorF I
+%A Cast MemberL, Cast MemberF I
+%A GuestL, GuestF I
+%A ProducerL, ProducerF I
+%A ScriptwriterL, ScriptwriterF I
+%D Date
+
+%0 Thesis
+%T Title
+%C Place
+%I University
+%R Type
+%W Loc. in Archive
+%* Rights
+%L Call Number
+%U URL
+%X Abstract
+%A AuthorL, AuthorsF I
+%A ContributorL, ContributorF I
+%D Date
+
+%0 Audiovisual Material
+%T Title
+%V Volume
+%C Place
+%I Studio
+%W Loc. in Archive
+%* Rights
+%@ ISBN
+%L Call Number
+%U URL
+%X Abstract
+%A DirectorL, DirectorF I
+%A ContributorL, ContributorF I
+%A Cast MemberL, Cast MemberF I
+%A ProducerL, ProducerF I
+%A ScriptwriterL, ScriptwriterF I
+%D Date
+
+%0 Web Page
+%T Title
+%R Website Type
+%* Rights
+%U URL
+%X Abstract
+%B Website Title
+%A AuthorL, AuthorsF I
+%A ContributorL, ContributorF I
+%? TranslatorL, TranslatorF I
+%D Date
+

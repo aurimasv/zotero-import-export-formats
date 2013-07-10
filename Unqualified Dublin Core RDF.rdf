@@ -1,0 +1,14 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="URL">
+        <dc:title>Title</dc:title>
+        <dc:type>artwork</dc:type>
+        <dc:contributor>ArtistL, ArtistF I</dc:contributor>
+        <dc:contributor>ContributorL, ContributorF I</dc:contributor>
+        <dc:rights>Rights</dc:rights>
+        <dc:date>Date</dc:date>
+        <dc:identifier>Call Number</dc:identifier>
+        <dc:coverage>Loc. in Archive</dc:coverage>
+    </rdf:Description>
+</rdf:RDF>

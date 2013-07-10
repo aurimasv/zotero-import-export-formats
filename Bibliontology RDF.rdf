@@ -1,0 +1,2109 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:res="http://purl.org/vocab/resourcelist/schema#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bibo="http://purl.org/ontology/bibo/"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:address="http://schemas.talis.com/2005/address/schema#"
+ xmlns:po="http://purl.org/ontology/po/"
+ xmlns:rel="http://www.loc.gov/loc.terms/relators/"
+ xmlns:sc="http://umbel.org/umbel/sc/"
+ xmlns:sioct="http://rdfs.org/sioc/types#"
+ xmlns:doap="http://usefulinc.com/ns/doap#">
+    <z:UserItem rdf:about="http://zotero.org/users/275915/items/V2DHGZV5">
+        <res:resource rdf:resource="URL"/>
+        <z:repository>Library Catalog</z:repository>
+        <z:accessDate>2003-01-02</z:accessDate>
+        <dcterms:rights>Rights</dcterms:rights>
+    </z:UserItem>
+    <bibo:Image rdf:about="URL">
+        <dcterms:title>Title</dcterms:title>
+        <dcterms:abstract>Abstract</dcterms:abstract>
+        <dcterms:medium>Medium</dcterms:medium>
+        <dcterms:extent>Artwork Size</dcterms:extent>
+        <dcterms:date>Date</dcterms:date>
+        <dcterms:language>Language</dcterms:language>
+        <bibo:shortTitle>Short Title</bibo:shortTitle>
+        <z:repository>Archive</z:repository>
+        <dcterms:source>Loc. in Archive</dcterms:source>
+        <bibo:lccn>Call Number</bibo:lccn>
+        <bibo:uri>URL</bibo:uri>
+        <z:extra>Extra</z:extra>
+        <dcterms:creator rdf:nodeID="n379"/>
+        <bibo:authorList>
+           <rdf:Seq><rdf:li rdf:nodeID="n379"/></rdf:Seq>
+        </bibo:authorList>
+        <dcterms:contributor rdf:nodeID="n381"/>
+        <bibo:contributorList>
+           <rdf:Seq><rdf:li rdf:nodeID="n381"/></rdf:Seq>
+        </bibo:contributorList>
+    </bibo:Image>
+    <foaf:Person rdf:nodeID="n379">
+        <foaf:givenname>ArtistF I</foaf:givenname>
+        <foaf:surname>ArtistL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n381">
+        <foaf:givenname>ContributorF I</foaf:givenname>
+        <foaf:surname>ContributorL</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/275915/items/CJG5PN8G">
+        <res:resource rdf:resource="urn:isbn:ISBN"/>
+        <z:repository>Library Catalog</z:repository>
+        <z:accessDate>2003-01-02</z:accessDate>
+        <dcterms:rights>Rights</dcterms:rights>
+    </z:UserItem>
+    <bibo:AudioDocument rdf:about="urn:isbn:ISBN">
+        <dcterms:title>Title</dcterms:title>
+        <dcterms:abstract>Abstract</dcterms:abstract>
+        <dcterms:medium>Format</dcterms:medium>
+        <bibo:volume>Volume</bibo:volume>
+        <dcterms:publisher>
+            <foaf:Organization>
+                <address:localityName>Place</address:localityName>
+                <foaf:name>Label</foaf:name>
+            </foaf:Organization>
+        </dcterms:publisher>
+        <dcterms:date>Date</dcterms:date>
+        <po:duration>Running Time</po:duration>
+        <dcterms:language>Language</dcterms:language>
+        <bibo:isbn13>ISBN</bibo:isbn13>
+        <bibo:shortTitle>Short Title</bibo:shortTitle>
+        <z:repository>Archive</z:repository>
+        <dcterms:source>Loc. in Archive</dcterms:source>
+        <bibo:lccn>Call Number</bibo:lccn>
+        <bibo:uri>URL</bibo:uri>
+        <z:extra>Extra</z:extra>
+        <bibo:performer rdf:nodeID="n385"/>
+        <bibo:authorList>
+           <rdf:Seq><rdf:li rdf:nodeID="n385"/></rdf:Seq>
+        </bibo:authorList>
+        <dcterms:contributor rdf:nodeID="n387"/>
+        <bibo:contributorList>
+            <rdf:Seq>
+                <rdf:li rdf:nodeID="n387"/>
+                <rdf:li rdf:nodeID="n389"/>
+                <rdf:li rdf:nodeID="n390"/>
+            </rdf:Seq>
+        </bibo:contributorList>
+        <rel:CMP rdf:nodeID="n389"/>
+        <rel:LYR rdf:nodeID="n390"/>
+        <dcterms:isPartOf>
+            <bibo:Series>
+                <dcterms:title>Series Title</dcterms:title>
+                <bibo:numberOfVolumes># of Volumes</bibo:numberOfVolumes>
+            </bibo:Series>
+        </dcterms:isPartOf>
+    </bibo:AudioDocument>
+    <foaf:Person rdf:nodeID="n385">
+        <foaf:givenname>PerformerF I</foaf:givenname>
+        <foaf:surname>PerformerL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n387">
+        <foaf:givenname>ContributorF I</foaf:givenname>
+        <foaf:surname>ContributorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n389">
+        <foaf:givenname>ComposerF I</foaf:givenname>
+        <foaf:surname>ComposerL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n390">
+        <foaf:givenname>Words ByF I</foaf:givenname>
+        <foaf:surname>Words ByL</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/275915/items/PIVJH76D">
+        <res:resource>
+            <bibo:Bill>
+                <dcterms:title>Title</dcterms:title>
+                <dcterms:abstract>Abstract</dcterms:abstract>
+                <bibo:number>Bill Number</bibo:number>
+                <bibo:section>Section</bibo:section>
+                <bibo:pages>Code Pages</bibo:pages>
+                <bibo:organizer>
+                    <sc:LegalGovernmentOrganization>
+                        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+                        <foaf:name>Legislative Body</foaf:name>
+                    </sc:LegalGovernmentOrganization>
+                </bibo:organizer>
+                <bibo:presentedAt>
+                    <bibo:Conference>
+                       <dcterms:title>Session</dcterms:title>
+                    </bibo:Conference>
+                </bibo:presentedAt>
+                <z:history>History</z:history>
+                <dcterms:language>Language</dcterms:language>
+                <bibo:uri>URL</bibo:uri>
+                <bibo:shortTitle>Short Title</bibo:shortTitle>
+                <z:extra>Extra</z:extra>
+                <dcterms:creator rdf:nodeID="n397"/>
+                <bibo:authorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n397"/></rdf:Seq>
+                </bibo:authorList>
+                <dcterms:contributor rdf:nodeID="n399"/>
+                <bibo:contributorList>
+                    <rdf:Seq>
+                       <rdf:li rdf:nodeID="n399"/><rdf:li rdf:nodeID="n401"/>
+                    </rdf:Seq>
+                </bibo:contributorList>
+                <rel:SPN rdf:nodeID="n401"/>
+                <dcterms:isPartOf>
+                    <bibo:Code>
+                        <dcterms:title>Code</dcterms:title>
+                        <bibo:volume>Code Volume</bibo:volume>
+                        <dcterms:date>Date</dcterms:date>
+                    </bibo:Code>
+                </dcterms:isPartOf>
+            </bibo:Bill>
+        </res:resource>
+        <z:accessDate>2003-01-02</z:accessDate>
+        <dcterms:rights>Rights</dcterms:rights>
+    </z:UserItem>
+    <foaf:Person rdf:nodeID="n397">
+        <foaf:givenname>SponsorF I</foaf:givenname>
+        <foaf:surname>SponsorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n399">
+        <foaf:givenname>ContributorF I</foaf:givenname>
+        <foaf:surname>ContributorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n401">
+        <foaf:givenname>CosponsorF I</foaf:givenname>
+        <foaf:surname>CosponsorL</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/275915/items/2RVHFCMV">
+        <res:resource>
+            <sioct:BlogPost>
+                <dcterms:title>Title</dcterms:title>
+                <dcterms:abstract>Abstract</dcterms:abstract>
+                <dcterms:type>Website Type</dcterms:type>
+                <bibo:uri>URL</bibo:uri>
+                <dcterms:language>Language</dcterms:language>
+                <bibo:shortTitle>Short Title</bibo:shortTitle>
+                <z:extra>Extra</z:extra>
+                <dcterms:creator rdf:nodeID="n406"/>
+                <bibo:authorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n406"/></rdf:Seq>
+                </bibo:authorList>
+                <dcterms:contributor rdf:nodeID="n408"/>
+                <bibo:contributorList>
+                    <rdf:Seq>
+                       <rdf:li rdf:nodeID="n408"/><rdf:li rdf:nodeID="n410"/>
+                    </rdf:Seq>
+                </bibo:contributorList>
+                <sioct:has_reply>
+                    <sioct:Comment>
+                       <dcterms:creator rdf:nodeID="n410"/>
+                    </sioct:Comment>
+                </sioct:has_reply>
+                <rdf:type rdf:resource="http://purl.org/ontology/bibo/Article"/>
+                <dcterms:isPartOf>
+                    <sioct:Weblog>
+                        <dcterms:title>Blog Title</dcterms:title>
+                        <dcterms:date>Date</dcterms:date>
+                        <rdf:type rdf:resource="http://purl.org/ontology/bibo/Website"/>
+                    </sioct:Weblog>
+                </dcterms:isPartOf>
+            </sioct:BlogPost>
+        </res:resource>
+        <z:accessDate>2003-01-02</z:accessDate>
+        <dcterms:rights>Rights</dcterms:rights>
+    </z:UserItem>
+    <foaf:Person rdf:nodeID="n406">
+        <foaf:givenname>AuthorsF I</foaf:givenname>
+        <foaf:surname>AuthorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n408">
+        <foaf:givenname>ContributorF I</foaf:givenname>
+        <foaf:surname>ContributorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n410">
+        <foaf:givenname>CommenterrF I</foaf:givenname>
+        <foaf:surname>CommenterrL</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/275915/items/KAWJ4VJM">
+        <res:resource>
+            <bibo:Book>
+                <dcterms:title>Title</dcterms:title>
+                <dcterms:abstract>Abstract</dcterms:abstract>
+                <bibo:volume>Volume</bibo:volume>
+                <bibo:edition>Edition</bibo:edition>
+                <dcterms:publisher>
+                    <foaf:Organization>
+                        <address:localityName>Place</address:localityName>
+                        <foaf:name>Publisher</foaf:name>
+                    </foaf:Organization>
+                </dcterms:publisher>
+                <dcterms:date>Date</dcterms:date>
+                <bibo:numPages># of Pages</bibo:numPages>
+                <dcterms:language>Language</dcterms:language>
+                <bibo:isbn13>ISBN</bibo:isbn13>
+                <bibo:shortTitle>Short Title</bibo:shortTitle>
+                <bibo:uri>URL</bibo:uri>
+                <z:repository>Archive</z:repository>
+                <dcterms:source>Loc. in Archive</dcterms:source>
+                <bibo:lccn>Call Number</bibo:lccn>
+                <z:extra>Extra</z:extra>
+                <dcterms:creator rdf:nodeID="n415"/>
+                <bibo:authorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n415"/></rdf:Seq>
+                </bibo:authorList>
+                <dcterms:contributor rdf:nodeID="n417"/>
+                <bibo:contributorList>
+                    <rdf:Seq>
+                       <rdf:li rdf:nodeID="n417"/><rdf:li rdf:nodeID="n423"/>
+                    </rdf:Seq>
+                </bibo:contributorList>
+                <bibo:editor rdf:nodeID="n419"/>
+                <bibo:editorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n419"/></rdf:Seq>
+                </bibo:editorList>
+                <bibo:translator rdf:nodeID="n423"/>
+                <dcterms:isPartOf>
+                    <bibo:Series>
+                        <dcterms:title>Series</dcterms:title>
+                        <bibo:number>Series Number</bibo:number>
+                        <bibo:numberOfVolumes># of Volumes</bibo:numberOfVolumes>
+                        <bibo:editor rdf:nodeID="n421"/>
+                        <bibo:editorList>
+                           <rdf:Seq><rdf:li rdf:nodeID="n421"/></rdf:Seq>
+                        </bibo:editorList>
+                    </bibo:Series>
+                </dcterms:isPartOf>
+            </bibo:Book>
+        </res:resource>
+        <z:accessDate>2003-01-02</z:accessDate>
+        <z:repository>Library Catalog</z:repository>
+        <dcterms:rights>Rights</dcterms:rights>
+    </z:UserItem>
+    <foaf:Person rdf:nodeID="n415">
+        <foaf:givenname>AuthorsF I</foaf:givenname>
+        <foaf:surname>AuthorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n417">
+        <foaf:givenname>ContributorF I</foaf:givenname>
+        <foaf:surname>ContributorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n419">
+        <foaf:givenname>EditorF I</foaf:givenname>
+        <foaf:surname>EditorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n421">
+        <foaf:givenname>SeriesF I</foaf:givenname>
+        <foaf:surname>Series EditorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n423">
+        <foaf:givenname>TranslatorF I</foaf:givenname>
+        <foaf:surname>TranslatorL</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/275915/items/TICCKWI5">
+        <res:resource>
+            <bibo:BookSection>
+                <dcterms:title>Title</dcterms:title>
+                <dcterms:abstract>Abstract</dcterms:abstract>
+                <bibo:pages>Pages</bibo:pages>
+                <dcterms:language>Language</dcterms:language>
+                <bibo:shortTitle>Short Title</bibo:shortTitle>
+                <bibo:uri>URL</bibo:uri>
+                <z:repository>Archive</z:repository>
+                <dcterms:source>Loc. in Archive</dcterms:source>
+                <z:extra>Extra</z:extra>
+                <dcterms:creator rdf:nodeID="n429"/>
+                <bibo:authorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n429"/></rdf:Seq>
+                </bibo:authorList>
+                <dcterms:contributor rdf:nodeID="n431"/>
+                <bibo:contributorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n431"/></rdf:Seq>
+                </bibo:contributorList>
+                <dcterms:isPartOf>
+                    <bibo:EditedBook>
+                        <dcterms:title>Book Title</dcterms:title>
+                        <bibo:volume>Volume</bibo:volume>
+                        <bibo:edition>Edition</bibo:edition>
+                        <dcterms:publisher>
+                            <foaf:Organization>
+                                <address:localityName>Place</address:localityName>
+                                <foaf:name>Publisher</foaf:name>
+                            </foaf:Organization>
+                        </dcterms:publisher>
+                        <dcterms:date>Date</dcterms:date>
+                        <bibo:isbn13>ISBN</bibo:isbn13>
+                        <bibo:lccn>Call Number</bibo:lccn>
+                        <bibo:editor rdf:nodeID="n433"/>
+                        <bibo:editorList>
+                           <rdf:Seq><rdf:li rdf:nodeID="n433"/></rdf:Seq>
+                        </bibo:editorList>
+                        <bibo:translator rdf:nodeID="n437"/>
+                        <bibo:contributorList>
+                           <rdf:Seq><rdf:li rdf:nodeID="n437"/></rdf:Seq>
+                        </bibo:contributorList>
+                        <dcterms:creator rdf:nodeID="n439"/>
+                        <bibo:authorList>
+                           <rdf:Seq><rdf:li rdf:nodeID="n439"/></rdf:Seq>
+                        </bibo:authorList>
+                        <dcterms:isPartOf>
+                            <bibo:Series>
+                                <dcterms:title>Series</dcterms:title>
+                                <bibo:number>Series Number</bibo:number>
+                                <bibo:numberOfVolumes># of Volumes</bibo:numberOfVolumes>
+                                <bibo:editor rdf:nodeID="n435"/>
+                                <bibo:editorList>
+                                   <rdf:Seq><rdf:li rdf:nodeID="n435"/></rdf:Seq>
+                                </bibo:editorList>
+                            </bibo:Series>
+                        </dcterms:isPartOf>
+                    </bibo:EditedBook>
+                </dcterms:isPartOf>
+            </bibo:BookSection>
+        </res:resource>
+        <z:accessDate>2003-01-02</z:accessDate>
+        <z:repository>Library Catalog</z:repository>
+        <dcterms:rights>Rights</dcterms:rights>
+    </z:UserItem>
+    <foaf:Person rdf:nodeID="n429">
+        <foaf:givenname>AuthorsF I</foaf:givenname>
+        <foaf:surname>AuthorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n431">
+        <foaf:givenname>ContributorF I</foaf:givenname>
+        <foaf:surname>ContributorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n433">
+        <foaf:givenname>EditorF I</foaf:givenname>
+        <foaf:surname>EditorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n435">
+        <foaf:givenname>SeriesF I</foaf:givenname>
+        <foaf:surname>Series EditorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n437">
+        <foaf:givenname>TranslatorF I</foaf:givenname>
+        <foaf:surname>TranslatorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n439">
+        <foaf:givenname>BookF I</foaf:givenname>
+        <foaf:surname>Book AuthorL</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/275915/items/BDCTKU6B">
+        <res:resource>
+            <bibo:LegalCaseDocument>
+                <dcterms:title>Title</dcterms:title>
+                <dcterms:abstract>Abstract</dcterms:abstract>
+                <bibo:number>Docket number</bibo:number>
+                <bibo:pages>First Page</bibo:pages>
+                <z:history>History</z:history>
+                <dcterms:language>Language</dcterms:language>
+                <bibo:shortTitle>Short Title</bibo:shortTitle>
+                <bibo:uri>URL</bibo:uri>
+                <z:extra>Extra</z:extra>
+                <dcterms:creator rdf:nodeID="n445"/>
+                <bibo:authorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n445"/></rdf:Seq>
+                </bibo:authorList>
+                <dcterms:contributor rdf:nodeID="n447"/>
+                <bibo:contributorList>
+                    <rdf:Seq>
+                       <rdf:li rdf:nodeID="n447"/><rdf:li rdf:nodeID="n449"/>
+                    </rdf:Seq>
+                </bibo:contributorList>
+                <z:counsel rdf:nodeID="n449"/>
+                <dcterms:isPartOf>
+                    <bibo:CourtReporter>
+                        <dcterms:title>ReporterL, ReporterF</dcterms:title>
+                        <bibo:volume>Volume</bibo:volume>
+                        <bibo:court>Court</bibo:court>
+                        <dcterms:date>Date Decided</dcterms:date>
+                    </bibo:CourtReporter>
+                </dcterms:isPartOf>
+            </bibo:LegalCaseDocument>
+        </res:resource>
+        <z:accessDate>2003-01-02</z:accessDate>
+        <dcterms:rights>Rights</dcterms:rights>
+    </z:UserItem>
+    <foaf:Person rdf:nodeID="n445">
+        <foaf:givenname>AuthorsF I</foaf:givenname>
+        <foaf:surname>AuthorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n447">
+        <foaf:givenname>ContributorF I</foaf:givenname>
+        <foaf:surname>ContributorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n449">
+        <foaf:givenname>CounselF I</foaf:givenname>
+        <foaf:surname>CounselL</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/275915/items/J473UGHI">
+        <res:resource>
+            <sc:ComputerProgram_CW>
+                <dcterms:title>Title</dcterms:title>
+                <dcterms:abstract>Abstract</dcterms:abstract>
+                <doap:revision>Version</doap:revision>
+                <dcterms:date>Date</dcterms:date>
+                <doap:os>System</doap:os>
+                <dcterms:publisher>
+                    <foaf:Organization>
+                        <address:localityName>Place</address:localityName>
+                        <foaf:name>Publisher</foaf:name>
+                    </foaf:Organization>
+                </dcterms:publisher>
+                <doap:programming-language>Language</doap:programming-language>
+                <bibo:isbn13>ISBN</bibo:isbn13>
+                <bibo:shortTitle>Short Title</bibo:shortTitle>
+                <bibo:uri>URL</bibo:uri>
+                <z:repository>Archive</z:repository>
+                <dcterms:source>Loc. in Archive</dcterms:source>
+                <bibo:lccn>Call Number</bibo:lccn>
+                <z:extra>Extra</z:extra>
+                <dcterms:creator rdf:nodeID="n453"/>
+                <bibo:authorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n453"/></rdf:Seq>
+                </bibo:authorList>
+                <dcterms:contributor rdf:nodeID="n455"/>
+                <bibo:contributorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n455"/></rdf:Seq>
+                </bibo:contributorList>
+                <dcterms:isPartOf>
+                    <bibo:Series>
+                       <dcterms:title>Series Title</dcterms:title>
+                    </bibo:Series>
+                </dcterms:isPartOf>
+                <rdf:type rdf:resource="http://purl.org/ontology/bibo/Document"/>
+            </sc:ComputerProgram_CW>
+        </res:resource>
+        <dcterms:rights>Rights</dcterms:rights>
+        <z:repository>Library Catalog</z:repository>
+        <z:accessDate>2003-01-02</z:accessDate>
+    </z:UserItem>
+    <foaf:Person rdf:nodeID="n453">
+        <foaf:givenname>ProgrammerF I</foaf:givenname>
+        <foaf:surname>ProgrammerL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n455">
+        <foaf:givenname>ContributorF I</foaf:givenname>
+        <foaf:surname>ContributorL</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/275915/items/U5MIM92M">
+        <res:resource rdf:resource="info:doi/DOI"/>
+        <z:accessDate>2003-01-02</z:accessDate>
+        <z:repository>Library Catalog</z:repository>
+        <dcterms:rights>Rights</dcterms:rights>
+    </z:UserItem>
+    <bibo:Article rdf:about="info:doi/DOI">
+        <dcterms:title>Title</dcterms:title>
+        <dcterms:abstract>Abstract</dcterms:abstract>
+        <bibo:presentedAt>
+            <bibo:Conference>
+               <dcterms:title>Conference Name</dcterms:title>
+            </bibo:Conference>
+        </bibo:presentedAt>
+        <bibo:pages>Pages</bibo:pages>
+        <dcterms:language>Language</dcterms:language>
+        <bibo:doi>DOI</bibo:doi>
+        <bibo:shortTitle>Short Title</bibo:shortTitle>
+        <bibo:uri>URL</bibo:uri>
+        <z:repository>Archive</z:repository>
+        <dcterms:source>Loc. in Archive</dcterms:source>
+        <z:extra>Extra</z:extra>
+        <dcterms:creator rdf:nodeID="n462"/>
+        <bibo:authorList>
+           <rdf:Seq><rdf:li rdf:nodeID="n462"/></rdf:Seq>
+        </bibo:authorList>
+        <dcterms:contributor rdf:nodeID="n464"/>
+        <bibo:contributorList>
+           <rdf:Seq><rdf:li rdf:nodeID="n464"/></rdf:Seq>
+        </bibo:contributorList>
+        <dcterms:isPartOf>
+            <bibo:Proceedings>
+                <dcterms:date>Date</dcterms:date>
+                <dcterms:title>Proceedings Title</dcterms:title>
+                <dcterms:publisher>
+                    <foaf:Organization>
+                        <address:localityName>Place</address:localityName>
+                        <foaf:name>Publisher</foaf:name>
+                    </foaf:Organization>
+                </dcterms:publisher>
+                <bibo:volume>Volume</bibo:volume>
+                <bibo:isbn13>ISBN</bibo:isbn13>
+                <bibo:lccn>Call Number</bibo:lccn>
+                <bibo:editor rdf:nodeID="n466"/>
+                <bibo:editorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n466"/></rdf:Seq>
+                </bibo:editorList>
+                <bibo:translator rdf:nodeID="n470"/>
+                <bibo:contributorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n470"/></rdf:Seq>
+                </bibo:contributorList>
+                <dcterms:isPartOf>
+                    <bibo:Series>
+                        <dcterms:title>Series</dcterms:title>
+                        <bibo:editor rdf:nodeID="n468"/>
+                        <bibo:editorList>
+                           <rdf:Seq><rdf:li rdf:nodeID="n468"/></rdf:Seq>
+                        </bibo:editorList>
+                    </bibo:Series>
+                </dcterms:isPartOf>
+            </bibo:Proceedings>
+        </dcterms:isPartOf>
+    </bibo:Article>
+    <foaf:Person rdf:nodeID="n462">
+        <foaf:givenname>AuthorsF I</foaf:givenname>
+        <foaf:surname>AuthorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n464">
+        <foaf:givenname>ContributorF I</foaf:givenname>
+        <foaf:surname>ContributorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n466">
+        <foaf:givenname>EditorF I</foaf:givenname>
+        <foaf:surname>EditorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n468">
+        <foaf:givenname>SeriesF I</foaf:givenname>
+        <foaf:surname>Series EditorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n470">
+        <foaf:givenname>TranslatorF I</foaf:givenname>
+        <foaf:surname>TranslatorL</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/275915/items/C66NICKM">
+        <res:resource>
+            <bibo:Article>
+                <dcterms:title>Title</dcterms:title>
+                <dcterms:abstract>Abstract</dcterms:abstract>
+                <bibo:pages>Pages</bibo:pages>
+                <dcterms:language>Language</dcterms:language>
+                <bibo:shortTitle>Short Title</bibo:shortTitle>
+                <bibo:uri>URL</bibo:uri>
+                <z:repository>Archive</z:repository>
+                <dcterms:source>Loc. in Archive</dcterms:source>
+                <z:extra>Extra</z:extra>
+                <dcterms:creator rdf:nodeID="n477"/>
+                <bibo:authorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n477"/></rdf:Seq>
+                </bibo:authorList>
+                <dcterms:contributor rdf:nodeID="n479"/>
+                <bibo:contributorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n479"/></rdf:Seq>
+                </bibo:contributorList>
+                <dcterms:isPartOf>
+                    <sc:Dictionary>
+                        <dcterms:title>Dictionary Title</dcterms:title>
+                        <bibo:volume>Volume</bibo:volume>
+                        <bibo:edition>Edition</bibo:edition>
+                        <dcterms:publisher>
+                            <foaf:Organization>
+                                <address:localityName>Place</address:localityName>
+                                <foaf:name>Publisher</foaf:name>
+                            </foaf:Organization>
+                        </dcterms:publisher>
+                        <dcterms:date>Date</dcterms:date>
+                        <bibo:isbn13>ISBN</bibo:isbn13>
+                        <bibo:lccn>Call Number</bibo:lccn>
+                        <bibo:editor rdf:nodeID="n481"/>
+                        <bibo:editorList>
+                           <rdf:Seq><rdf:li rdf:nodeID="n481"/></rdf:Seq>
+                        </bibo:editorList>
+                        <bibo:translator rdf:nodeID="n485"/>
+                        <bibo:contributorList>
+                           <rdf:Seq><rdf:li rdf:nodeID="n485"/></rdf:Seq>
+                        </bibo:contributorList>
+                        <dcterms:isPartOf>
+                            <bibo:Series>
+                                <dcterms:title>Series</dcterms:title>
+                                <bibo:number>Series Number</bibo:number>
+                                <bibo:numberOfVolumes># of Volumes</bibo:numberOfVolumes>
+                                <bibo:editor rdf:nodeID="n483"/>
+                                <bibo:editorList>
+                                   <rdf:Seq><rdf:li rdf:nodeID="n483"/></rdf:Seq>
+                                </bibo:editorList>
+                            </bibo:Series>
+                        </dcterms:isPartOf>
+                        <rdf:type rdf:resource="http://purl.org/ontology/bibo/ReferenceSource"/>
+                    </sc:Dictionary>
+                </dcterms:isPartOf>
+            </bibo:Article>
+        </res:resource>
+        <z:accessDate>2003-01-02</z:accessDate>
+        <z:repository>Library Catalog</z:repository>
+        <dcterms:rights>Rights</dcterms:rights>
+    </z:UserItem>
+    <foaf:Person rdf:nodeID="n477">
+        <foaf:givenname>AuthorsF I</foaf:givenname>
+        <foaf:surname>AuthorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n479">
+        <foaf:givenname>ContributorF I</foaf:givenname>
+        <foaf:surname>ContributorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n481">
+        <foaf:givenname>EditorF I</foaf:givenname>
+        <foaf:surname>EditorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n483">
+        <foaf:givenname>SeriesF I</foaf:givenname>
+        <foaf:surname>Series EditorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n485">
+        <foaf:givenname>TranslatorF I</foaf:givenname>
+        <foaf:surname>TranslatorL</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/275915/items/43TGSJPK">
+        <res:resource>
+            <bibo:Document>
+                <dcterms:title>Title</dcterms:title>
+                <dcterms:abstract>Abstract</dcterms:abstract>
+                <dcterms:publisher>
+                    <foaf:Organization>
+                       <foaf:name>Publisher</foaf:name>
+                    </foaf:Organization>
+                </dcterms:publisher>
+                <dcterms:date>Date</dcterms:date>
+                <dcterms:language>Language</dcterms:language>
+                <bibo:shortTitle>Short Title</bibo:shortTitle>
+                <bibo:uri>URL</bibo:uri>
+                <z:repository>Archive</z:repository>
+                <dcterms:source>Loc. in Archive</dcterms:source>
+                <bibo:lccn>Call Number</bibo:lccn>
+                <z:extra>Extra</z:extra>
+                <dcterms:creator rdf:nodeID="n490"/>
+                <bibo:authorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n490"/></rdf:Seq>
+                </bibo:authorList>
+                <dcterms:contributor rdf:nodeID="n492"/>
+                <bibo:contributorList>
+                    <rdf:Seq>
+                        <rdf:li rdf:nodeID="n492"/>
+                        <rdf:li rdf:nodeID="n496"/>
+                        <rdf:li rdf:nodeID="n498"/>
+                    </rdf:Seq>
+                </bibo:contributorList>
+                <bibo:editor rdf:nodeID="n494"/>
+                <bibo:editorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n494"/></rdf:Seq>
+                </bibo:editorList>
+                <bibo:reviewOf>
+                    <rdf:Description>
+                       <dcterms:creator rdf:nodeID="n496"/>
+                    </rdf:Description>
+                </bibo:reviewOf>
+                <bibo:translator rdf:nodeID="n498"/>
+            </bibo:Document>
+        </res:resource>
+        <z:accessDate>2003-01-02</z:accessDate>
+        <z:repository>Library Catalog</z:repository>
+        <dcterms:rights>Rights</dcterms:rights>
+    </z:UserItem>
+    <foaf:Person rdf:nodeID="n490">
+        <foaf:givenname>AuthorsF I</foaf:givenname>
+        <foaf:surname>AuthorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n492">
+        <foaf:givenname>ContributorF I</foaf:givenname>
+        <foaf:surname>ContributorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n494">
+        <foaf:givenname>EditorF I</foaf:givenname>
+        <foaf:surname>EditorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n496">
+        <foaf:givenname>Reviewed AuthorF I</foaf:givenname>
+        <foaf:surname>Reviewed AuthorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n498">
+        <foaf:givenname>TranslatorF I</foaf:givenname>
+        <foaf:surname>TranslatorL</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/275915/items/2TH5APP6">
+        <res:resource>
+            <bibo:Email>
+                <dcterms:title>Subject</dcterms:title>
+                <dcterms:abstract>Abstract</dcterms:abstract>
+                <dcterms:date>Date</dcterms:date>
+                <bibo:shortTitle>Short Title</bibo:shortTitle>
+                <bibo:uri>URL</bibo:uri>
+                <dcterms:language>Language</dcterms:language>
+                <z:extra>Extra</z:extra>
+                <dcterms:creator rdf:nodeID="n501"/>
+                <bibo:authorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n501"/></rdf:Seq>
+                </bibo:authorList>
+                <dcterms:contributor rdf:nodeID="n503"/>
+                <bibo:contributorList>
+                    <rdf:Seq>
+                       <rdf:li rdf:nodeID="n503"/><rdf:li rdf:nodeID="n505"/>
+                    </rdf:Seq>
+                </bibo:contributorList>
+                <bibo:recipient rdf:nodeID="n505"/>
+            </bibo:Email>
+        </res:resource>
+        <z:accessDate>2003-01-02</z:accessDate>
+        <dcterms:rights>Rights</dcterms:rights>
+    </z:UserItem>
+    <foaf:Person rdf:nodeID="n501">
+        <foaf:givenname>AuthorsF I</foaf:givenname>
+        <foaf:surname>AuthorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n503">
+        <foaf:givenname>ContributorF I</foaf:givenname>
+        <foaf:surname>ContributorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n505">
+        <foaf:givenname>RecipientF I</foaf:givenname>
+        <foaf:surname>RecipientL</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/275915/items/PV982C5C">
+        <res:resource>
+            <bibo:Article>
+                <dcterms:title>Title</dcterms:title>
+                <dcterms:abstract>Abstract</dcterms:abstract>
+                <bibo:pages>Pages</bibo:pages>
+                <bibo:shortTitle>Short Title</bibo:shortTitle>
+                <bibo:uri>URL</bibo:uri>
+                <dcterms:language>Language</dcterms:language>
+                <z:repository>Archive</z:repository>
+                <dcterms:source>Loc. in Archive</dcterms:source>
+                <z:extra>Extra</z:extra>
+                <dcterms:creator rdf:nodeID="n511"/>
+                <bibo:authorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n511"/></rdf:Seq>
+                </bibo:authorList>
+                <dcterms:contributor rdf:nodeID="n513"/>
+                <bibo:contributorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n513"/></rdf:Seq>
+                </bibo:contributorList>
+                <dcterms:isPartOf>
+                    <sc:Encyclopedia>
+                        <dcterms:title>Encyclopedia Title</dcterms:title>
+                        <bibo:volume>Volume</bibo:volume>
+                        <bibo:edition>Edition</bibo:edition>
+                        <dcterms:publisher>
+                            <foaf:Organization>
+                                <address:localityName>Place</address:localityName>
+                                <foaf:name>Publisher</foaf:name>
+                            </foaf:Organization>
+                        </dcterms:publisher>
+                        <dcterms:date>Date</dcterms:date>
+                        <bibo:isbn13>ISBN</bibo:isbn13>
+                        <bibo:lccn>Call Number</bibo:lccn>
+                        <bibo:editor rdf:nodeID="n515"/>
+                        <bibo:editorList>
+                           <rdf:Seq><rdf:li rdf:nodeID="n515"/></rdf:Seq>
+                        </bibo:editorList>
+                        <bibo:translator rdf:nodeID="n519"/>
+                        <bibo:contributorList>
+                           <rdf:Seq><rdf:li rdf:nodeID="n519"/></rdf:Seq>
+                        </bibo:contributorList>
+                        <dcterms:isPartOf>
+                            <bibo:Series>
+                                <dcterms:title>Series</dcterms:title>
+                                <bibo:number>Series Number</bibo:number>
+                                <bibo:numberOfVolumes># of Volumes</bibo:numberOfVolumes>
+                                <bibo:editor rdf:nodeID="n517"/>
+                                <bibo:editorList>
+                                   <rdf:Seq><rdf:li rdf:nodeID="n517"/></rdf:Seq>
+                                </bibo:editorList>
+                            </bibo:Series>
+                        </dcterms:isPartOf>
+                        <rdf:type rdf:resource="http://purl.org/ontology/bibo/ReferenceSource"/>
+                    </sc:Encyclopedia>
+                </dcterms:isPartOf>
+            </bibo:Article>
+        </res:resource>
+        <z:accessDate>2003-01-02</z:accessDate>
+        <z:repository>Library Catalog</z:repository>
+        <dcterms:rights>Rights</dcterms:rights>
+    </z:UserItem>
+    <foaf:Person rdf:nodeID="n511">
+        <foaf:givenname>AuthorsF I</foaf:givenname>
+        <foaf:surname>AuthorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n513">
+        <foaf:givenname>ContributorF I</foaf:givenname>
+        <foaf:surname>ContributorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n515">
+        <foaf:givenname>EditorF I</foaf:givenname>
+        <foaf:surname>EditorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n517">
+        <foaf:givenname>SeriesF I</foaf:givenname>
+        <foaf:surname>Series EditorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n519">
+        <foaf:givenname>TranslatorF I</foaf:givenname>
+        <foaf:surname>TranslatorL</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/275915/items/J9FB574C">
+        <res:resource>
+            <bibo:Film>
+                <dcterms:title>Title</dcterms:title>
+                <dcterms:abstract>Abstract</dcterms:abstract>
+                <dcterms:publisher>
+                    <foaf:Organization>
+                       <foaf:name>Publisher</foaf:name>
+                    </foaf:Organization>
+                </dcterms:publisher>
+                <dcterms:date>Date</dcterms:date>
+                <dcterms:type>Genre</dcterms:type>
+                <dcterms:medium>Format</dcterms:medium>
+                <po:duration>Running Time</po:duration>
+                <dcterms:language>Language</dcterms:language>
+                <bibo:shortTitle>Short Title</bibo:shortTitle>
+                <bibo:uri>URL</bibo:uri>
+                <z:repository>Archive</z:repository>
+                <dcterms:source>Loc. in Archive</dcterms:source>
+                <bibo:lccn>Call Number</bibo:lccn>
+                <z:extra>Extra</z:extra>
+                <bibo:director rdf:nodeID="n524"/>
+                <bibo:authorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n524"/></rdf:Seq>
+                </bibo:authorList>
+                <dcterms:contributor rdf:nodeID="n526"/>
+                <bibo:contributorList>
+                    <rdf:Seq>
+                        <rdf:li rdf:nodeID="n526"/>
+                        <rdf:li rdf:nodeID="n528"/>
+                        <rdf:li rdf:nodeID="n529"/>
+                    </rdf:Seq>
+                </bibo:contributorList>
+                <bibo:producer rdf:nodeID="n528"/>
+                <rel:AUS rdf:nodeID="n529"/>
+            </bibo:Film>
+        </res:resource>
+        <z:accessDate>2003-01-02</z:accessDate>
+        <z:repository>Library Catalog</z:repository>
+        <dcterms:rights>Rights</dcterms:rights>
+    </z:UserItem>
+    <foaf:Person rdf:nodeID="n524">
+        <foaf:givenname>DirectorF I</foaf:givenname>
+        <foaf:surname>DirectorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n526">
+        <foaf:givenname>ContributorF I</foaf:givenname>
+        <foaf:surname>ContributorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n528">
+        <foaf:givenname>ProducerF I</foaf:givenname>
+        <foaf:surname>ProducerL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n529">
+        <foaf:givenname>ScriptwriterF I</foaf:givenname>
+        <foaf:surname>ScriptwriterL</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/275915/items/T2RZI5NQ">
+        <res:resource>
+            <sioct:BoardPost>
+                <dcterms:title>Title</dcterms:title>
+                <dcterms:abstract>Abstract</dcterms:abstract>
+                <dcterms:type>Post Type</dcterms:type>
+                <dcterms:language>Language</dcterms:language>
+                <bibo:shortTitle>Short Title</bibo:shortTitle>
+                <bibo:uri>URL</bibo:uri>
+                <z:extra>Extra</z:extra>
+                <dcterms:creator rdf:nodeID="n534"/>
+                <bibo:authorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n534"/></rdf:Seq>
+                </bibo:authorList>
+                <dcterms:contributor rdf:nodeID="n536"/>
+                <bibo:contributorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n536"/></rdf:Seq>
+                </bibo:contributorList>
+                <rdf:type rdf:resource="http://purl.org/ontology/bibo/Article"/>
+                <dcterms:isPartOf>
+                    <sioct:MessageBoard>
+                        <dcterms:title>Forum/Listserv Title</dcterms:title>
+                        <dcterms:date>Date</dcterms:date>
+                        <rdf:type rdf:resource="http://purl.org/ontology/bibo/Website"/>
+                    </sioct:MessageBoard>
+                </dcterms:isPartOf>
+            </sioct:BoardPost>
+        </res:resource>
+        <z:accessDate>2003-01-02</z:accessDate>
+        <dcterms:rights>Rights</dcterms:rights>
+    </z:UserItem>
+    <foaf:Person rdf:nodeID="n534">
+        <foaf:givenname>AuthorsF I</foaf:givenname>
+        <foaf:surname>AuthorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n536">
+        <foaf:givenname>ContributorF I</foaf:givenname>
+        <foaf:surname>ContributorL</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/275915/items/RRICDUX7">
+        <res:resource>
+            <bibo:Hearing>
+                <dcterms:title>Title</dcterms:title>
+                <dcterms:abstract>Abstract</dcterms:abstract>
+                <bibo:organizer>
+                    <sc:Committee_Organization>
+                        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+                        <foaf:name>Committee</foaf:name>
+                    </sc:Committee_Organization>
+                </bibo:organizer>
+                <dcterms:publisher>
+                    <foaf:Organization>
+                        <address:localityName>Place</address:localityName>
+                        <foaf:name>Publisher</foaf:name>
+                    </foaf:Organization>
+                </dcterms:publisher>
+                <bibo:number>Document Number</bibo:number>
+                <bibo:pages>Pages</bibo:pages>
+                <bibo:organizer>
+                    <sc:LegalGovernmentOrganization>
+                        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+                        <foaf:name>Legislative Body</foaf:name>
+                    </sc:LegalGovernmentOrganization>
+                </bibo:organizer>
+                <bibo:presentedAt>
+                    <bibo:Conference>
+                       <dcterms:title>Session</dcterms:title>
+                    </bibo:Conference>
+                </bibo:presentedAt>
+                <z:history>History</z:history>
+                <dcterms:date>Date</dcterms:date>
+                <dcterms:language>Language</dcterms:language>
+                <bibo:shortTitle>Short Title</bibo:shortTitle>
+                <bibo:uri>URL</bibo:uri>
+                <z:extra>Extra</z:extra>
+                <dcterms:contributor rdf:nodeID="n544"/>
+                <bibo:authorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n544"/></rdf:Seq>
+                </bibo:authorList>
+                <dcterms:isPartOf>
+                    <bibo:Series>
+                       <bibo:numberOfVolumes># of Volumes</bibo:numberOfVolumes>
+                    </bibo:Series>
+                </dcterms:isPartOf>
+            </bibo:Hearing>
+        </res:resource>
+        <z:accessDate>2003-01-02</z:accessDate>
+        <dcterms:rights>Rights</dcterms:rights>
+    </z:UserItem>
+    <foaf:Person rdf:nodeID="n544">
+        <foaf:givenname>AuthorsF I</foaf:givenname>
+        <foaf:surname>AuthorL</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/275915/items/2PK4AN9A">
+        <res:resource>
+            <sioct:InstantMessage>
+                <dcterms:title>Title</dcterms:title>
+                <dcterms:abstract>Abstract</dcterms:abstract>
+                <dcterms:date>Date</dcterms:date>
+                <dcterms:language>Language</dcterms:language>
+                <bibo:shortTitle>Short Title</bibo:shortTitle>
+                <bibo:uri>URL</bibo:uri>
+                <z:extra>Extra</z:extra>
+                <dcterms:creator rdf:nodeID="n548"/>
+                <bibo:authorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n548"/></rdf:Seq>
+                </bibo:authorList>
+                <dcterms:contributor rdf:nodeID="n550"/>
+                <bibo:contributorList>
+                    <rdf:Seq>
+                       <rdf:li rdf:nodeID="n550"/><rdf:li rdf:nodeID="n552"/>
+                    </rdf:Seq>
+                </bibo:contributorList>
+                <bibo:recipient rdf:nodeID="n552"/>
+                <rdf:type rdf:resource="http://purl.org/ontology/bibo/PersonalCommunication"/>
+            </sioct:InstantMessage>
+        </res:resource>
+        <z:accessDate>2003-01-02</z:accessDate>
+        <dcterms:rights>Rights</dcterms:rights>
+    </z:UserItem>
+    <foaf:Person rdf:nodeID="n548">
+        <foaf:givenname>AuthorsF I</foaf:givenname>
+        <foaf:surname>AuthorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n550">
+        <foaf:givenname>ContributorF I</foaf:givenname>
+        <foaf:surname>ContributorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n552">
+        <foaf:givenname>RecipientF I</foaf:givenname>
+        <foaf:surname>RecipientL</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/275915/items/9VVZ5Z3V">
+        <res:resource>
+            <bibo:Interview>
+                <dcterms:title>Title</dcterms:title>
+                <dcterms:abstract>Abstract</dcterms:abstract>
+                <dcterms:date>Date</dcterms:date>
+                <dcterms:medium>Medium</dcterms:medium>
+                <dcterms:language>Language</dcterms:language>
+                <bibo:shortTitle>Short Title</bibo:shortTitle>
+                <bibo:uri>URL</bibo:uri>
+                <z:repository>Archive</z:repository>
+                <dcterms:source>Loc. in Archive</dcterms:source>
+                <bibo:lccn>Call Number</bibo:lccn>
+                <z:extra>Extra</z:extra>
+                <bibo:interviewee rdf:nodeID="n555"/>
+                <bibo:authorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n555"/></rdf:Seq>
+                </bibo:authorList>
+                <dcterms:contributor rdf:nodeID="n557"/>
+                <bibo:contributorList>
+                    <rdf:Seq>
+                        <rdf:li rdf:nodeID="n557"/>
+                        <rdf:li rdf:nodeID="n559"/>
+                        <rdf:li rdf:nodeID="n560"/>
+                    </rdf:Seq>
+                </bibo:contributorList>
+                <bibo:interviewer rdf:nodeID="n559"/>
+                <bibo:translator rdf:nodeID="n560"/>
+            </bibo:Interview>
+        </res:resource>
+        <z:accessDate>2003-01-02</z:accessDate>
+        <z:repository>Library Catalog</z:repository>
+        <dcterms:rights>Rights</dcterms:rights>
+    </z:UserItem>
+    <foaf:Person rdf:nodeID="n555">
+        <foaf:givenname>AuthorsF I</foaf:givenname>
+        <foaf:surname>Interview WithL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n557">
+        <foaf:givenname>ContributorF I</foaf:givenname>
+        <foaf:surname>ContributorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n559">
+        <foaf:givenname>InterviewerF I</foaf:givenname>
+        <foaf:surname>InterviewerL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n560">
+        <foaf:givenname>TranslatorF I</foaf:givenname>
+        <foaf:surname>TranslatorL</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/275915/items/P7QA4NE5">
+        <res:resource>
+            <bibo:AcademicArticle>
+                <dcterms:title>Title</dcterms:title>
+                <dcterms:abstract>Abstract</dcterms:abstract>
+                <bibo:pages>Pages</bibo:pages>
+                <dcterms:language>Language</dcterms:language>
+                <bibo:doi>DOI</bibo:doi>
+                <bibo:shortTitle>Short Title</bibo:shortTitle>
+                <bibo:uri>URL</bibo:uri>
+                <z:repository>Archive</z:repository>
+                <dcterms:source>Loc. in Archive</dcterms:source>
+                <z:extra>Extra</z:extra>
+                <dcterms:creator rdf:nodeID="n567"/>
+                <bibo:authorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n567"/></rdf:Seq>
+                </bibo:authorList>
+                <dcterms:contributor rdf:nodeID="n569"/>
+                <bibo:contributorList>
+                    <rdf:Seq>
+                       <rdf:li rdf:nodeID="n569"/><rdf:li rdf:nodeID="n573"/>
+                    </rdf:Seq>
+                </bibo:contributorList>
+                <bibo:reviewOf>
+                    <rdf:Description>
+                       <dcterms:creator rdf:nodeID="n573"/>
+                    </rdf:Description>
+                </bibo:reviewOf>
+                <dcterms:isPartOf>
+                    <bibo:Series>
+                        <dcterms:title>Series Title</dcterms:title>
+                        <dcterms:description>Series Text</dcterms:description>
+                    </bibo:Series>
+                </dcterms:isPartOf>
+                <dcterms:isPartOf>
+                    <bibo:Issue>
+                        <bibo:volume>Volume</bibo:volume>
+                        <bibo:issue>Issue</bibo:issue>
+                        <dcterms:date>Date</dcterms:date>
+                        <bibo:lccn>Call Number</bibo:lccn>
+                        <bibo:editor rdf:nodeID="n571"/>
+                        <bibo:editorList>
+                           <rdf:Seq><rdf:li rdf:nodeID="n571"/></rdf:Seq>
+                        </bibo:editorList>
+                        <bibo:translator rdf:nodeID="n575"/>
+                        <bibo:contributorList>
+                           <rdf:Seq><rdf:li rdf:nodeID="n575"/></rdf:Seq>
+                        </bibo:contributorList>
+                        <dcterms:isPartOf>
+                            <bibo:Journal>
+                                <dcterms:title>Publication</dcterms:title>
+                                <bibo:shortTitle>Journal Abbr</bibo:shortTitle>
+                                <bibo:issn>ISSN</bibo:issn>
+                                <dcterms:isPartOf>
+                                    <bibo:Series>
+                                       <dcterms:title>Series</dcterms:title>
+                                    </bibo:Series>
+                                </dcterms:isPartOf>
+                            </bibo:Journal>
+                        </dcterms:isPartOf>
+                    </bibo:Issue>
+                </dcterms:isPartOf>
+            </bibo:AcademicArticle>
+        </res:resource>
+        <z:accessDate>2003-01-02</z:accessDate>
+        <z:repository>Library Catalog</z:repository>
+        <dcterms:rights>Rights</dcterms:rights>
+    </z:UserItem>
+    <foaf:Person rdf:nodeID="n567">
+        <foaf:givenname>AuthorsF I</foaf:givenname>
+        <foaf:surname>AuthorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n569">
+        <foaf:givenname>ContributorF I</foaf:givenname>
+        <foaf:surname>ContributorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n571">
+        <foaf:givenname>EditorF I</foaf:givenname>
+        <foaf:surname>EditorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n573">
+        <foaf:givenname>ReviewedF I</foaf:givenname>
+        <foaf:surname>Reviewed AuthorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n575">
+        <foaf:givenname>TranslatorF I</foaf:givenname>
+        <foaf:surname>TranslatorL</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/275915/items/44SBG6G6">
+        <res:resource>
+            <bibo:AcademicArticle>
+                <dcterms:title>Title (attachment test)</dcterms:title>
+                <dcterms:abstract>Abstract</dcterms:abstract>
+                <bibo:pages>Pages</bibo:pages>
+                <dcterms:language>Language</dcterms:language>
+                <bibo:doi>DOI</bibo:doi>
+                <bibo:shortTitle>Short Title</bibo:shortTitle>
+                <bibo:uri>URL</bibo:uri>
+                <z:repository>Archive</z:repository>
+                <dcterms:source>Loc. in Archive</dcterms:source>
+                <z:extra>Extra</z:extra>
+                <dcterms:creator rdf:nodeID="n583"/>
+                <bibo:authorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n583"/></rdf:Seq>
+                </bibo:authorList>
+                <dcterms:contributor rdf:nodeID="n585"/>
+                <bibo:contributorList>
+                    <rdf:Seq>
+                       <rdf:li rdf:nodeID="n585"/><rdf:li rdf:nodeID="n589"/>
+                    </rdf:Seq>
+                </bibo:contributorList>
+                <bibo:reviewOf>
+                    <rdf:Description>
+                       <dcterms:creator rdf:nodeID="n589"/>
+                    </rdf:Description>
+                </bibo:reviewOf>
+                <dcterms:isPartOf>
+                    <bibo:Series>
+                        <dcterms:title>Series Title</dcterms:title>
+                        <dcterms:description>Series Text</dcterms:description>
+                    </bibo:Series>
+                </dcterms:isPartOf>
+                <dcterms:isPartOf>
+                    <bibo:Issue>
+                        <bibo:volume>Volume</bibo:volume>
+                        <bibo:issue>Issue</bibo:issue>
+                        <dcterms:date>Date</dcterms:date>
+                        <bibo:lccn>Call Number</bibo:lccn>
+                        <bibo:editor rdf:nodeID="n587"/>
+                        <bibo:editorList>
+                           <rdf:Seq><rdf:li rdf:nodeID="n587"/></rdf:Seq>
+                        </bibo:editorList>
+                        <bibo:translator rdf:nodeID="n591"/>
+                        <bibo:contributorList>
+                           <rdf:Seq><rdf:li rdf:nodeID="n591"/></rdf:Seq>
+                        </bibo:contributorList>
+                        <dcterms:isPartOf>
+                            <bibo:Journal>
+                                <dcterms:title>Publication</dcterms:title>
+                                <bibo:shortTitle>Journal Abbr</bibo:shortTitle>
+                                <bibo:issn>ISSN</bibo:issn>
+                                <dcterms:isPartOf>
+                                    <bibo:Series>
+                                       <dcterms:title>Series</dcterms:title>
+                                    </bibo:Series>
+                                </dcterms:isPartOf>
+                            </bibo:Journal>
+                        </dcterms:isPartOf>
+                    </bibo:Issue>
+                </dcterms:isPartOf>
+            </bibo:AcademicArticle>
+        </res:resource>
+        <z:accessDate>2003-01-02</z:accessDate>
+        <z:repository>Library Catalog</z:repository>
+        <dcterms:rights>Rights</dcterms:rights>
+    </z:UserItem>
+    <foaf:Person rdf:nodeID="n583">
+        <foaf:givenname>AuthorsF I</foaf:givenname>
+        <foaf:surname>AuthorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n585">
+        <foaf:givenname>ContributorF I</foaf:givenname>
+        <foaf:surname>ContributorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n587">
+        <foaf:givenname>EditorF I</foaf:givenname>
+        <foaf:surname>EditorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n589">
+        <foaf:givenname>ReviewedF I</foaf:givenname>
+        <foaf:surname>Reviewed AuthorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n591">
+        <foaf:givenname>TranslatorF I</foaf:givenname>
+        <foaf:surname>TranslatorL</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/275915/items/9UA23R2D">
+        <res:resource>
+            <bibo:Letter>
+                <dcterms:title>Title</dcterms:title>
+                <dcterms:abstract>Abstract</dcterms:abstract>
+                <dcterms:type>Type</dcterms:type>
+                <dcterms:date>Date</dcterms:date>
+                <dcterms:language>Language</dcterms:language>
+                <bibo:shortTitle>Short Title</bibo:shortTitle>
+                <bibo:uri>URL</bibo:uri>
+                <z:repository>Archive</z:repository>
+                <dcterms:source>Loc. in Archive</dcterms:source>
+                <bibo:lccn>Call Number</bibo:lccn>
+                <z:extra>Extra</z:extra>
+                <dcterms:creator rdf:nodeID="n595"/>
+                <bibo:authorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n595"/></rdf:Seq>
+                </bibo:authorList>
+                <dcterms:contributor rdf:nodeID="n597"/>
+                <bibo:contributorList>
+                    <rdf:Seq>
+                       <rdf:li rdf:nodeID="n597"/><rdf:li rdf:nodeID="n599"/>
+                    </rdf:Seq>
+                </bibo:contributorList>
+                <bibo:recipient rdf:nodeID="n599"/>
+            </bibo:Letter>
+        </res:resource>
+        <z:accessDate>2003-01-02</z:accessDate>
+        <z:repository>Library Catalog</z:repository>
+        <dcterms:rights>Rights</dcterms:rights>
+    </z:UserItem>
+    <foaf:Person rdf:nodeID="n595">
+        <foaf:givenname>AuthorsF I</foaf:givenname>
+        <foaf:surname>AuthorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n597">
+        <foaf:givenname>ContributorF I</foaf:givenname>
+        <foaf:surname>ContributorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n599">
+        <foaf:givenname>RecipientF I</foaf:givenname>
+        <foaf:surname>RecipientL</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/275915/items/P4ZSBGEV">
+        <res:resource>
+            <bibo:Article>
+                <dcterms:title>Title</dcterms:title>
+                <dcterms:abstract>Abstract</dcterms:abstract>
+                <bibo:pages>Pages</bibo:pages>
+                <dcterms:language>Language</dcterms:language>
+                <bibo:shortTitle>Short Title</bibo:shortTitle>
+                <bibo:uri>URL</bibo:uri>
+                <z:repository>Archive</z:repository>
+                <dcterms:source>Loc. in Archive</dcterms:source>
+                <z:extra>Extra</z:extra>
+                <dcterms:creator rdf:nodeID="n606"/>
+                <bibo:authorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n606"/></rdf:Seq>
+                </bibo:authorList>
+                <dcterms:contributor rdf:nodeID="n608"/>
+                <bibo:contributorList>
+                    <rdf:Seq>
+                       <rdf:li rdf:nodeID="n608"/><rdf:li rdf:nodeID="n610"/>
+                    </rdf:Seq>
+                </bibo:contributorList>
+                <bibo:reviewOf>
+                    <rdf:Description>
+                       <dcterms:creator rdf:nodeID="n610"/>
+                    </rdf:Description>
+                </bibo:reviewOf>
+                <dcterms:isPartOf>
+                    <bibo:Issue>
+                        <bibo:volume>Volume</bibo:volume>
+                        <bibo:issue>Issue</bibo:issue>
+                        <dcterms:date>Date</dcterms:date>
+                        <bibo:lccn>Call Number</bibo:lccn>
+                        <bibo:translator rdf:nodeID="n612"/>
+                        <bibo:contributorList>
+                           <rdf:Seq><rdf:li rdf:nodeID="n612"/></rdf:Seq>
+                        </bibo:contributorList>
+                        <dcterms:isPartOf>
+                            <bibo:Magazine>
+                                <dcterms:title>Publication</dcterms:title>
+                                <bibo:issn>ISSN</bibo:issn>
+                            </bibo:Magazine>
+                        </dcterms:isPartOf>
+                    </bibo:Issue>
+                </dcterms:isPartOf>
+            </bibo:Article>
+        </res:resource>
+        <z:accessDate>2003-01-02</z:accessDate>
+        <z:repository>Library Catalog</z:repository>
+        <dcterms:rights>Rights</dcterms:rights>
+    </z:UserItem>
+    <foaf:Person rdf:nodeID="n606">
+        <foaf:givenname>AuthorsF I</foaf:givenname>
+        <foaf:surname>AuthorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n608">
+        <foaf:givenname>ContributorF I</foaf:givenname>
+        <foaf:surname>ContributorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n610">
+        <foaf:givenname>Reviewed AuthorF I</foaf:givenname>
+        <foaf:surname>Reviewed AuthorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n612">
+        <foaf:givenname>TranslatorF I</foaf:givenname>
+        <foaf:surname>TranslatorL</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/275915/items/IUIBP3GJ">
+        <res:resource>
+            <bibo:Manuscript>
+                <dcterms:title>Title</dcterms:title>
+                <dcterms:abstract>Abstract</dcterms:abstract>
+                <dcterms:type>Type</dcterms:type>
+                <dcterms:publisher>
+                    <foaf:Organization>
+                       <address:localityName>Place</address:localityName>
+                    </foaf:Organization>
+                </dcterms:publisher>
+                <dcterms:date>Date</dcterms:date>
+                <bibo:numPages># of Pages</bibo:numPages>
+                <dcterms:language>Language</dcterms:language>
+                <bibo:shortTitle>Short Title</bibo:shortTitle>
+                <bibo:uri>URL</bibo:uri>
+                <z:repository>Archive</z:repository>
+                <dcterms:source>Loc. in Archive</dcterms:source>
+                <bibo:lccn>Call Number</bibo:lccn>
+                <z:extra>Extra</z:extra>
+                <dcterms:creator rdf:nodeID="n617"/>
+                <bibo:authorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n617"/></rdf:Seq>
+                </bibo:authorList>
+                <dcterms:contributor rdf:nodeID="n619"/>
+                <bibo:contributorList>
+                    <rdf:Seq>
+                       <rdf:li rdf:nodeID="n619"/><rdf:li rdf:nodeID="n621"/>
+                    </rdf:Seq>
+                </bibo:contributorList>
+                <bibo:translator rdf:nodeID="n621"/>
+            </bibo:Manuscript>
+        </res:resource>
+        <z:accessDate>2003-01-02</z:accessDate>
+        <z:repository>Library Catalog</z:repository>
+        <dcterms:rights>Rights</dcterms:rights>
+    </z:UserItem>
+    <foaf:Person rdf:nodeID="n617">
+        <foaf:givenname>AuthorsF I</foaf:givenname>
+        <foaf:surname>AuthorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n619">
+        <foaf:givenname>ContributorF I</foaf:givenname>
+        <foaf:surname>ContributorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n621">
+        <foaf:givenname>TranslatorF I</foaf:givenname>
+        <foaf:surname>TranslatorL</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/275915/items/XZ9D9RG6">
+        <res:resource>
+            <bibo:Map>
+                <dcterms:title>Title</dcterms:title>
+                <dcterms:abstract>Abstract</dcterms:abstract>
+                <dcterms:type>Type</dcterms:type>
+                <z:scale>Scale</z:scale>
+                <bibo:edition>Edition</bibo:edition>
+                <dcterms:publisher>
+                    <foaf:Organization>
+                        <address:localityName>Place</address:localityName>
+                        <foaf:name>Publisher</foaf:name>
+                    </foaf:Organization>
+                </dcterms:publisher>
+                <dcterms:date>Date</dcterms:date>
+                <dcterms:language>Language</dcterms:language>
+                <bibo:isbn13>ISBN</bibo:isbn13>
+                <bibo:shortTitle>Short Title</bibo:shortTitle>
+                <bibo:uri>URL</bibo:uri>
+                <z:repository>Archive</z:repository>
+                <dcterms:source>Loc. in Archive</dcterms:source>
+                <bibo:lccn>Call Number</bibo:lccn>
+                <z:extra>Extra</z:extra>
+                <dcterms:creator rdf:nodeID="n625"/>
+                <bibo:authorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n625"/></rdf:Seq>
+                </bibo:authorList>
+                <dcterms:contributor rdf:nodeID="n627"/>
+                <bibo:contributorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n627"/></rdf:Seq>
+                </bibo:contributorList>
+                <dcterms:isPartOf>
+                    <bibo:Series>
+                        <dcterms:title>Series Title</dcterms:title>
+                        <bibo:editor rdf:nodeID="n629"/>
+                        <bibo:editorList>
+                           <rdf:Seq><rdf:li rdf:nodeID="n629"/></rdf:Seq>
+                        </bibo:editorList>
+                    </bibo:Series>
+                </dcterms:isPartOf>
+            </bibo:Map>
+        </res:resource>
+        <z:accessDate>2003-01-02</z:accessDate>
+        <z:repository>Library Catalog</z:repository>
+        <dcterms:rights>Rights</dcterms:rights>
+    </z:UserItem>
+    <foaf:Person rdf:nodeID="n625">
+        <foaf:givenname>AuthorsF I</foaf:givenname>
+        <foaf:surname>AuthorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n627">
+        <foaf:givenname>ContributorF I</foaf:givenname>
+        <foaf:surname>ContributorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n629">
+        <foaf:givenname>SeriesF I</foaf:givenname>
+        <foaf:surname>Series EditorL</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/275915/items/I5K8JQPA">
+        <res:resource>
+            <bibo:Article>
+                <dcterms:title>Title</dcterms:title>
+                <dcterms:abstract>Abstract</dcterms:abstract>
+                <bibo:section>Section</bibo:section>
+                <bibo:pages>Pages</bibo:pages>
+                <dcterms:language>Language</dcterms:language>
+                <bibo:shortTitle>Short Title</bibo:shortTitle>
+                <bibo:uri>URL</bibo:uri>
+                <z:repository>Archive</z:repository>
+                <dcterms:source>Loc. in Archive</dcterms:source>
+                <z:extra>Extra</z:extra>
+                <dcterms:creator rdf:nodeID="n638"/>
+                <bibo:authorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n638"/></rdf:Seq>
+                </bibo:authorList>
+                <dcterms:contributor rdf:nodeID="n640"/>
+                <bibo:contributorList>
+                    <rdf:Seq>
+                       <rdf:li rdf:nodeID="n640"/><rdf:li rdf:nodeID="n644"/>
+                    </rdf:Seq>
+                </bibo:contributorList>
+                <bibo:reviewOf>
+                    <rdf:Description>
+                       <dcterms:creator rdf:nodeID="n644"/>
+                    </rdf:Description>
+                </bibo:reviewOf>
+                <dcterms:isPartOf>
+                    <bibo:Issue>
+                        <bibo:edition>Edition</bibo:edition>
+                        <dcterms:date>Date</dcterms:date>
+                        <bibo:lccn>Call Number</bibo:lccn>
+                        <bibo:translator rdf:nodeID="n642"/>
+                        <bibo:contributorList>
+                           <rdf:Seq><rdf:li rdf:nodeID="n642"/></rdf:Seq>
+                        </bibo:contributorList>
+                        <dcterms:isPartOf>
+                            <bibo:Newspaper>
+                                <dcterms:title>Publication</dcterms:title>
+                                <dcterms:publisher>
+                                    <foaf:Organization>
+                                        <address:localityName>Place</address:localityName>
+                                    </foaf:Organization>
+                                </dcterms:publisher>
+                                <bibo:issn>ISSN</bibo:issn>
+                            </bibo:Newspaper>
+                        </dcterms:isPartOf>
+                    </bibo:Issue>
+                </dcterms:isPartOf>
+            </bibo:Article>
+        </res:resource>
+        <z:accessDate>2003-01-02</z:accessDate>
+        <z:repository>Library Catalog</z:repository>
+        <dcterms:rights>Rights</dcterms:rights>
+    </z:UserItem>
+    <foaf:Person rdf:nodeID="n638">
+        <foaf:givenname>AuthorsF I</foaf:givenname>
+        <foaf:surname>AuthorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n640">
+        <foaf:givenname>ContributorF I</foaf:givenname>
+        <foaf:surname>ContributorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n642">
+        <foaf:givenname>TranslatorF I</foaf:givenname>
+        <foaf:surname>TranslatorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n644">
+        <foaf:givenname>Reviewed AuthorF I</foaf:givenname>
+        <foaf:surname>Reviewed AuthorL</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/275915/items/3TRKCEKB">
+        <res:resource>
+            <bibo:Patent>
+                <dcterms:title>Title</dcterms:title>
+                <dcterms:abstract>Abstract</dcterms:abstract>
+                <dcterms:publisher>
+                    <foaf:Organization>
+                        <address:localityName>Place</address:localityName>
+                        <address:countryName>Country</address:countryName>
+                    </foaf:Organization>
+                </dcterms:publisher>
+                <z:assignee>Assignee</z:assignee>
+                <bibo:issuer>
+                    <foaf:Organization>
+                       <foaf:name>Issuing Authority</foaf:name>
+                    </foaf:Organization>
+                </bibo:issuer>
+                <bibo:number>Patent Number</bibo:number>
+                <dcterms:dateSubmitted>0000-00-00 Filing Date</dcterms:dateSubmitted>
+                <bibo:pages>Pages</bibo:pages>
+                <z:applicationNumber>Application Number</z:applicationNumber>
+                <z:priorityNumber>Priority</z:priorityNumber>
+                <z:priorityNumber>Number</z:priorityNumber>
+                <dcterms:date>Issue Date</dcterms:date>
+                <z:references>References</z:references>
+                <bibo:status>Legal Status</bibo:status>
+                <dcterms:language>Language</dcterms:language>
+                <bibo:shortTitle>Short Title</bibo:shortTitle>
+                <bibo:uri>URL</bibo:uri>
+                <z:extra>Extra</z:extra>
+                <dcterms:creator rdf:nodeID="n650"/>
+                <bibo:authorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n650"/></rdf:Seq>
+                </bibo:authorList>
+                <dcterms:contributor rdf:nodeID="n652"/>
+                <bibo:contributorList>
+                    <rdf:Seq>
+                       <rdf:li rdf:nodeID="n652"/><rdf:li rdf:nodeID="n654"/>
+                    </rdf:Seq>
+                </bibo:contributorList>
+                <z:attorneyAgent rdf:nodeID="n654"/>
+            </bibo:Patent>
+        </res:resource>
+        <z:accessDate>2003-01-02</z:accessDate>
+        <dcterms:rights>Rights</dcterms:rights>
+    </z:UserItem>
+    <foaf:Person rdf:nodeID="n650">
+        <foaf:givenname>InventorF I</foaf:givenname>
+        <foaf:surname>InventorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n652">
+        <foaf:givenname>ContributorF I</foaf:givenname>
+        <foaf:surname>ContributorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n654">
+        <foaf:givenname>Attorney/AgentF I</foaf:givenname>
+        <foaf:surname>Attorney/AgentL</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/275915/items/FPDB6FUJ">
+        <res:resource>
+            <z:Podcast>
+                <dcterms:title>Title</dcterms:title>
+                <dcterms:abstract>Abstract</dcterms:abstract>
+                <bibo:number>Episode Number</bibo:number>
+                <dcterms:medium>File Type</dcterms:medium>
+                <po:duration>Running Time</po:duration>
+                <bibo:uri>URL</bibo:uri>
+                <dcterms:language>Language</dcterms:language>
+                <bibo:shortTitle>Short Title</bibo:shortTitle>
+                <z:extra>Extra</z:extra>
+                <dcterms:creator rdf:nodeID="n657"/>
+                <bibo:authorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n657"/></rdf:Seq>
+                </bibo:authorList>
+                <dcterms:contributor rdf:nodeID="n659"/>
+                <bibo:contributorList>
+                    <rdf:Seq>
+                       <rdf:li rdf:nodeID="n659"/><rdf:li rdf:nodeID="n661"/>
+                    </rdf:Seq>
+                </bibo:contributorList>
+                <po:participant rdf:nodeID="n661"/>
+                <dcterms:isPartOf>
+                    <bibo:Series>
+                       <dcterms:title>Series Title</dcterms:title>
+                    </bibo:Series>
+                </dcterms:isPartOf>
+                <rdf:type rdf:resource="http://purl.org/ontology/bibo/AudioDocument"/>
+            </z:Podcast>
+        </res:resource>
+        <z:accessDate>2003-01-02</z:accessDate>
+        <dcterms:rights>Rights</dcterms:rights>
+    </z:UserItem>
+    <foaf:Person rdf:nodeID="n657">
+        <foaf:givenname>PodcasterF I</foaf:givenname>
+        <foaf:surname>PodcasterL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n659">
+        <foaf:givenname>ContributorF I</foaf:givenname>
+        <foaf:surname>ContributorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n661">
+        <foaf:givenname>GuestF I</foaf:givenname>
+        <foaf:surname>GuestL</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/275915/items/DBDA6XE4">
+        <res:resource>
+            <bibo:Slideshow>
+                <dcterms:title>Title</dcterms:title>
+                <dcterms:abstract>Abstract</dcterms:abstract>
+                <dcterms:type>Type</dcterms:type>
+                <dcterms:date>Date</dcterms:date>
+                <dcterms:publisher>
+                    <foaf:Organization>
+                       <address:localityName>Place</address:localityName>
+                    </foaf:Organization>
+                </dcterms:publisher>
+                <bibo:presentedAt>
+                    <bibo:Conference>
+                       <dcterms:title>Meeting Name</dcterms:title>
+                    </bibo:Conference>
+                </bibo:presentedAt>
+                <bibo:uri>URL</bibo:uri>
+                <dcterms:language>Language</dcterms:language>
+                <bibo:shortTitle>Short Title</bibo:shortTitle>
+                <z:extra>Extra</z:extra>
+                <dcterms:creator rdf:nodeID="n666"/>
+                <bibo:authorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n666"/></rdf:Seq>
+                </bibo:authorList>
+                <dcterms:contributor rdf:nodeID="n668"/>
+                <bibo:contributorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n668"/></rdf:Seq>
+                </bibo:contributorList>
+            </bibo:Slideshow>
+        </res:resource>
+        <z:accessDate>2003-01-02</z:accessDate>
+        <dcterms:rights>Rights</dcterms:rights>
+    </z:UserItem>
+    <foaf:Person rdf:nodeID="n666">
+        <foaf:givenname>PresenterF I</foaf:givenname>
+        <foaf:surname>PresenterL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n668">
+        <foaf:givenname>ContributorF I</foaf:givenname>
+        <foaf:surname>ContributorL</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/275915/items/8U24NXZR">
+        <res:resource>
+            <po:AudioDocument>
+                <dcterms:title>Title</dcterms:title>
+                <dcterms:abstract>Abstract</dcterms:abstract>
+                <bibo:number>Episode Number</bibo:number>
+                <dcterms:medium>Format</dcterms:medium>
+                <po:duration>Running Time</po:duration>
+                <dcterms:language>Language</dcterms:language>
+                <bibo:shortTitle>Short Title</bibo:shortTitle>
+                <bibo:uri>URL</bibo:uri>
+                <z:repository>Archive</z:repository>
+                <dcterms:source>Loc. in Archive</dcterms:source>
+                <z:extra>Extra</z:extra>
+                <bibo:director rdf:nodeID="n675"/>
+                <bibo:authorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n675"/></rdf:Seq>
+                </bibo:authorList>
+                <dcterms:contributor rdf:nodeID="n677"/>
+                <bibo:contributorList>
+                    <rdf:Seq>
+                        <rdf:li rdf:nodeID="n677"/>
+                        <rdf:li rdf:nodeID="n679"/>
+                        <rdf:li rdf:nodeID="n680"/>
+                        <rdf:li rdf:nodeID="n681"/>
+                        <rdf:li rdf:nodeID="n682"/>
+                    </rdf:Seq>
+                </bibo:contributorList>
+                <rel:ACT rdf:nodeID="n679"/>
+                <po:participant rdf:nodeID="n680"/>
+                <bibo:producer rdf:nodeID="n681"/>
+                <rel:AUS rdf:nodeID="n682"/>
+                <rdf:type rdf:resource="http://purl.org/ontology/po/Episode"/>
+                <po:broadcast_on rdf:resource="http://purl.org/ontology/po/Radio"/>
+                <dcterms:isPartOf>
+                    <po:Programme>
+                        <dcterms:title>Program Title</dcterms:title>
+                        <dcterms:publisher>
+                            <foaf:Organization>
+                                <address:localityName>Place</address:localityName>
+                                <foaf:name>Network</foaf:name>
+                            </foaf:Organization>
+                        </dcterms:publisher>
+                        <dcterms:date>Date</dcterms:date>
+                        <bibo:lccn>Call Number</bibo:lccn>
+                    </po:Programme>
+                </dcterms:isPartOf>
+            </po:AudioDocument>
+        </res:resource>
+        <z:accessDate>2003-01-02</z:accessDate>
+        <z:repository>Library Catalog</z:repository>
+        <dcterms:rights>Rights</dcterms:rights>
+    </z:UserItem>
+    <foaf:Person rdf:nodeID="n675">
+        <foaf:givenname>DirectorF I</foaf:givenname>
+        <foaf:surname>DirectorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n677">
+        <foaf:givenname>ContributorF I</foaf:givenname>
+        <foaf:surname>ContributorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n679">
+        <foaf:givenname>Cast MemberF I</foaf:givenname>
+        <foaf:surname>Cast MemberL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n680">
+        <foaf:givenname>GuestF I</foaf:givenname>
+        <foaf:surname>GuestL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n681">
+        <foaf:givenname>ProducerF I</foaf:givenname>
+        <foaf:surname>ProducerL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n682">
+        <foaf:givenname>ScriptwriterF I</foaf:givenname>
+        <foaf:surname>ScriptwriterL</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/275915/items/SPBHF4U3">
+        <res:resource>
+            <bibo:Report>
+                <dcterms:title>Title</dcterms:title>
+                <dcterms:abstract>Abstract</dcterms:abstract>
+                <bibo:number>Report Number</bibo:number>
+                <dcterms:type>Report Type</dcterms:type>
+                <dcterms:publisher>
+                    <foaf:Organization>
+                        <address:localityName>Place</address:localityName>
+                        <foaf:name>Institution</foaf:name>
+                    </foaf:Organization>
+                </dcterms:publisher>
+                <dcterms:date>Date</dcterms:date>
+                <bibo:pages>Pages</bibo:pages>
+                <dcterms:language>Language</dcterms:language>
+                <bibo:shortTitle>Short Title</bibo:shortTitle>
+                <bibo:uri>URL</bibo:uri>
+                <z:repository>Archive</z:repository>
+                <dcterms:source>Loc. in Archive</dcterms:source>
+                <bibo:lccn>Call Number</bibo:lccn>
+                <z:extra>Extra</z:extra>
+                <dcterms:creator rdf:nodeID="n686"/>
+                <bibo:authorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n686"/></rdf:Seq>
+                </bibo:authorList>
+                <dcterms:contributor rdf:nodeID="n688"/>
+                <bibo:contributorList>
+                    <rdf:Seq>
+                       <rdf:li rdf:nodeID="n688"/><rdf:li rdf:nodeID="n692"/>
+                    </rdf:Seq>
+                </bibo:contributorList>
+                <bibo:translator rdf:nodeID="n692"/>
+                <dcterms:isPartOf>
+                    <bibo:Series>
+                        <dcterms:title>Series Title</dcterms:title>
+                        <bibo:editor rdf:nodeID="n690"/>
+                        <bibo:editorList>
+                           <rdf:Seq><rdf:li rdf:nodeID="n690"/></rdf:Seq>
+                        </bibo:editorList>
+                    </bibo:Series>
+                </dcterms:isPartOf>
+            </bibo:Report>
+        </res:resource>
+        <z:accessDate>2003-01-02</z:accessDate>
+        <z:repository>Library Catalog</z:repository>
+        <dcterms:rights>Rights</dcterms:rights>
+    </z:UserItem>
+    <foaf:Person rdf:nodeID="n686">
+        <foaf:givenname>AuthorsF I</foaf:givenname>
+        <foaf:surname>AuthorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n688">
+        <foaf:givenname>ContributorF I</foaf:givenname>
+        <foaf:surname>ContributorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n690">
+        <foaf:givenname>SeriesF I</foaf:givenname>
+        <foaf:surname>Series EditorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n692">
+        <foaf:givenname>TranslatorF I</foaf:givenname>
+        <foaf:surname>TranslatorL</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/275915/items/GNEPSXQC">
+        <res:resource>
+            <bibo:Statute>
+                <dcterms:title>Name of Act</dcterms:title>
+                <dcterms:abstract>Abstract</dcterms:abstract>
+                <bibo:number>Public Law Number</bibo:number>
+                <bibo:pages>Pages</bibo:pages>
+                <bibo:section>Section</bibo:section>
+                <bibo:presentedAt>
+                    <bibo:Conference>
+                       <dcterms:title>Session</dcterms:title>
+                    </bibo:Conference>
+                </bibo:presentedAt>
+                <z:history>History</z:history>
+                <dcterms:language>Language</dcterms:language>
+                <bibo:shortTitle>Short Title</bibo:shortTitle>
+                <bibo:uri>URL</bibo:uri>
+                <z:extra>Extra</z:extra>
+                <dcterms:creator rdf:nodeID="n698"/>
+                <bibo:authorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n698"/></rdf:Seq>
+                </bibo:authorList>
+                <dcterms:contributor rdf:nodeID="n700"/>
+                <bibo:contributorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n700"/></rdf:Seq>
+                </bibo:contributorList>
+                <dcterms:isPartOf>
+                    <bibo:Code>
+                        <dcterms:title>Code</dcterms:title>
+                        <bibo:number>Code Number</bibo:number>
+                        <dcterms:date>Date</dcterms:date>
+                    </bibo:Code>
+                </dcterms:isPartOf>
+            </bibo:Statute>
+        </res:resource>
+        <z:accessDate>2003-01-02</z:accessDate>
+        <dcterms:rights>Rights</dcterms:rights>
+    </z:UserItem>
+    <foaf:Person rdf:nodeID="n698">
+        <foaf:givenname>AuthorsF I</foaf:givenname>
+        <foaf:surname>AuthorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n700">
+        <foaf:givenname>ContributorF I</foaf:givenname>
+        <foaf:surname>ContributorL</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/275915/items/92ITIAUC">
+        <res:resource>
+            <bibo:AudioVisualDocument>
+                <dcterms:title>Title</dcterms:title>
+                <dcterms:abstract>Abstract</dcterms:abstract>
+                <bibo:number>Episode Number</bibo:number>
+                <dcterms:medium>Format</dcterms:medium>
+                <po:duration>Running Time</po:duration>
+                <dcterms:language>Language</dcterms:language>
+                <bibo:shortTitle>Short Title</bibo:shortTitle>
+                <bibo:uri>URL</bibo:uri>
+                <z:repository>Archive</z:repository>
+                <dcterms:source>Loc. in Archive</dcterms:source>
+                <z:extra>Extra</z:extra>
+                <bibo:director rdf:nodeID="n707"/>
+                <bibo:authorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n707"/></rdf:Seq>
+                </bibo:authorList>
+                <dcterms:contributor rdf:nodeID="n709"/>
+                <bibo:contributorList>
+                    <rdf:Seq>
+                        <rdf:li rdf:nodeID="n709"/>
+                        <rdf:li rdf:nodeID="n711"/>
+                        <rdf:li rdf:nodeID="n712"/>
+                        <rdf:li rdf:nodeID="n713"/>
+                        <rdf:li rdf:nodeID="n714"/>
+                    </rdf:Seq>
+                </bibo:contributorList>
+                <rel:ACT rdf:nodeID="n711"/>
+                <po:participant rdf:nodeID="n712"/>
+                <bibo:producer rdf:nodeID="n713"/>
+                <rel:AUS rdf:nodeID="n714"/>
+                <rdf:type rdf:resource="http://purl.org/ontology/po/Episode"/>
+                <po:broadcast_on rdf:resource="http://purl.org/ontology/po/TV"/>
+                <dcterms:isPartOf>
+                    <po:Programme>
+                        <dcterms:title>Program Title</dcterms:title>
+                        <dcterms:publisher>
+                            <foaf:Organization>
+                                <address:localityName>Place</address:localityName>
+                                <foaf:name>Network</foaf:name>
+                            </foaf:Organization>
+                        </dcterms:publisher>
+                        <dcterms:date>Date</dcterms:date>
+                        <bibo:lccn>Call Number</bibo:lccn>
+                    </po:Programme>
+                </dcterms:isPartOf>
+            </bibo:AudioVisualDocument>
+        </res:resource>
+        <z:accessDate>2003-01-02</z:accessDate>
+        <z:repository>Library Catalog</z:repository>
+        <dcterms:rights>Rights</dcterms:rights>
+    </z:UserItem>
+    <foaf:Person rdf:nodeID="n707">
+        <foaf:givenname>DirectorF I</foaf:givenname>
+        <foaf:surname>DirectorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n709">
+        <foaf:givenname>ContributorF I</foaf:givenname>
+        <foaf:surname>ContributorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n711">
+        <foaf:givenname>Cast MemberF I</foaf:givenname>
+        <foaf:surname>Cast MemberL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n712">
+        <foaf:givenname>GuestF I</foaf:givenname>
+        <foaf:surname>GuestL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n713">
+        <foaf:givenname>ProducerF I</foaf:givenname>
+        <foaf:surname>ProducerL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n714">
+        <foaf:givenname>ScriptwriterF I</foaf:givenname>
+        <foaf:surname>ScriptwriterL</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/275915/items/KUC3PJIE">
+        <res:resource>
+            <bibo:Thesis>
+                <dcterms:title>Title</dcterms:title>
+                <dcterms:abstract>Abstract</dcterms:abstract>
+                <dcterms:type>Type</dcterms:type>
+                <dcterms:publisher>
+                    <foaf:Organization>
+                        <foaf:name>University</foaf:name>
+                        <address:localityName>Place</address:localityName>
+                    </foaf:Organization>
+                </dcterms:publisher>
+                <dcterms:date>Date</dcterms:date>
+                <bibo:numPages># of Pages</bibo:numPages>
+                <dcterms:language>Language</dcterms:language>
+                <bibo:shortTitle>Short Title</bibo:shortTitle>
+                <bibo:uri>URL</bibo:uri>
+                <z:repository>Archive</z:repository>
+                <dcterms:source>Loc. in Archive</dcterms:source>
+                <bibo:lccn>Call Number</bibo:lccn>
+                <z:extra>Extra</z:extra>
+                <dcterms:creator rdf:nodeID="n718"/>
+                <bibo:authorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n718"/></rdf:Seq>
+                </bibo:authorList>
+                <dcterms:contributor rdf:nodeID="n720"/>
+                <bibo:contributorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n720"/></rdf:Seq>
+                </bibo:contributorList>
+            </bibo:Thesis>
+        </res:resource>
+        <z:accessDate>2003-01-02</z:accessDate>
+        <z:repository>Library Catalog</z:repository>
+        <dcterms:rights>Rights</dcterms:rights>
+    </z:UserItem>
+    <foaf:Person rdf:nodeID="n718">
+        <foaf:givenname>AuthorsF I</foaf:givenname>
+        <foaf:surname>AuthorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n720">
+        <foaf:givenname>ContributorF I</foaf:givenname>
+        <foaf:surname>ContributorL</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/275915/items/3T3W52RM">
+        <res:resource>
+            <bibo:AudioVisualDocument>
+                <dcterms:title>Title</dcterms:title>
+                <dcterms:abstract>Abstract</dcterms:abstract>
+                <dcterms:medium>Format</dcterms:medium>
+                <bibo:volume>Volume</bibo:volume>
+                <dcterms:publisher>
+                    <foaf:Organization>
+                        <address:localityName>Place</address:localityName>
+                        <foaf:name>Studio</foaf:name>
+                    </foaf:Organization>
+                </dcterms:publisher>
+                <dcterms:date>Date</dcterms:date>
+                <po:duration>Running Time</po:duration>
+                <dcterms:language>Language</dcterms:language>
+                <bibo:isbn13>ISBN</bibo:isbn13>
+                <bibo:shortTitle>Short Title</bibo:shortTitle>
+                <bibo:uri>URL</bibo:uri>
+                <z:repository>Archive</z:repository>
+                <dcterms:source>Loc. in Archive</dcterms:source>
+                <bibo:lccn>Call Number</bibo:lccn>
+                <z:extra>Extra</z:extra>
+                <bibo:director rdf:nodeID="n725"/>
+                <bibo:authorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n725"/></rdf:Seq>
+                </bibo:authorList>
+                <dcterms:contributor rdf:nodeID="n727"/>
+                <bibo:contributorList>
+                    <rdf:Seq>
+                        <rdf:li rdf:nodeID="n727"/>
+                        <rdf:li rdf:nodeID="n729"/>
+                        <rdf:li rdf:nodeID="n730"/>
+                        <rdf:li rdf:nodeID="n731"/>
+                    </rdf:Seq>
+                </bibo:contributorList>
+                <rel:ACT rdf:nodeID="n729"/>
+                <bibo:producer rdf:nodeID="n730"/>
+                <rel:AUS rdf:nodeID="n731"/>
+                <dcterms:isPartOf>
+                    <bibo:Series>
+                        <dcterms:title>Series Title</dcterms:title>
+                        <bibo:numberOfVolumes># of Volumes</bibo:numberOfVolumes>
+                    </bibo:Series>
+                </dcterms:isPartOf>
+            </bibo:AudioVisualDocument>
+        </res:resource>
+        <z:accessDate>2003-01-02</z:accessDate>
+        <z:repository>Library Catalog</z:repository>
+        <dcterms:rights>Rights</dcterms:rights>
+    </z:UserItem>
+    <foaf:Person rdf:nodeID="n725">
+        <foaf:givenname>DirectorF I</foaf:givenname>
+        <foaf:surname>DirectorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n727">
+        <foaf:givenname>ContributorF I</foaf:givenname>
+        <foaf:surname>ContributorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n729">
+        <foaf:givenname>Cast MemberF I</foaf:givenname>
+        <foaf:surname>Cast MemberL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n730">
+        <foaf:givenname>ProducerF I</foaf:givenname>
+        <foaf:surname>ProducerL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n731">
+        <foaf:givenname>ScriptwriterF I</foaf:givenname>
+        <foaf:surname>ScriptwriterL</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/users/275915/items/5V6TKNQM">
+        <res:resource>
+            <bibo:Webpage>
+                <dcterms:title>Title</dcterms:title>
+                <dcterms:abstract>Abstract</dcterms:abstract>
+                <dcterms:type>Website Type</dcterms:type>
+                <bibo:shortTitle>Short Title</bibo:shortTitle>
+                <bibo:uri>URL</bibo:uri>
+                <dcterms:language>Language</dcterms:language>
+                <z:extra>Extra</z:extra>
+                <dcterms:creator rdf:nodeID="n736"/>
+                <bibo:authorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n736"/></rdf:Seq>
+                </bibo:authorList>
+                <dcterms:contributor rdf:nodeID="n738"/>
+                <bibo:contributorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n738"/></rdf:Seq>
+                </bibo:contributorList>
+                <dcterms:isPartOf>
+                    <bibo:Website>
+                        <dcterms:title>Website Title</dcterms:title>
+                        <dcterms:date>Date</dcterms:date>
+                        <bibo:translator rdf:nodeID="n740"/>
+                        <bibo:contributorList>
+                           <rdf:Seq><rdf:li rdf:nodeID="n740"/></rdf:Seq>
+                        </bibo:contributorList>
+                    </bibo:Website>
+                </dcterms:isPartOf>
+            </bibo:Webpage>
+        </res:resource>
+        <z:accessDate>2003-01-02</z:accessDate>
+        <dcterms:rights>Rights</dcterms:rights>
+    </z:UserItem>
+    <foaf:Person rdf:nodeID="n736">
+        <foaf:givenname>AuthorsF I</foaf:givenname>
+        <foaf:surname>AuthorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n738">
+        <foaf:givenname>ContributorF I</foaf:givenname>
+        <foaf:surname>ContributorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n740">
+        <foaf:givenname>TranslatorF I</foaf:givenname>
+        <foaf:surname>TranslatorL</foaf:surname>
+    </foaf:Person>
+</rdf:RDF>
