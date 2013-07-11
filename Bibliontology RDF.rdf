@@ -10,7 +10,8 @@
  xmlns:rel="http://www.loc.gov/loc.terms/relators/"
  xmlns:sc="http://umbel.org/umbel/sc/"
  xmlns:sioct="http://rdfs.org/sioc/types#"
- xmlns:doap="http://usefulinc.com/ns/doap#">
+ xmlns:doap="http://usefulinc.com/ns/doap#"
+ xmlns:ctag="http://commontag.org/ns#">
     <z:UserItem rdf:about="http://zotero.org/groups/183462/items/FR965EGS">
         <res:resource rdf:resource="URL"/>
         <z:repository>Library Catalog</z:repository>
@@ -30,20 +31,20 @@
         <bibo:lccn>Call Number</bibo:lccn>
         <bibo:uri>URL</bibo:uri>
         <z:extra>Extra</z:extra>
-        <dcterms:creator rdf:nodeID="n743"/>
+        <dcterms:creator rdf:nodeID="n1"/>
         <bibo:authorList>
-           <rdf:Seq><rdf:li rdf:nodeID="n743"/></rdf:Seq>
+           <rdf:Seq><rdf:li rdf:nodeID="n1"/></rdf:Seq>
         </bibo:authorList>
-        <dcterms:contributor rdf:nodeID="n745"/>
+        <dcterms:contributor rdf:nodeID="n3"/>
         <bibo:contributorList>
-           <rdf:Seq><rdf:li rdf:nodeID="n745"/></rdf:Seq>
+           <rdf:Seq><rdf:li rdf:nodeID="n3"/></rdf:Seq>
         </bibo:contributorList>
     </bibo:Image>
-    <foaf:Person rdf:nodeID="n743">
+    <foaf:Person rdf:nodeID="n1">
         <foaf:givenname>ArtistF I</foaf:givenname>
         <foaf:surname>ArtistL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n745">
+    <foaf:Person rdf:nodeID="n3">
         <foaf:givenname>ContributorF I</foaf:givenname>
         <foaf:surname>ContributorL</foaf:surname>
     </foaf:Person>
@@ -74,20 +75,20 @@
         <bibo:lccn>Call Number</bibo:lccn>
         <bibo:uri>URL</bibo:uri>
         <z:extra>Extra</z:extra>
-        <bibo:performer rdf:nodeID="n749"/>
+        <bibo:performer rdf:nodeID="n7"/>
         <bibo:authorList>
-           <rdf:Seq><rdf:li rdf:nodeID="n749"/></rdf:Seq>
+           <rdf:Seq><rdf:li rdf:nodeID="n7"/></rdf:Seq>
         </bibo:authorList>
-        <dcterms:contributor rdf:nodeID="n751"/>
+        <dcterms:contributor rdf:nodeID="n9"/>
         <bibo:contributorList>
             <rdf:Seq>
-                <rdf:li rdf:nodeID="n751"/>
-                <rdf:li rdf:nodeID="n753"/>
-                <rdf:li rdf:nodeID="n754"/>
+                <rdf:li rdf:nodeID="n9"/>
+                <rdf:li rdf:nodeID="n11"/>
+                <rdf:li rdf:nodeID="n12"/>
             </rdf:Seq>
         </bibo:contributorList>
-        <rel:CMP rdf:nodeID="n753"/>
-        <rel:LYR rdf:nodeID="n754"/>
+        <rel:CMP rdf:nodeID="n11"/>
+        <rel:LYR rdf:nodeID="n12"/>
         <dcterms:isPartOf>
             <bibo:Series>
                 <dcterms:title>Series Title</dcterms:title>
@@ -95,19 +96,19 @@
             </bibo:Series>
         </dcterms:isPartOf>
     </bibo:AudioDocument>
-    <foaf:Person rdf:nodeID="n749">
+    <foaf:Person rdf:nodeID="n7">
         <foaf:givenname>PerformerF I</foaf:givenname>
         <foaf:surname>PerformerL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n751">
+    <foaf:Person rdf:nodeID="n9">
         <foaf:givenname>ContributorF I</foaf:givenname>
         <foaf:surname>ContributorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n753">
+    <foaf:Person rdf:nodeID="n11">
         <foaf:givenname>ComposerF I</foaf:givenname>
         <foaf:surname>ComposerL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n754">
+    <foaf:Person rdf:nodeID="n12">
         <foaf:givenname>Words ByF I</foaf:givenname>
         <foaf:surname>Words ByL</foaf:surname>
     </foaf:Person>
@@ -135,17 +136,17 @@
                 <bibo:uri>URL</bibo:uri>
                 <bibo:shortTitle>Short Title</bibo:shortTitle>
                 <z:extra>Extra</z:extra>
-                <dcterms:creator rdf:nodeID="n761"/>
+                <dcterms:creator rdf:nodeID="n19"/>
                 <bibo:authorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n761"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n19"/></rdf:Seq>
                 </bibo:authorList>
-                <dcterms:contributor rdf:nodeID="n763"/>
+                <dcterms:contributor rdf:nodeID="n21"/>
                 <bibo:contributorList>
                     <rdf:Seq>
-                       <rdf:li rdf:nodeID="n763"/><rdf:li rdf:nodeID="n765"/>
+                       <rdf:li rdf:nodeID="n21"/><rdf:li rdf:nodeID="n23"/>
                     </rdf:Seq>
                 </bibo:contributorList>
-                <rel:SPN rdf:nodeID="n765"/>
+                <rel:SPN rdf:nodeID="n23"/>
                 <dcterms:isPartOf>
                     <bibo:Code>
                         <dcterms:title>Code</dcterms:title>
@@ -158,15 +159,15 @@
         <z:accessDate>2003-01-02</z:accessDate>
         <dcterms:rights>Rights</dcterms:rights>
     </z:UserItem>
-    <foaf:Person rdf:nodeID="n761">
+    <foaf:Person rdf:nodeID="n19">
         <foaf:givenname>SponsorF I</foaf:givenname>
         <foaf:surname>SponsorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n763">
+    <foaf:Person rdf:nodeID="n21">
         <foaf:givenname>ContributorF I</foaf:givenname>
         <foaf:surname>ContributorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n765">
+    <foaf:Person rdf:nodeID="n23">
         <foaf:givenname>CosponsorF I</foaf:givenname>
         <foaf:surname>CosponsorL</foaf:surname>
     </foaf:Person>
@@ -180,19 +181,19 @@
                 <dcterms:language>Language</dcterms:language>
                 <bibo:shortTitle>Short Title</bibo:shortTitle>
                 <z:extra>Extra</z:extra>
-                <dcterms:creator rdf:nodeID="n770"/>
+                <dcterms:creator rdf:nodeID="n28"/>
                 <bibo:authorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n770"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n28"/></rdf:Seq>
                 </bibo:authorList>
-                <dcterms:contributor rdf:nodeID="n772"/>
+                <dcterms:contributor rdf:nodeID="n30"/>
                 <bibo:contributorList>
                     <rdf:Seq>
-                       <rdf:li rdf:nodeID="n772"/><rdf:li rdf:nodeID="n774"/>
+                       <rdf:li rdf:nodeID="n30"/><rdf:li rdf:nodeID="n32"/>
                     </rdf:Seq>
                 </bibo:contributorList>
                 <sioct:has_reply>
                     <sioct:Comment>
-                       <dcterms:creator rdf:nodeID="n774"/>
+                       <dcterms:creator rdf:nodeID="n32"/>
                     </sioct:Comment>
                 </sioct:has_reply>
                 <rdf:type rdf:resource="http://purl.org/ontology/bibo/Article"/>
@@ -208,15 +209,15 @@
         <z:accessDate>2003-01-02</z:accessDate>
         <dcterms:rights>Rights</dcterms:rights>
     </z:UserItem>
-    <foaf:Person rdf:nodeID="n770">
+    <foaf:Person rdf:nodeID="n28">
         <foaf:givenname>AuthorsF I</foaf:givenname>
         <foaf:surname>AuthorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n772">
+    <foaf:Person rdf:nodeID="n30">
         <foaf:givenname>ContributorF I</foaf:givenname>
         <foaf:surname>ContributorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n774">
+    <foaf:Person rdf:nodeID="n32">
         <foaf:givenname>CommenterrF I</foaf:givenname>
         <foaf:surname>CommenterrL</foaf:surname>
     </foaf:Person>
@@ -243,29 +244,29 @@
                 <dcterms:source>Loc. in Archive</dcterms:source>
                 <bibo:lccn>Call Number</bibo:lccn>
                 <z:extra>Extra</z:extra>
-                <dcterms:creator rdf:nodeID="n779"/>
+                <dcterms:creator rdf:nodeID="n37"/>
                 <bibo:authorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n779"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n37"/></rdf:Seq>
                 </bibo:authorList>
-                <dcterms:contributor rdf:nodeID="n781"/>
+                <dcterms:contributor rdf:nodeID="n39"/>
                 <bibo:contributorList>
                     <rdf:Seq>
-                       <rdf:li rdf:nodeID="n781"/><rdf:li rdf:nodeID="n787"/>
+                       <rdf:li rdf:nodeID="n39"/><rdf:li rdf:nodeID="n45"/>
                     </rdf:Seq>
                 </bibo:contributorList>
-                <bibo:editor rdf:nodeID="n783"/>
+                <bibo:editor rdf:nodeID="n41"/>
                 <bibo:editorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n783"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n41"/></rdf:Seq>
                 </bibo:editorList>
-                <bibo:translator rdf:nodeID="n787"/>
+                <bibo:translator rdf:nodeID="n45"/>
                 <dcterms:isPartOf>
                     <bibo:Series>
                         <dcterms:title>Series</dcterms:title>
                         <bibo:number>Series Number</bibo:number>
                         <bibo:numberOfVolumes># of Volumes</bibo:numberOfVolumes>
-                        <bibo:editor rdf:nodeID="n785"/>
+                        <bibo:editor rdf:nodeID="n43"/>
                         <bibo:editorList>
-                           <rdf:Seq><rdf:li rdf:nodeID="n785"/></rdf:Seq>
+                           <rdf:Seq><rdf:li rdf:nodeID="n43"/></rdf:Seq>
                         </bibo:editorList>
                     </bibo:Series>
                 </dcterms:isPartOf>
@@ -275,23 +276,23 @@
         <z:repository>Library Catalog</z:repository>
         <dcterms:rights>Rights</dcterms:rights>
     </z:UserItem>
-    <foaf:Person rdf:nodeID="n779">
+    <foaf:Person rdf:nodeID="n37">
         <foaf:givenname>AuthorsF I</foaf:givenname>
         <foaf:surname>AuthorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n781">
+    <foaf:Person rdf:nodeID="n39">
         <foaf:givenname>ContributorF I</foaf:givenname>
         <foaf:surname>ContributorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n783">
+    <foaf:Person rdf:nodeID="n41">
         <foaf:givenname>EditorF I</foaf:givenname>
         <foaf:surname>EditorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n785">
+    <foaf:Person rdf:nodeID="n43">
         <foaf:givenname>SeriesF I</foaf:givenname>
         <foaf:surname>Series EditorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n787">
+    <foaf:Person rdf:nodeID="n45">
         <foaf:givenname>TranslatorF I</foaf:givenname>
         <foaf:surname>TranslatorL</foaf:surname>
     </foaf:Person>
@@ -307,13 +308,13 @@
                 <z:repository>Archive</z:repository>
                 <dcterms:source>Loc. in Archive</dcterms:source>
                 <z:extra>Extra</z:extra>
-                <dcterms:creator rdf:nodeID="n793"/>
+                <dcterms:creator rdf:nodeID="n51"/>
                 <bibo:authorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n793"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n51"/></rdf:Seq>
                 </bibo:authorList>
-                <dcterms:contributor rdf:nodeID="n795"/>
+                <dcterms:contributor rdf:nodeID="n53"/>
                 <bibo:contributorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n795"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n53"/></rdf:Seq>
                 </bibo:contributorList>
                 <dcterms:isPartOf>
                     <bibo:EditedBook>
@@ -329,26 +330,26 @@
                         <dcterms:date>Date</dcterms:date>
                         <bibo:isbn13>ISBN</bibo:isbn13>
                         <bibo:lccn>Call Number</bibo:lccn>
-                        <bibo:editor rdf:nodeID="n797"/>
+                        <bibo:editor rdf:nodeID="n55"/>
                         <bibo:editorList>
-                           <rdf:Seq><rdf:li rdf:nodeID="n797"/></rdf:Seq>
+                           <rdf:Seq><rdf:li rdf:nodeID="n55"/></rdf:Seq>
                         </bibo:editorList>
-                        <bibo:translator rdf:nodeID="n801"/>
+                        <bibo:translator rdf:nodeID="n59"/>
                         <bibo:contributorList>
-                           <rdf:Seq><rdf:li rdf:nodeID="n801"/></rdf:Seq>
+                           <rdf:Seq><rdf:li rdf:nodeID="n59"/></rdf:Seq>
                         </bibo:contributorList>
-                        <dcterms:creator rdf:nodeID="n803"/>
+                        <dcterms:creator rdf:nodeID="n61"/>
                         <bibo:authorList>
-                           <rdf:Seq><rdf:li rdf:nodeID="n803"/></rdf:Seq>
+                           <rdf:Seq><rdf:li rdf:nodeID="n61"/></rdf:Seq>
                         </bibo:authorList>
                         <dcterms:isPartOf>
                             <bibo:Series>
                                 <dcterms:title>Series</dcterms:title>
                                 <bibo:number>Series Number</bibo:number>
                                 <bibo:numberOfVolumes># of Volumes</bibo:numberOfVolumes>
-                                <bibo:editor rdf:nodeID="n799"/>
+                                <bibo:editor rdf:nodeID="n57"/>
                                 <bibo:editorList>
-                                   <rdf:Seq><rdf:li rdf:nodeID="n799"/></rdf:Seq>
+                                   <rdf:Seq><rdf:li rdf:nodeID="n57"/></rdf:Seq>
                                 </bibo:editorList>
                             </bibo:Series>
                         </dcterms:isPartOf>
@@ -360,27 +361,27 @@
         <z:repository>Library Catalog</z:repository>
         <dcterms:rights>Rights</dcterms:rights>
     </z:UserItem>
-    <foaf:Person rdf:nodeID="n793">
+    <foaf:Person rdf:nodeID="n51">
         <foaf:givenname>AuthorsF I</foaf:givenname>
         <foaf:surname>AuthorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n795">
+    <foaf:Person rdf:nodeID="n53">
         <foaf:givenname>ContributorF I</foaf:givenname>
         <foaf:surname>ContributorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n797">
+    <foaf:Person rdf:nodeID="n55">
         <foaf:givenname>EditorF I</foaf:givenname>
         <foaf:surname>EditorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n799">
+    <foaf:Person rdf:nodeID="n57">
         <foaf:givenname>SeriesF I</foaf:givenname>
         <foaf:surname>Series EditorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n801">
+    <foaf:Person rdf:nodeID="n59">
         <foaf:givenname>TranslatorF I</foaf:givenname>
         <foaf:surname>TranslatorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n803">
+    <foaf:Person rdf:nodeID="n61">
         <foaf:givenname>BookF I</foaf:givenname>
         <foaf:surname>Book AuthorL</foaf:surname>
     </foaf:Person>
@@ -396,17 +397,17 @@
                 <bibo:shortTitle>Short Title</bibo:shortTitle>
                 <bibo:uri>URL</bibo:uri>
                 <z:extra>Extra</z:extra>
-                <dcterms:creator rdf:nodeID="n809"/>
+                <dcterms:creator rdf:nodeID="n67"/>
                 <bibo:authorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n809"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n67"/></rdf:Seq>
                 </bibo:authorList>
-                <dcterms:contributor rdf:nodeID="n811"/>
+                <dcterms:contributor rdf:nodeID="n69"/>
                 <bibo:contributorList>
                     <rdf:Seq>
-                       <rdf:li rdf:nodeID="n811"/><rdf:li rdf:nodeID="n813"/>
+                       <rdf:li rdf:nodeID="n69"/><rdf:li rdf:nodeID="n71"/>
                     </rdf:Seq>
                 </bibo:contributorList>
-                <z:counsel rdf:nodeID="n813"/>
+                <z:counsel rdf:nodeID="n71"/>
                 <dcterms:isPartOf>
                     <bibo:CourtReporter>
                         <dcterms:title>ReporterL, ReporterF</dcterms:title>
@@ -420,15 +421,15 @@
         <z:accessDate>2003-01-02</z:accessDate>
         <dcterms:rights>Rights</dcterms:rights>
     </z:UserItem>
-    <foaf:Person rdf:nodeID="n809">
+    <foaf:Person rdf:nodeID="n67">
         <foaf:givenname>AuthorsF I</foaf:givenname>
         <foaf:surname>AuthorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n811">
+    <foaf:Person rdf:nodeID="n69">
         <foaf:givenname>ContributorF I</foaf:givenname>
         <foaf:surname>ContributorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n813">
+    <foaf:Person rdf:nodeID="n71">
         <foaf:givenname>CounselF I</foaf:givenname>
         <foaf:surname>CounselL</foaf:surname>
     </foaf:Person>
@@ -454,13 +455,13 @@
                 <dcterms:source>Loc. in Archive</dcterms:source>
                 <bibo:lccn>Call Number</bibo:lccn>
                 <z:extra>Extra</z:extra>
-                <dcterms:creator rdf:nodeID="n817"/>
+                <dcterms:creator rdf:nodeID="n75"/>
                 <bibo:authorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n817"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n75"/></rdf:Seq>
                 </bibo:authorList>
-                <dcterms:contributor rdf:nodeID="n819"/>
+                <dcterms:contributor rdf:nodeID="n77"/>
                 <bibo:contributorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n819"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n77"/></rdf:Seq>
                 </bibo:contributorList>
                 <dcterms:isPartOf>
                     <bibo:Series>
@@ -474,11 +475,11 @@
         <z:repository>Library Catalog</z:repository>
         <z:accessDate>2003-01-02</z:accessDate>
     </z:UserItem>
-    <foaf:Person rdf:nodeID="n817">
+    <foaf:Person rdf:nodeID="n75">
         <foaf:givenname>ProgrammerF I</foaf:givenname>
         <foaf:surname>ProgrammerL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n819">
+    <foaf:Person rdf:nodeID="n77">
         <foaf:givenname>ContributorF I</foaf:givenname>
         <foaf:surname>ContributorL</foaf:surname>
     </foaf:Person>
@@ -504,13 +505,13 @@
         <z:repository>Archive</z:repository>
         <dcterms:source>Loc. in Archive</dcterms:source>
         <z:extra>Extra</z:extra>
-        <dcterms:creator rdf:nodeID="n826"/>
+        <dcterms:creator rdf:nodeID="n84"/>
         <bibo:authorList>
-           <rdf:Seq><rdf:li rdf:nodeID="n826"/></rdf:Seq>
+           <rdf:Seq><rdf:li rdf:nodeID="n84"/></rdf:Seq>
         </bibo:authorList>
-        <dcterms:contributor rdf:nodeID="n828"/>
+        <dcterms:contributor rdf:nodeID="n86"/>
         <bibo:contributorList>
-           <rdf:Seq><rdf:li rdf:nodeID="n828"/></rdf:Seq>
+           <rdf:Seq><rdf:li rdf:nodeID="n86"/></rdf:Seq>
         </bibo:contributorList>
         <dcterms:isPartOf>
             <bibo:Proceedings>
@@ -525,43 +526,43 @@
                 <bibo:volume>Volume</bibo:volume>
                 <bibo:isbn13>ISBN</bibo:isbn13>
                 <bibo:lccn>Call Number</bibo:lccn>
-                <bibo:editor rdf:nodeID="n830"/>
+                <bibo:editor rdf:nodeID="n88"/>
                 <bibo:editorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n830"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n88"/></rdf:Seq>
                 </bibo:editorList>
-                <bibo:translator rdf:nodeID="n834"/>
+                <bibo:translator rdf:nodeID="n92"/>
                 <bibo:contributorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n834"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n92"/></rdf:Seq>
                 </bibo:contributorList>
                 <dcterms:isPartOf>
                     <bibo:Series>
                         <dcterms:title>Series</dcterms:title>
-                        <bibo:editor rdf:nodeID="n832"/>
+                        <bibo:editor rdf:nodeID="n90"/>
                         <bibo:editorList>
-                           <rdf:Seq><rdf:li rdf:nodeID="n832"/></rdf:Seq>
+                           <rdf:Seq><rdf:li rdf:nodeID="n90"/></rdf:Seq>
                         </bibo:editorList>
                     </bibo:Series>
                 </dcterms:isPartOf>
             </bibo:Proceedings>
         </dcterms:isPartOf>
     </bibo:Article>
-    <foaf:Person rdf:nodeID="n826">
+    <foaf:Person rdf:nodeID="n84">
         <foaf:givenname>AuthorsF I</foaf:givenname>
         <foaf:surname>AuthorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n828">
+    <foaf:Person rdf:nodeID="n86">
         <foaf:givenname>ContributorF I</foaf:givenname>
         <foaf:surname>ContributorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n830">
+    <foaf:Person rdf:nodeID="n88">
         <foaf:givenname>EditorF I</foaf:givenname>
         <foaf:surname>EditorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n832">
+    <foaf:Person rdf:nodeID="n90">
         <foaf:givenname>SeriesF I</foaf:givenname>
         <foaf:surname>Series EditorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n834">
+    <foaf:Person rdf:nodeID="n92">
         <foaf:givenname>TranslatorF I</foaf:givenname>
         <foaf:surname>TranslatorL</foaf:surname>
     </foaf:Person>
@@ -577,13 +578,13 @@
                 <z:repository>Archive</z:repository>
                 <dcterms:source>Loc. in Archive</dcterms:source>
                 <z:extra>Extra</z:extra>
-                <dcterms:creator rdf:nodeID="n841"/>
+                <dcterms:creator rdf:nodeID="n99"/>
                 <bibo:authorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n841"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n99"/></rdf:Seq>
                 </bibo:authorList>
-                <dcterms:contributor rdf:nodeID="n843"/>
+                <dcterms:contributor rdf:nodeID="n101"/>
                 <bibo:contributorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n843"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n101"/></rdf:Seq>
                 </bibo:contributorList>
                 <dcterms:isPartOf>
                     <sc:Dictionary>
@@ -599,22 +600,22 @@
                         <dcterms:date>Date</dcterms:date>
                         <bibo:isbn13>ISBN</bibo:isbn13>
                         <bibo:lccn>Call Number</bibo:lccn>
-                        <bibo:editor rdf:nodeID="n845"/>
+                        <bibo:editor rdf:nodeID="n103"/>
                         <bibo:editorList>
-                           <rdf:Seq><rdf:li rdf:nodeID="n845"/></rdf:Seq>
+                           <rdf:Seq><rdf:li rdf:nodeID="n103"/></rdf:Seq>
                         </bibo:editorList>
-                        <bibo:translator rdf:nodeID="n849"/>
+                        <bibo:translator rdf:nodeID="n107"/>
                         <bibo:contributorList>
-                           <rdf:Seq><rdf:li rdf:nodeID="n849"/></rdf:Seq>
+                           <rdf:Seq><rdf:li rdf:nodeID="n107"/></rdf:Seq>
                         </bibo:contributorList>
                         <dcterms:isPartOf>
                             <bibo:Series>
                                 <dcterms:title>Series</dcterms:title>
                                 <bibo:number>Series Number</bibo:number>
                                 <bibo:numberOfVolumes># of Volumes</bibo:numberOfVolumes>
-                                <bibo:editor rdf:nodeID="n847"/>
+                                <bibo:editor rdf:nodeID="n105"/>
                                 <bibo:editorList>
-                                   <rdf:Seq><rdf:li rdf:nodeID="n847"/></rdf:Seq>
+                                   <rdf:Seq><rdf:li rdf:nodeID="n105"/></rdf:Seq>
                                 </bibo:editorList>
                             </bibo:Series>
                         </dcterms:isPartOf>
@@ -627,23 +628,23 @@
         <z:repository>Library Catalog</z:repository>
         <dcterms:rights>Rights</dcterms:rights>
     </z:UserItem>
-    <foaf:Person rdf:nodeID="n841">
+    <foaf:Person rdf:nodeID="n99">
         <foaf:givenname>AuthorsF I</foaf:givenname>
         <foaf:surname>AuthorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n843">
+    <foaf:Person rdf:nodeID="n101">
         <foaf:givenname>ContributorF I</foaf:givenname>
         <foaf:surname>ContributorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n845">
+    <foaf:Person rdf:nodeID="n103">
         <foaf:givenname>EditorF I</foaf:givenname>
         <foaf:surname>EditorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n847">
+    <foaf:Person rdf:nodeID="n105">
         <foaf:givenname>SeriesF I</foaf:givenname>
         <foaf:surname>Series EditorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n849">
+    <foaf:Person rdf:nodeID="n107">
         <foaf:givenname>TranslatorF I</foaf:givenname>
         <foaf:surname>TranslatorL</foaf:surname>
     </foaf:Person>
@@ -665,51 +666,51 @@
                 <dcterms:source>Loc. in Archive</dcterms:source>
                 <bibo:lccn>Call Number</bibo:lccn>
                 <z:extra>Extra</z:extra>
-                <dcterms:creator rdf:nodeID="n854"/>
+                <dcterms:creator rdf:nodeID="n112"/>
                 <bibo:authorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n854"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n112"/></rdf:Seq>
                 </bibo:authorList>
-                <dcterms:contributor rdf:nodeID="n856"/>
+                <dcterms:contributor rdf:nodeID="n114"/>
                 <bibo:contributorList>
                     <rdf:Seq>
-                        <rdf:li rdf:nodeID="n856"/>
-                        <rdf:li rdf:nodeID="n860"/>
-                        <rdf:li rdf:nodeID="n862"/>
+                        <rdf:li rdf:nodeID="n114"/>
+                        <rdf:li rdf:nodeID="n118"/>
+                        <rdf:li rdf:nodeID="n120"/>
                     </rdf:Seq>
                 </bibo:contributorList>
-                <bibo:editor rdf:nodeID="n858"/>
+                <bibo:editor rdf:nodeID="n116"/>
                 <bibo:editorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n858"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n116"/></rdf:Seq>
                 </bibo:editorList>
                 <bibo:reviewOf>
                     <rdf:Description>
-                       <dcterms:creator rdf:nodeID="n860"/>
+                       <dcterms:creator rdf:nodeID="n118"/>
                     </rdf:Description>
                 </bibo:reviewOf>
-                <bibo:translator rdf:nodeID="n862"/>
+                <bibo:translator rdf:nodeID="n120"/>
             </bibo:Document>
         </res:resource>
         <z:accessDate>2003-01-02</z:accessDate>
         <z:repository>Library Catalog</z:repository>
         <dcterms:rights>Rights</dcterms:rights>
     </z:UserItem>
-    <foaf:Person rdf:nodeID="n854">
+    <foaf:Person rdf:nodeID="n112">
         <foaf:givenname>AuthorsF I</foaf:givenname>
         <foaf:surname>AuthorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n856">
+    <foaf:Person rdf:nodeID="n114">
         <foaf:givenname>ContributorF I</foaf:givenname>
         <foaf:surname>ContributorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n858">
+    <foaf:Person rdf:nodeID="n116">
         <foaf:givenname>EditorF I</foaf:givenname>
         <foaf:surname>EditorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n860">
+    <foaf:Person rdf:nodeID="n118">
         <foaf:givenname>Reviewed AuthorF I</foaf:givenname>
         <foaf:surname>Reviewed AuthorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n862">
+    <foaf:Person rdf:nodeID="n120">
         <foaf:givenname>TranslatorF I</foaf:givenname>
         <foaf:surname>TranslatorL</foaf:surname>
     </foaf:Person>
@@ -723,31 +724,31 @@
                 <bibo:uri>URL</bibo:uri>
                 <dcterms:language>Language</dcterms:language>
                 <z:extra>Extra</z:extra>
-                <dcterms:creator rdf:nodeID="n865"/>
+                <dcterms:creator rdf:nodeID="n123"/>
                 <bibo:authorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n865"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n123"/></rdf:Seq>
                 </bibo:authorList>
-                <dcterms:contributor rdf:nodeID="n867"/>
+                <dcterms:contributor rdf:nodeID="n125"/>
                 <bibo:contributorList>
                     <rdf:Seq>
-                       <rdf:li rdf:nodeID="n867"/><rdf:li rdf:nodeID="n869"/>
+                       <rdf:li rdf:nodeID="n125"/><rdf:li rdf:nodeID="n127"/>
                     </rdf:Seq>
                 </bibo:contributorList>
-                <bibo:recipient rdf:nodeID="n869"/>
+                <bibo:recipient rdf:nodeID="n127"/>
             </bibo:Email>
         </res:resource>
         <z:accessDate>2003-01-02</z:accessDate>
         <dcterms:rights>Rights</dcterms:rights>
     </z:UserItem>
-    <foaf:Person rdf:nodeID="n865">
+    <foaf:Person rdf:nodeID="n123">
         <foaf:givenname>AuthorsF I</foaf:givenname>
         <foaf:surname>AuthorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n867">
+    <foaf:Person rdf:nodeID="n125">
         <foaf:givenname>ContributorF I</foaf:givenname>
         <foaf:surname>ContributorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n869">
+    <foaf:Person rdf:nodeID="n127">
         <foaf:givenname>RecipientF I</foaf:givenname>
         <foaf:surname>RecipientL</foaf:surname>
     </foaf:Person>
@@ -763,13 +764,13 @@
                 <z:repository>Archive</z:repository>
                 <dcterms:source>Loc. in Archive</dcterms:source>
                 <z:extra>Extra</z:extra>
-                <dcterms:creator rdf:nodeID="n875"/>
+                <dcterms:creator rdf:nodeID="n133"/>
                 <bibo:authorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n875"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n133"/></rdf:Seq>
                 </bibo:authorList>
-                <dcterms:contributor rdf:nodeID="n877"/>
+                <dcterms:contributor rdf:nodeID="n135"/>
                 <bibo:contributorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n877"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n135"/></rdf:Seq>
                 </bibo:contributorList>
                 <dcterms:isPartOf>
                     <sc:Encyclopedia>
@@ -785,22 +786,22 @@
                         <dcterms:date>Date</dcterms:date>
                         <bibo:isbn13>ISBN</bibo:isbn13>
                         <bibo:lccn>Call Number</bibo:lccn>
-                        <bibo:editor rdf:nodeID="n879"/>
+                        <bibo:editor rdf:nodeID="n137"/>
                         <bibo:editorList>
-                           <rdf:Seq><rdf:li rdf:nodeID="n879"/></rdf:Seq>
+                           <rdf:Seq><rdf:li rdf:nodeID="n137"/></rdf:Seq>
                         </bibo:editorList>
-                        <bibo:translator rdf:nodeID="n883"/>
+                        <bibo:translator rdf:nodeID="n141"/>
                         <bibo:contributorList>
-                           <rdf:Seq><rdf:li rdf:nodeID="n883"/></rdf:Seq>
+                           <rdf:Seq><rdf:li rdf:nodeID="n141"/></rdf:Seq>
                         </bibo:contributorList>
                         <dcterms:isPartOf>
                             <bibo:Series>
                                 <dcterms:title>Series</dcterms:title>
                                 <bibo:number>Series Number</bibo:number>
                                 <bibo:numberOfVolumes># of Volumes</bibo:numberOfVolumes>
-                                <bibo:editor rdf:nodeID="n881"/>
+                                <bibo:editor rdf:nodeID="n139"/>
                                 <bibo:editorList>
-                                   <rdf:Seq><rdf:li rdf:nodeID="n881"/></rdf:Seq>
+                                   <rdf:Seq><rdf:li rdf:nodeID="n139"/></rdf:Seq>
                                 </bibo:editorList>
                             </bibo:Series>
                         </dcterms:isPartOf>
@@ -813,23 +814,23 @@
         <z:repository>Library Catalog</z:repository>
         <dcterms:rights>Rights</dcterms:rights>
     </z:UserItem>
-    <foaf:Person rdf:nodeID="n875">
+    <foaf:Person rdf:nodeID="n133">
         <foaf:givenname>AuthorsF I</foaf:givenname>
         <foaf:surname>AuthorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n877">
+    <foaf:Person rdf:nodeID="n135">
         <foaf:givenname>ContributorF I</foaf:givenname>
         <foaf:surname>ContributorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n879">
+    <foaf:Person rdf:nodeID="n137">
         <foaf:givenname>EditorF I</foaf:givenname>
         <foaf:surname>EditorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n881">
+    <foaf:Person rdf:nodeID="n139">
         <foaf:givenname>SeriesF I</foaf:givenname>
         <foaf:surname>Series EditorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n883">
+    <foaf:Person rdf:nodeID="n141">
         <foaf:givenname>TranslatorF I</foaf:givenname>
         <foaf:surname>TranslatorL</foaf:surname>
     </foaf:Person>
@@ -854,39 +855,39 @@
                 <dcterms:source>Loc. in Archive</dcterms:source>
                 <bibo:lccn>Call Number</bibo:lccn>
                 <z:extra>Extra</z:extra>
-                <bibo:director rdf:nodeID="n888"/>
+                <bibo:director rdf:nodeID="n146"/>
                 <bibo:authorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n888"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n146"/></rdf:Seq>
                 </bibo:authorList>
-                <dcterms:contributor rdf:nodeID="n890"/>
+                <dcterms:contributor rdf:nodeID="n148"/>
                 <bibo:contributorList>
                     <rdf:Seq>
-                        <rdf:li rdf:nodeID="n890"/>
-                        <rdf:li rdf:nodeID="n892"/>
-                        <rdf:li rdf:nodeID="n893"/>
+                        <rdf:li rdf:nodeID="n148"/>
+                        <rdf:li rdf:nodeID="n150"/>
+                        <rdf:li rdf:nodeID="n151"/>
                     </rdf:Seq>
                 </bibo:contributorList>
-                <bibo:producer rdf:nodeID="n892"/>
-                <rel:AUS rdf:nodeID="n893"/>
+                <bibo:producer rdf:nodeID="n150"/>
+                <rel:AUS rdf:nodeID="n151"/>
             </bibo:Film>
         </res:resource>
         <z:accessDate>2003-01-02</z:accessDate>
         <z:repository>Library Catalog</z:repository>
         <dcterms:rights>Rights</dcterms:rights>
     </z:UserItem>
-    <foaf:Person rdf:nodeID="n888">
+    <foaf:Person rdf:nodeID="n146">
         <foaf:givenname>DirectorF I</foaf:givenname>
         <foaf:surname>DirectorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n890">
+    <foaf:Person rdf:nodeID="n148">
         <foaf:givenname>ContributorF I</foaf:givenname>
         <foaf:surname>ContributorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n892">
+    <foaf:Person rdf:nodeID="n150">
         <foaf:givenname>ProducerF I</foaf:givenname>
         <foaf:surname>ProducerL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n893">
+    <foaf:Person rdf:nodeID="n151">
         <foaf:givenname>ScriptwriterF I</foaf:givenname>
         <foaf:surname>ScriptwriterL</foaf:surname>
     </foaf:Person>
@@ -900,13 +901,13 @@
                 <bibo:shortTitle>Short Title</bibo:shortTitle>
                 <bibo:uri>URL</bibo:uri>
                 <z:extra>Extra</z:extra>
-                <dcterms:creator rdf:nodeID="n898"/>
+                <dcterms:creator rdf:nodeID="n156"/>
                 <bibo:authorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n898"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n156"/></rdf:Seq>
                 </bibo:authorList>
-                <dcterms:contributor rdf:nodeID="n900"/>
+                <dcterms:contributor rdf:nodeID="n158"/>
                 <bibo:contributorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n900"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n158"/></rdf:Seq>
                 </bibo:contributorList>
                 <rdf:type rdf:resource="http://purl.org/ontology/bibo/Article"/>
                 <dcterms:isPartOf>
@@ -921,11 +922,11 @@
         <z:accessDate>2003-01-02</z:accessDate>
         <dcterms:rights>Rights</dcterms:rights>
     </z:UserItem>
-    <foaf:Person rdf:nodeID="n898">
+    <foaf:Person rdf:nodeID="n156">
         <foaf:givenname>AuthorsF I</foaf:givenname>
         <foaf:surname>AuthorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n900">
+    <foaf:Person rdf:nodeID="n158">
         <foaf:givenname>ContributorF I</foaf:givenname>
         <foaf:surname>ContributorL</foaf:surname>
     </foaf:Person>
@@ -965,9 +966,9 @@
                 <bibo:shortTitle>Short Title</bibo:shortTitle>
                 <bibo:uri>URL</bibo:uri>
                 <z:extra>Extra</z:extra>
-                <dcterms:contributor rdf:nodeID="n908"/>
+                <dcterms:contributor rdf:nodeID="n166"/>
                 <bibo:authorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n908"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n166"/></rdf:Seq>
                 </bibo:authorList>
                 <dcterms:isPartOf>
                     <bibo:Series>
@@ -979,7 +980,7 @@
         <z:accessDate>2003-01-02</z:accessDate>
         <dcterms:rights>Rights</dcterms:rights>
     </z:UserItem>
-    <foaf:Person rdf:nodeID="n908">
+    <foaf:Person rdf:nodeID="n166">
         <foaf:givenname>AuthorsF I</foaf:givenname>
         <foaf:surname>AuthorL</foaf:surname>
     </foaf:Person>
@@ -993,32 +994,32 @@
                 <bibo:shortTitle>Short Title</bibo:shortTitle>
                 <bibo:uri>URL</bibo:uri>
                 <z:extra>Extra</z:extra>
-                <dcterms:creator rdf:nodeID="n912"/>
+                <dcterms:creator rdf:nodeID="n170"/>
                 <bibo:authorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n912"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n170"/></rdf:Seq>
                 </bibo:authorList>
-                <dcterms:contributor rdf:nodeID="n914"/>
+                <dcterms:contributor rdf:nodeID="n172"/>
                 <bibo:contributorList>
                     <rdf:Seq>
-                       <rdf:li rdf:nodeID="n914"/><rdf:li rdf:nodeID="n916"/>
+                       <rdf:li rdf:nodeID="n172"/><rdf:li rdf:nodeID="n174"/>
                     </rdf:Seq>
                 </bibo:contributorList>
-                <bibo:recipient rdf:nodeID="n916"/>
+                <bibo:recipient rdf:nodeID="n174"/>
                 <rdf:type rdf:resource="http://purl.org/ontology/bibo/PersonalCommunication"/>
             </sioct:InstantMessage>
         </res:resource>
         <z:accessDate>2003-01-02</z:accessDate>
         <dcterms:rights>Rights</dcterms:rights>
     </z:UserItem>
-    <foaf:Person rdf:nodeID="n912">
+    <foaf:Person rdf:nodeID="n170">
         <foaf:givenname>AuthorsF I</foaf:givenname>
         <foaf:surname>AuthorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n914">
+    <foaf:Person rdf:nodeID="n172">
         <foaf:givenname>ContributorF I</foaf:givenname>
         <foaf:surname>ContributorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n916">
+    <foaf:Person rdf:nodeID="n174">
         <foaf:givenname>RecipientF I</foaf:givenname>
         <foaf:surname>RecipientL</foaf:surname>
     </foaf:Person>
@@ -1036,39 +1037,39 @@
                 <dcterms:source>Loc. in Archive</dcterms:source>
                 <bibo:lccn>Call Number</bibo:lccn>
                 <z:extra>Extra</z:extra>
-                <bibo:interviewee rdf:nodeID="n919"/>
+                <bibo:interviewee rdf:nodeID="n177"/>
                 <bibo:authorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n919"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n177"/></rdf:Seq>
                 </bibo:authorList>
-                <dcterms:contributor rdf:nodeID="n921"/>
+                <dcterms:contributor rdf:nodeID="n179"/>
                 <bibo:contributorList>
                     <rdf:Seq>
-                        <rdf:li rdf:nodeID="n921"/>
-                        <rdf:li rdf:nodeID="n923"/>
-                        <rdf:li rdf:nodeID="n924"/>
+                        <rdf:li rdf:nodeID="n179"/>
+                        <rdf:li rdf:nodeID="n181"/>
+                        <rdf:li rdf:nodeID="n182"/>
                     </rdf:Seq>
                 </bibo:contributorList>
-                <bibo:interviewer rdf:nodeID="n923"/>
-                <bibo:translator rdf:nodeID="n924"/>
+                <bibo:interviewer rdf:nodeID="n181"/>
+                <bibo:translator rdf:nodeID="n182"/>
             </bibo:Interview>
         </res:resource>
         <z:accessDate>2003-01-02</z:accessDate>
         <z:repository>Library Catalog</z:repository>
         <dcterms:rights>Rights</dcterms:rights>
     </z:UserItem>
-    <foaf:Person rdf:nodeID="n919">
+    <foaf:Person rdf:nodeID="n177">
         <foaf:givenname>AuthorsF I</foaf:givenname>
         <foaf:surname>Interview WithL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n921">
+    <foaf:Person rdf:nodeID="n179">
         <foaf:givenname>ContributorF I</foaf:givenname>
         <foaf:surname>ContributorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n923">
+    <foaf:Person rdf:nodeID="n181">
         <foaf:givenname>InterviewerF I</foaf:givenname>
         <foaf:surname>InterviewerL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n924">
+    <foaf:Person rdf:nodeID="n182">
         <foaf:givenname>TranslatorF I</foaf:givenname>
         <foaf:surname>TranslatorL</foaf:surname>
     </foaf:Person>
@@ -1085,19 +1086,19 @@
                 <z:repository>Archive</z:repository>
                 <dcterms:source>Loc. in Archive</dcterms:source>
                 <z:extra>Extra</z:extra>
-                <dcterms:creator rdf:nodeID="n931"/>
+                <dcterms:creator rdf:nodeID="n189"/>
                 <bibo:authorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n931"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n189"/></rdf:Seq>
                 </bibo:authorList>
-                <dcterms:contributor rdf:nodeID="n933"/>
+                <dcterms:contributor rdf:nodeID="n191"/>
                 <bibo:contributorList>
                     <rdf:Seq>
-                       <rdf:li rdf:nodeID="n933"/><rdf:li rdf:nodeID="n937"/>
+                       <rdf:li rdf:nodeID="n191"/><rdf:li rdf:nodeID="n195"/>
                     </rdf:Seq>
                 </bibo:contributorList>
                 <bibo:reviewOf>
                     <rdf:Description>
-                       <dcterms:creator rdf:nodeID="n937"/>
+                       <dcterms:creator rdf:nodeID="n195"/>
                     </rdf:Description>
                 </bibo:reviewOf>
                 <dcterms:isPartOf>
@@ -1112,13 +1113,13 @@
                         <bibo:issue>Issue</bibo:issue>
                         <dcterms:date>Date</dcterms:date>
                         <bibo:lccn>Call Number</bibo:lccn>
-                        <bibo:editor rdf:nodeID="n935"/>
+                        <bibo:editor rdf:nodeID="n193"/>
                         <bibo:editorList>
-                           <rdf:Seq><rdf:li rdf:nodeID="n935"/></rdf:Seq>
+                           <rdf:Seq><rdf:li rdf:nodeID="n193"/></rdf:Seq>
                         </bibo:editorList>
-                        <bibo:translator rdf:nodeID="n939"/>
+                        <bibo:translator rdf:nodeID="n197"/>
                         <bibo:contributorList>
-                           <rdf:Seq><rdf:li rdf:nodeID="n939"/></rdf:Seq>
+                           <rdf:Seq><rdf:li rdf:nodeID="n197"/></rdf:Seq>
                         </bibo:contributorList>
                         <dcterms:isPartOf>
                             <bibo:Journal>
@@ -1140,23 +1141,23 @@
         <z:repository>Library Catalog</z:repository>
         <dcterms:rights>Rights</dcterms:rights>
     </z:UserItem>
-    <foaf:Person rdf:nodeID="n931">
+    <foaf:Person rdf:nodeID="n189">
         <foaf:givenname>AuthorsF I</foaf:givenname>
         <foaf:surname>AuthorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n933">
+    <foaf:Person rdf:nodeID="n191">
         <foaf:givenname>ContributorF I</foaf:givenname>
         <foaf:surname>ContributorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n935">
+    <foaf:Person rdf:nodeID="n193">
         <foaf:givenname>EditorF I</foaf:givenname>
         <foaf:surname>EditorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n937">
+    <foaf:Person rdf:nodeID="n195">
         <foaf:givenname>ReviewedF I</foaf:givenname>
         <foaf:surname>Reviewed AuthorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n939">
+    <foaf:Person rdf:nodeID="n197">
         <foaf:givenname>TranslatorF I</foaf:givenname>
         <foaf:surname>TranslatorL</foaf:surname>
     </foaf:Person>
@@ -1173,19 +1174,19 @@
                 <z:repository>Archive</z:repository>
                 <dcterms:source>Loc. in Archive</dcterms:source>
                 <z:extra>Extra</z:extra>
-                <dcterms:creator rdf:nodeID="n947"/>
+                <dcterms:creator rdf:nodeID="n205"/>
                 <bibo:authorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n947"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n205"/></rdf:Seq>
                 </bibo:authorList>
-                <dcterms:contributor rdf:nodeID="n949"/>
+                <dcterms:contributor rdf:nodeID="n207"/>
                 <bibo:contributorList>
                     <rdf:Seq>
-                       <rdf:li rdf:nodeID="n949"/><rdf:li rdf:nodeID="n953"/>
+                       <rdf:li rdf:nodeID="n207"/><rdf:li rdf:nodeID="n211"/>
                     </rdf:Seq>
                 </bibo:contributorList>
                 <bibo:reviewOf>
                     <rdf:Description>
-                       <dcterms:creator rdf:nodeID="n953"/>
+                       <dcterms:creator rdf:nodeID="n211"/>
                     </rdf:Description>
                 </bibo:reviewOf>
                 <dcterms:isPartOf>
@@ -1200,13 +1201,13 @@
                         <bibo:issue>Issue</bibo:issue>
                         <dcterms:date>Date</dcterms:date>
                         <bibo:lccn>Call Number</bibo:lccn>
-                        <bibo:editor rdf:nodeID="n951"/>
+                        <bibo:editor rdf:nodeID="n209"/>
                         <bibo:editorList>
-                           <rdf:Seq><rdf:li rdf:nodeID="n951"/></rdf:Seq>
+                           <rdf:Seq><rdf:li rdf:nodeID="n209"/></rdf:Seq>
                         </bibo:editorList>
-                        <bibo:translator rdf:nodeID="n955"/>
+                        <bibo:translator rdf:nodeID="n213"/>
                         <bibo:contributorList>
-                           <rdf:Seq><rdf:li rdf:nodeID="n955"/></rdf:Seq>
+                           <rdf:Seq><rdf:li rdf:nodeID="n213"/></rdf:Seq>
                         </bibo:contributorList>
                         <dcterms:isPartOf>
                             <bibo:Journal>
@@ -1228,23 +1229,120 @@
         <z:repository>Library Catalog</z:repository>
         <dcterms:rights>Rights</dcterms:rights>
     </z:UserItem>
-    <foaf:Person rdf:nodeID="n947">
+    <foaf:Person rdf:nodeID="n205">
         <foaf:givenname>AuthorsF I</foaf:givenname>
         <foaf:surname>AuthorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n949">
+    <foaf:Person rdf:nodeID="n207">
         <foaf:givenname>ContributorF I</foaf:givenname>
         <foaf:surname>ContributorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n951">
+    <foaf:Person rdf:nodeID="n209">
         <foaf:givenname>EditorF I</foaf:givenname>
         <foaf:surname>EditorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n953">
+    <foaf:Person rdf:nodeID="n211">
         <foaf:givenname>ReviewedF I</foaf:givenname>
         <foaf:surname>Reviewed AuthorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n955">
+    <foaf:Person rdf:nodeID="n213">
+        <foaf:givenname>TranslatorF I</foaf:givenname>
+        <foaf:surname>TranslatorL</foaf:surname>
+    </foaf:Person>
+    <z:UserItem rdf:about="http://zotero.org/groups/183462/items/48I5Z6N3">
+        <res:resource>
+            <bibo:AcademicArticle>
+                <dcterms:title>Title (tags and related test)</dcterms:title>
+                <dcterms:abstract>Abstract</dcterms:abstract>
+                <bibo:pages>Pages</bibo:pages>
+                <dcterms:language>Language</dcterms:language>
+                <bibo:doi>DOI</bibo:doi>
+                <bibo:shortTitle>Short Title</bibo:shortTitle>
+                <bibo:uri>URL</bibo:uri>
+                <z:repository>Archive</z:repository>
+                <dcterms:source>Loc. in Archive</dcterms:source>
+                <z:extra>Extra</z:extra>
+                <dcterms:creator rdf:nodeID="n221"/>
+                <bibo:authorList>
+                   <rdf:Seq><rdf:li rdf:nodeID="n221"/></rdf:Seq>
+                </bibo:authorList>
+                <dcterms:contributor rdf:nodeID="n223"/>
+                <bibo:contributorList>
+                    <rdf:Seq>
+                       <rdf:li rdf:nodeID="n223"/><rdf:li rdf:nodeID="n227"/>
+                    </rdf:Seq>
+                </bibo:contributorList>
+                <bibo:reviewOf>
+                    <rdf:Description>
+                       <dcterms:creator rdf:nodeID="n227"/>
+                    </rdf:Description>
+                </bibo:reviewOf>
+                <dcterms:isPartOf>
+                    <bibo:Series>
+                        <dcterms:title>Series Title</dcterms:title>
+                        <dcterms:description>Series Text</dcterms:description>
+                    </bibo:Series>
+                </dcterms:isPartOf>
+                <dcterms:isPartOf>
+                    <bibo:Issue>
+                        <bibo:volume>Volume</bibo:volume>
+                        <bibo:issue>Issue</bibo:issue>
+                        <dcterms:date>Date</dcterms:date>
+                        <bibo:lccn>Call Number</bibo:lccn>
+                        <bibo:editor rdf:nodeID="n225"/>
+                        <bibo:editorList>
+                           <rdf:Seq><rdf:li rdf:nodeID="n225"/></rdf:Seq>
+                        </bibo:editorList>
+                        <bibo:translator rdf:nodeID="n229"/>
+                        <bibo:contributorList>
+                           <rdf:Seq><rdf:li rdf:nodeID="n229"/></rdf:Seq>
+                        </bibo:contributorList>
+                        <dcterms:isPartOf>
+                            <bibo:Journal>
+                                <dcterms:title>Publication</dcterms:title>
+                                <bibo:shortTitle>Journal Abbr</bibo:shortTitle>
+                                <bibo:issn>ISSN</bibo:issn>
+                                <dcterms:isPartOf>
+                                    <bibo:Series>
+                                       <dcterms:title>Series</dcterms:title>
+                                    </bibo:Series>
+                                </dcterms:isPartOf>
+                            </bibo:Journal>
+                        </dcterms:isPartOf>
+                    </bibo:Issue>
+                </dcterms:isPartOf>
+            </bibo:AcademicArticle>
+        </res:resource>
+        <z:accessDate>2003-01-02</z:accessDate>
+        <z:repository>Library Catalog</z:repository>
+        <dcterms:rights>Rights</dcterms:rights>
+        <ctag:tagged>
+           <ctag:UserTag><ctag:label>tag1</ctag:label></ctag:UserTag>
+        </ctag:tagged>
+        <ctag:tagged>
+           <ctag:UserTag><ctag:label>tag2</ctag:label></ctag:UserTag>
+        </ctag:tagged>
+        <ctag:tagged>
+           <ctag:UserTag><ctag:label>tag3</ctag:label></ctag:UserTag>
+        </ctag:tagged>
+    </z:UserItem>
+    <foaf:Person rdf:nodeID="n221">
+        <foaf:givenname>AuthorsF I</foaf:givenname>
+        <foaf:surname>AuthorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n223">
+        <foaf:givenname>ContributorF I</foaf:givenname>
+        <foaf:surname>ContributorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n225">
+        <foaf:givenname>EditorF I</foaf:givenname>
+        <foaf:surname>EditorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n227">
+        <foaf:givenname>ReviewedF I</foaf:givenname>
+        <foaf:surname>Reviewed AuthorL</foaf:surname>
+    </foaf:Person>
+    <foaf:Person rdf:nodeID="n229">
         <foaf:givenname>TranslatorF I</foaf:givenname>
         <foaf:surname>TranslatorL</foaf:surname>
     </foaf:Person>
@@ -1262,32 +1360,32 @@
                 <dcterms:source>Loc. in Archive</dcterms:source>
                 <bibo:lccn>Call Number</bibo:lccn>
                 <z:extra>Extra</z:extra>
-                <dcterms:creator rdf:nodeID="n959"/>
+                <dcterms:creator rdf:nodeID="n236"/>
                 <bibo:authorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n959"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n236"/></rdf:Seq>
                 </bibo:authorList>
-                <dcterms:contributor rdf:nodeID="n961"/>
+                <dcterms:contributor rdf:nodeID="n238"/>
                 <bibo:contributorList>
                     <rdf:Seq>
-                       <rdf:li rdf:nodeID="n961"/><rdf:li rdf:nodeID="n963"/>
+                       <rdf:li rdf:nodeID="n238"/><rdf:li rdf:nodeID="n240"/>
                     </rdf:Seq>
                 </bibo:contributorList>
-                <bibo:recipient rdf:nodeID="n963"/>
+                <bibo:recipient rdf:nodeID="n240"/>
             </bibo:Letter>
         </res:resource>
         <z:accessDate>2003-01-02</z:accessDate>
         <z:repository>Library Catalog</z:repository>
         <dcterms:rights>Rights</dcterms:rights>
     </z:UserItem>
-    <foaf:Person rdf:nodeID="n959">
+    <foaf:Person rdf:nodeID="n236">
         <foaf:givenname>AuthorsF I</foaf:givenname>
         <foaf:surname>AuthorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n961">
+    <foaf:Person rdf:nodeID="n238">
         <foaf:givenname>ContributorF I</foaf:givenname>
         <foaf:surname>ContributorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n963">
+    <foaf:Person rdf:nodeID="n240">
         <foaf:givenname>RecipientF I</foaf:givenname>
         <foaf:surname>RecipientL</foaf:surname>
     </foaf:Person>
@@ -1303,19 +1401,19 @@
                 <z:repository>Archive</z:repository>
                 <dcterms:source>Loc. in Archive</dcterms:source>
                 <z:extra>Extra</z:extra>
-                <dcterms:creator rdf:nodeID="n970"/>
+                <dcterms:creator rdf:nodeID="n247"/>
                 <bibo:authorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n970"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n247"/></rdf:Seq>
                 </bibo:authorList>
-                <dcterms:contributor rdf:nodeID="n972"/>
+                <dcterms:contributor rdf:nodeID="n249"/>
                 <bibo:contributorList>
                     <rdf:Seq>
-                       <rdf:li rdf:nodeID="n972"/><rdf:li rdf:nodeID="n974"/>
+                       <rdf:li rdf:nodeID="n249"/><rdf:li rdf:nodeID="n251"/>
                     </rdf:Seq>
                 </bibo:contributorList>
                 <bibo:reviewOf>
                     <rdf:Description>
-                       <dcterms:creator rdf:nodeID="n974"/>
+                       <dcterms:creator rdf:nodeID="n251"/>
                     </rdf:Description>
                 </bibo:reviewOf>
                 <dcterms:isPartOf>
@@ -1324,9 +1422,9 @@
                         <bibo:issue>Issue</bibo:issue>
                         <dcterms:date>Date</dcterms:date>
                         <bibo:lccn>Call Number</bibo:lccn>
-                        <bibo:translator rdf:nodeID="n976"/>
+                        <bibo:translator rdf:nodeID="n253"/>
                         <bibo:contributorList>
-                           <rdf:Seq><rdf:li rdf:nodeID="n976"/></rdf:Seq>
+                           <rdf:Seq><rdf:li rdf:nodeID="n253"/></rdf:Seq>
                         </bibo:contributorList>
                         <dcterms:isPartOf>
                             <bibo:Magazine>
@@ -1342,19 +1440,19 @@
         <z:repository>Library Catalog</z:repository>
         <dcterms:rights>Rights</dcterms:rights>
     </z:UserItem>
-    <foaf:Person rdf:nodeID="n970">
+    <foaf:Person rdf:nodeID="n247">
         <foaf:givenname>AuthorsF I</foaf:givenname>
         <foaf:surname>AuthorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n972">
+    <foaf:Person rdf:nodeID="n249">
         <foaf:givenname>ContributorF I</foaf:givenname>
         <foaf:surname>ContributorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n974">
+    <foaf:Person rdf:nodeID="n251">
         <foaf:givenname>Reviewed AuthorF I</foaf:givenname>
         <foaf:surname>Reviewed AuthorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n976">
+    <foaf:Person rdf:nodeID="n253">
         <foaf:givenname>TranslatorF I</foaf:givenname>
         <foaf:surname>TranslatorL</foaf:surname>
     </foaf:Person>
@@ -1378,32 +1476,32 @@
                 <dcterms:source>Loc. in Archive</dcterms:source>
                 <bibo:lccn>Call Number</bibo:lccn>
                 <z:extra>Extra</z:extra>
-                <dcterms:creator rdf:nodeID="n981"/>
+                <dcterms:creator rdf:nodeID="n258"/>
                 <bibo:authorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n981"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n258"/></rdf:Seq>
                 </bibo:authorList>
-                <dcterms:contributor rdf:nodeID="n983"/>
+                <dcterms:contributor rdf:nodeID="n260"/>
                 <bibo:contributorList>
                     <rdf:Seq>
-                       <rdf:li rdf:nodeID="n983"/><rdf:li rdf:nodeID="n985"/>
+                       <rdf:li rdf:nodeID="n260"/><rdf:li rdf:nodeID="n262"/>
                     </rdf:Seq>
                 </bibo:contributorList>
-                <bibo:translator rdf:nodeID="n985"/>
+                <bibo:translator rdf:nodeID="n262"/>
             </bibo:Manuscript>
         </res:resource>
         <z:accessDate>2003-01-02</z:accessDate>
         <z:repository>Library Catalog</z:repository>
         <dcterms:rights>Rights</dcterms:rights>
     </z:UserItem>
-    <foaf:Person rdf:nodeID="n981">
+    <foaf:Person rdf:nodeID="n258">
         <foaf:givenname>AuthorsF I</foaf:givenname>
         <foaf:surname>AuthorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n983">
+    <foaf:Person rdf:nodeID="n260">
         <foaf:givenname>ContributorF I</foaf:givenname>
         <foaf:surname>ContributorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n985">
+    <foaf:Person rdf:nodeID="n262">
         <foaf:givenname>TranslatorF I</foaf:givenname>
         <foaf:surname>TranslatorL</foaf:surname>
     </foaf:Person>
@@ -1430,20 +1528,20 @@
                 <dcterms:source>Loc. in Archive</dcterms:source>
                 <bibo:lccn>Call Number</bibo:lccn>
                 <z:extra>Extra</z:extra>
-                <dcterms:creator rdf:nodeID="n989"/>
+                <dcterms:creator rdf:nodeID="n266"/>
                 <bibo:authorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n989"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n266"/></rdf:Seq>
                 </bibo:authorList>
-                <dcterms:contributor rdf:nodeID="n991"/>
+                <dcterms:contributor rdf:nodeID="n268"/>
                 <bibo:contributorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n991"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n268"/></rdf:Seq>
                 </bibo:contributorList>
                 <dcterms:isPartOf>
                     <bibo:Series>
                         <dcterms:title>Series Title</dcterms:title>
-                        <bibo:editor rdf:nodeID="n993"/>
+                        <bibo:editor rdf:nodeID="n270"/>
                         <bibo:editorList>
-                           <rdf:Seq><rdf:li rdf:nodeID="n993"/></rdf:Seq>
+                           <rdf:Seq><rdf:li rdf:nodeID="n270"/></rdf:Seq>
                         </bibo:editorList>
                     </bibo:Series>
                 </dcterms:isPartOf>
@@ -1453,15 +1551,15 @@
         <z:repository>Library Catalog</z:repository>
         <dcterms:rights>Rights</dcterms:rights>
     </z:UserItem>
-    <foaf:Person rdf:nodeID="n989">
+    <foaf:Person rdf:nodeID="n266">
         <foaf:givenname>AuthorsF I</foaf:givenname>
         <foaf:surname>AuthorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n991">
+    <foaf:Person rdf:nodeID="n268">
         <foaf:givenname>ContributorF I</foaf:givenname>
         <foaf:surname>ContributorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n993">
+    <foaf:Person rdf:nodeID="n270">
         <foaf:givenname>SeriesF I</foaf:givenname>
         <foaf:surname>Series EditorL</foaf:surname>
     </foaf:Person>
@@ -1478,19 +1576,19 @@
                 <z:repository>Archive</z:repository>
                 <dcterms:source>Loc. in Archive</dcterms:source>
                 <z:extra>Extra</z:extra>
-                <dcterms:creator rdf:nodeID="n1002"/>
+                <dcterms:creator rdf:nodeID="n279"/>
                 <bibo:authorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n1002"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n279"/></rdf:Seq>
                 </bibo:authorList>
-                <dcterms:contributor rdf:nodeID="n1004"/>
+                <dcterms:contributor rdf:nodeID="n281"/>
                 <bibo:contributorList>
                     <rdf:Seq>
-                       <rdf:li rdf:nodeID="n1004"/><rdf:li rdf:nodeID="n1008"/>
+                       <rdf:li rdf:nodeID="n281"/><rdf:li rdf:nodeID="n285"/>
                     </rdf:Seq>
                 </bibo:contributorList>
                 <bibo:reviewOf>
                     <rdf:Description>
-                       <dcterms:creator rdf:nodeID="n1008"/>
+                       <dcterms:creator rdf:nodeID="n285"/>
                     </rdf:Description>
                 </bibo:reviewOf>
                 <dcterms:isPartOf>
@@ -1498,9 +1596,9 @@
                         <bibo:edition>Edition</bibo:edition>
                         <dcterms:date>Date</dcterms:date>
                         <bibo:lccn>Call Number</bibo:lccn>
-                        <bibo:translator rdf:nodeID="n1006"/>
+                        <bibo:translator rdf:nodeID="n283"/>
                         <bibo:contributorList>
-                           <rdf:Seq><rdf:li rdf:nodeID="n1006"/></rdf:Seq>
+                           <rdf:Seq><rdf:li rdf:nodeID="n283"/></rdf:Seq>
                         </bibo:contributorList>
                         <dcterms:isPartOf>
                             <bibo:Newspaper>
@@ -1521,19 +1619,19 @@
         <z:repository>Library Catalog</z:repository>
         <dcterms:rights>Rights</dcterms:rights>
     </z:UserItem>
-    <foaf:Person rdf:nodeID="n1002">
+    <foaf:Person rdf:nodeID="n279">
         <foaf:givenname>AuthorsF I</foaf:givenname>
         <foaf:surname>AuthorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n1004">
+    <foaf:Person rdf:nodeID="n281">
         <foaf:givenname>ContributorF I</foaf:givenname>
         <foaf:surname>ContributorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n1006">
+    <foaf:Person rdf:nodeID="n283">
         <foaf:givenname>TranslatorF I</foaf:givenname>
         <foaf:surname>TranslatorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n1008">
+    <foaf:Person rdf:nodeID="n285">
         <foaf:givenname>Reviewed AuthorF I</foaf:givenname>
         <foaf:surname>Reviewed AuthorL</foaf:surname>
     </foaf:Person>
@@ -1567,31 +1665,31 @@
                 <bibo:shortTitle>Short Title</bibo:shortTitle>
                 <bibo:uri>URL</bibo:uri>
                 <z:extra>Extra</z:extra>
-                <dcterms:creator rdf:nodeID="n1014"/>
+                <dcterms:creator rdf:nodeID="n291"/>
                 <bibo:authorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n1014"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n291"/></rdf:Seq>
                 </bibo:authorList>
-                <dcterms:contributor rdf:nodeID="n1016"/>
+                <dcterms:contributor rdf:nodeID="n293"/>
                 <bibo:contributorList>
                     <rdf:Seq>
-                       <rdf:li rdf:nodeID="n1016"/><rdf:li rdf:nodeID="n1018"/>
+                       <rdf:li rdf:nodeID="n293"/><rdf:li rdf:nodeID="n295"/>
                     </rdf:Seq>
                 </bibo:contributorList>
-                <z:attorneyAgent rdf:nodeID="n1018"/>
+                <z:attorneyAgent rdf:nodeID="n295"/>
             </bibo:Patent>
         </res:resource>
         <z:accessDate>2003-01-02</z:accessDate>
         <dcterms:rights>Rights</dcterms:rights>
     </z:UserItem>
-    <foaf:Person rdf:nodeID="n1014">
+    <foaf:Person rdf:nodeID="n291">
         <foaf:givenname>InventorF I</foaf:givenname>
         <foaf:surname>InventorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n1016">
+    <foaf:Person rdf:nodeID="n293">
         <foaf:givenname>ContributorF I</foaf:givenname>
         <foaf:surname>ContributorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n1018">
+    <foaf:Person rdf:nodeID="n295">
         <foaf:givenname>Attorney/AgentF I</foaf:givenname>
         <foaf:surname>Attorney/AgentL</foaf:surname>
     </foaf:Person>
@@ -1607,17 +1705,17 @@
                 <dcterms:language>Language</dcterms:language>
                 <bibo:shortTitle>Short Title</bibo:shortTitle>
                 <z:extra>Extra</z:extra>
-                <dcterms:creator rdf:nodeID="n1021"/>
+                <dcterms:creator rdf:nodeID="n298"/>
                 <bibo:authorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n1021"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n298"/></rdf:Seq>
                 </bibo:authorList>
-                <dcterms:contributor rdf:nodeID="n1023"/>
+                <dcterms:contributor rdf:nodeID="n300"/>
                 <bibo:contributorList>
                     <rdf:Seq>
-                       <rdf:li rdf:nodeID="n1023"/><rdf:li rdf:nodeID="n1025"/>
+                       <rdf:li rdf:nodeID="n300"/><rdf:li rdf:nodeID="n302"/>
                     </rdf:Seq>
                 </bibo:contributorList>
-                <po:participant rdf:nodeID="n1025"/>
+                <po:participant rdf:nodeID="n302"/>
                 <dcterms:isPartOf>
                     <bibo:Series>
                        <dcterms:title>Series Title</dcterms:title>
@@ -1629,15 +1727,15 @@
         <z:accessDate>2003-01-02</z:accessDate>
         <dcterms:rights>Rights</dcterms:rights>
     </z:UserItem>
-    <foaf:Person rdf:nodeID="n1021">
+    <foaf:Person rdf:nodeID="n298">
         <foaf:givenname>PodcasterF I</foaf:givenname>
         <foaf:surname>PodcasterL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n1023">
+    <foaf:Person rdf:nodeID="n300">
         <foaf:givenname>ContributorF I</foaf:givenname>
         <foaf:surname>ContributorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n1025">
+    <foaf:Person rdf:nodeID="n302">
         <foaf:givenname>GuestF I</foaf:givenname>
         <foaf:surname>GuestL</foaf:surname>
     </foaf:Person>
@@ -1662,24 +1760,24 @@
                 <dcterms:language>Language</dcterms:language>
                 <bibo:shortTitle>Short Title</bibo:shortTitle>
                 <z:extra>Extra</z:extra>
-                <dcterms:creator rdf:nodeID="n1030"/>
+                <dcterms:creator rdf:nodeID="n307"/>
                 <bibo:authorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n1030"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n307"/></rdf:Seq>
                 </bibo:authorList>
-                <dcterms:contributor rdf:nodeID="n1032"/>
+                <dcterms:contributor rdf:nodeID="n309"/>
                 <bibo:contributorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n1032"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n309"/></rdf:Seq>
                 </bibo:contributorList>
             </bibo:Slideshow>
         </res:resource>
         <z:accessDate>2003-01-02</z:accessDate>
         <dcterms:rights>Rights</dcterms:rights>
     </z:UserItem>
-    <foaf:Person rdf:nodeID="n1030">
+    <foaf:Person rdf:nodeID="n307">
         <foaf:givenname>PresenterF I</foaf:givenname>
         <foaf:surname>PresenterL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n1032">
+    <foaf:Person rdf:nodeID="n309">
         <foaf:givenname>ContributorF I</foaf:givenname>
         <foaf:surname>ContributorL</foaf:surname>
     </foaf:Person>
@@ -1697,24 +1795,24 @@
                 <z:repository>Archive</z:repository>
                 <dcterms:source>Loc. in Archive</dcterms:source>
                 <z:extra>Extra</z:extra>
-                <bibo:director rdf:nodeID="n1039"/>
+                <bibo:director rdf:nodeID="n316"/>
                 <bibo:authorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n1039"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n316"/></rdf:Seq>
                 </bibo:authorList>
-                <dcterms:contributor rdf:nodeID="n1041"/>
+                <dcterms:contributor rdf:nodeID="n318"/>
                 <bibo:contributorList>
                     <rdf:Seq>
-                        <rdf:li rdf:nodeID="n1041"/>
-                        <rdf:li rdf:nodeID="n1043"/>
-                        <rdf:li rdf:nodeID="n1044"/>
-                        <rdf:li rdf:nodeID="n1045"/>
-                        <rdf:li rdf:nodeID="n1046"/>
+                        <rdf:li rdf:nodeID="n318"/>
+                        <rdf:li rdf:nodeID="n320"/>
+                        <rdf:li rdf:nodeID="n321"/>
+                        <rdf:li rdf:nodeID="n322"/>
+                        <rdf:li rdf:nodeID="n323"/>
                     </rdf:Seq>
                 </bibo:contributorList>
-                <rel:ACT rdf:nodeID="n1043"/>
-                <po:participant rdf:nodeID="n1044"/>
-                <bibo:producer rdf:nodeID="n1045"/>
-                <rel:AUS rdf:nodeID="n1046"/>
+                <rel:ACT rdf:nodeID="n320"/>
+                <po:participant rdf:nodeID="n321"/>
+                <bibo:producer rdf:nodeID="n322"/>
+                <rel:AUS rdf:nodeID="n323"/>
                 <rdf:type rdf:resource="http://purl.org/ontology/po/Episode"/>
                 <po:broadcast_on rdf:resource="http://purl.org/ontology/po/Radio"/>
                 <dcterms:isPartOf>
@@ -1736,27 +1834,27 @@
         <z:repository>Library Catalog</z:repository>
         <dcterms:rights>Rights</dcterms:rights>
     </z:UserItem>
-    <foaf:Person rdf:nodeID="n1039">
+    <foaf:Person rdf:nodeID="n316">
         <foaf:givenname>DirectorF I</foaf:givenname>
         <foaf:surname>DirectorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n1041">
+    <foaf:Person rdf:nodeID="n318">
         <foaf:givenname>ContributorF I</foaf:givenname>
         <foaf:surname>ContributorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n1043">
+    <foaf:Person rdf:nodeID="n320">
         <foaf:givenname>Cast MemberF I</foaf:givenname>
         <foaf:surname>Cast MemberL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n1044">
+    <foaf:Person rdf:nodeID="n321">
         <foaf:givenname>GuestF I</foaf:givenname>
         <foaf:surname>GuestL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n1045">
+    <foaf:Person rdf:nodeID="n322">
         <foaf:givenname>ProducerF I</foaf:givenname>
         <foaf:surname>ProducerL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n1046">
+    <foaf:Person rdf:nodeID="n323">
         <foaf:givenname>ScriptwriterF I</foaf:givenname>
         <foaf:surname>ScriptwriterL</foaf:surname>
     </foaf:Person>
@@ -1782,23 +1880,23 @@
                 <dcterms:source>Loc. in Archive</dcterms:source>
                 <bibo:lccn>Call Number</bibo:lccn>
                 <z:extra>Extra</z:extra>
-                <dcterms:creator rdf:nodeID="n1050"/>
+                <dcterms:creator rdf:nodeID="n327"/>
                 <bibo:authorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n1050"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n327"/></rdf:Seq>
                 </bibo:authorList>
-                <dcterms:contributor rdf:nodeID="n1052"/>
+                <dcterms:contributor rdf:nodeID="n329"/>
                 <bibo:contributorList>
                     <rdf:Seq>
-                       <rdf:li rdf:nodeID="n1052"/><rdf:li rdf:nodeID="n1056"/>
+                       <rdf:li rdf:nodeID="n329"/><rdf:li rdf:nodeID="n333"/>
                     </rdf:Seq>
                 </bibo:contributorList>
-                <bibo:translator rdf:nodeID="n1056"/>
+                <bibo:translator rdf:nodeID="n333"/>
                 <dcterms:isPartOf>
                     <bibo:Series>
                         <dcterms:title>Series Title</dcterms:title>
-                        <bibo:editor rdf:nodeID="n1054"/>
+                        <bibo:editor rdf:nodeID="n331"/>
                         <bibo:editorList>
-                           <rdf:Seq><rdf:li rdf:nodeID="n1054"/></rdf:Seq>
+                           <rdf:Seq><rdf:li rdf:nodeID="n331"/></rdf:Seq>
                         </bibo:editorList>
                     </bibo:Series>
                 </dcterms:isPartOf>
@@ -1808,19 +1906,19 @@
         <z:repository>Library Catalog</z:repository>
         <dcterms:rights>Rights</dcterms:rights>
     </z:UserItem>
-    <foaf:Person rdf:nodeID="n1050">
+    <foaf:Person rdf:nodeID="n327">
         <foaf:givenname>AuthorsF I</foaf:givenname>
         <foaf:surname>AuthorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n1052">
+    <foaf:Person rdf:nodeID="n329">
         <foaf:givenname>ContributorF I</foaf:givenname>
         <foaf:surname>ContributorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n1054">
+    <foaf:Person rdf:nodeID="n331">
         <foaf:givenname>SeriesF I</foaf:givenname>
         <foaf:surname>Series EditorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n1056">
+    <foaf:Person rdf:nodeID="n333">
         <foaf:givenname>TranslatorF I</foaf:givenname>
         <foaf:surname>TranslatorL</foaf:surname>
     </foaf:Person>
@@ -1842,13 +1940,13 @@
                 <bibo:shortTitle>Short Title</bibo:shortTitle>
                 <bibo:uri>URL</bibo:uri>
                 <z:extra>Extra</z:extra>
-                <dcterms:creator rdf:nodeID="n1062"/>
+                <dcterms:creator rdf:nodeID="n339"/>
                 <bibo:authorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n1062"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n339"/></rdf:Seq>
                 </bibo:authorList>
-                <dcterms:contributor rdf:nodeID="n1064"/>
+                <dcterms:contributor rdf:nodeID="n341"/>
                 <bibo:contributorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n1064"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n341"/></rdf:Seq>
                 </bibo:contributorList>
                 <dcterms:isPartOf>
                     <bibo:Code>
@@ -1862,11 +1960,11 @@
         <z:accessDate>2003-01-02</z:accessDate>
         <dcterms:rights>Rights</dcterms:rights>
     </z:UserItem>
-    <foaf:Person rdf:nodeID="n1062">
+    <foaf:Person rdf:nodeID="n339">
         <foaf:givenname>AuthorsF I</foaf:givenname>
         <foaf:surname>AuthorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n1064">
+    <foaf:Person rdf:nodeID="n341">
         <foaf:givenname>ContributorF I</foaf:givenname>
         <foaf:surname>ContributorL</foaf:surname>
     </foaf:Person>
@@ -1884,24 +1982,24 @@
                 <z:repository>Archive</z:repository>
                 <dcterms:source>Loc. in Archive</dcterms:source>
                 <z:extra>Extra</z:extra>
-                <bibo:director rdf:nodeID="n1071"/>
+                <bibo:director rdf:nodeID="n348"/>
                 <bibo:authorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n1071"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n348"/></rdf:Seq>
                 </bibo:authorList>
-                <dcterms:contributor rdf:nodeID="n1073"/>
+                <dcterms:contributor rdf:nodeID="n350"/>
                 <bibo:contributorList>
                     <rdf:Seq>
-                        <rdf:li rdf:nodeID="n1073"/>
-                        <rdf:li rdf:nodeID="n1075"/>
-                        <rdf:li rdf:nodeID="n1076"/>
-                        <rdf:li rdf:nodeID="n1077"/>
-                        <rdf:li rdf:nodeID="n1078"/>
+                        <rdf:li rdf:nodeID="n350"/>
+                        <rdf:li rdf:nodeID="n352"/>
+                        <rdf:li rdf:nodeID="n353"/>
+                        <rdf:li rdf:nodeID="n354"/>
+                        <rdf:li rdf:nodeID="n355"/>
                     </rdf:Seq>
                 </bibo:contributorList>
-                <rel:ACT rdf:nodeID="n1075"/>
-                <po:participant rdf:nodeID="n1076"/>
-                <bibo:producer rdf:nodeID="n1077"/>
-                <rel:AUS rdf:nodeID="n1078"/>
+                <rel:ACT rdf:nodeID="n352"/>
+                <po:participant rdf:nodeID="n353"/>
+                <bibo:producer rdf:nodeID="n354"/>
+                <rel:AUS rdf:nodeID="n355"/>
                 <rdf:type rdf:resource="http://purl.org/ontology/po/Episode"/>
                 <po:broadcast_on rdf:resource="http://purl.org/ontology/po/TV"/>
                 <dcterms:isPartOf>
@@ -1923,27 +2021,27 @@
         <z:repository>Library Catalog</z:repository>
         <dcterms:rights>Rights</dcterms:rights>
     </z:UserItem>
-    <foaf:Person rdf:nodeID="n1071">
+    <foaf:Person rdf:nodeID="n348">
         <foaf:givenname>DirectorF I</foaf:givenname>
         <foaf:surname>DirectorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n1073">
+    <foaf:Person rdf:nodeID="n350">
         <foaf:givenname>ContributorF I</foaf:givenname>
         <foaf:surname>ContributorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n1075">
+    <foaf:Person rdf:nodeID="n352">
         <foaf:givenname>Cast MemberF I</foaf:givenname>
         <foaf:surname>Cast MemberL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n1076">
+    <foaf:Person rdf:nodeID="n353">
         <foaf:givenname>GuestF I</foaf:givenname>
         <foaf:surname>GuestL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n1077">
+    <foaf:Person rdf:nodeID="n354">
         <foaf:givenname>ProducerF I</foaf:givenname>
         <foaf:surname>ProducerL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n1078">
+    <foaf:Person rdf:nodeID="n355">
         <foaf:givenname>ScriptwriterF I</foaf:givenname>
         <foaf:surname>ScriptwriterL</foaf:surname>
     </foaf:Person>
@@ -1968,13 +2066,13 @@
                 <dcterms:source>Loc. in Archive</dcterms:source>
                 <bibo:lccn>Call Number</bibo:lccn>
                 <z:extra>Extra</z:extra>
-                <dcterms:creator rdf:nodeID="n1082"/>
+                <dcterms:creator rdf:nodeID="n359"/>
                 <bibo:authorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n1082"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n359"/></rdf:Seq>
                 </bibo:authorList>
-                <dcterms:contributor rdf:nodeID="n1084"/>
+                <dcterms:contributor rdf:nodeID="n361"/>
                 <bibo:contributorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n1084"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n361"/></rdf:Seq>
                 </bibo:contributorList>
             </bibo:Thesis>
         </res:resource>
@@ -1982,11 +2080,11 @@
         <z:repository>Library Catalog</z:repository>
         <dcterms:rights>Rights</dcterms:rights>
     </z:UserItem>
-    <foaf:Person rdf:nodeID="n1082">
+    <foaf:Person rdf:nodeID="n359">
         <foaf:givenname>AuthorsF I</foaf:givenname>
         <foaf:surname>AuthorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n1084">
+    <foaf:Person rdf:nodeID="n361">
         <foaf:givenname>ContributorF I</foaf:givenname>
         <foaf:surname>ContributorL</foaf:surname>
     </foaf:Person>
@@ -2013,22 +2111,22 @@
                 <dcterms:source>Loc. in Archive</dcterms:source>
                 <bibo:lccn>Call Number</bibo:lccn>
                 <z:extra>Extra</z:extra>
-                <bibo:director rdf:nodeID="n1089"/>
+                <bibo:director rdf:nodeID="n366"/>
                 <bibo:authorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n1089"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n366"/></rdf:Seq>
                 </bibo:authorList>
-                <dcterms:contributor rdf:nodeID="n1091"/>
+                <dcterms:contributor rdf:nodeID="n368"/>
                 <bibo:contributorList>
                     <rdf:Seq>
-                        <rdf:li rdf:nodeID="n1091"/>
-                        <rdf:li rdf:nodeID="n1093"/>
-                        <rdf:li rdf:nodeID="n1094"/>
-                        <rdf:li rdf:nodeID="n1095"/>
+                        <rdf:li rdf:nodeID="n368"/>
+                        <rdf:li rdf:nodeID="n370"/>
+                        <rdf:li rdf:nodeID="n371"/>
+                        <rdf:li rdf:nodeID="n372"/>
                     </rdf:Seq>
                 </bibo:contributorList>
-                <rel:ACT rdf:nodeID="n1093"/>
-                <bibo:producer rdf:nodeID="n1094"/>
-                <rel:AUS rdf:nodeID="n1095"/>
+                <rel:ACT rdf:nodeID="n370"/>
+                <bibo:producer rdf:nodeID="n371"/>
+                <rel:AUS rdf:nodeID="n372"/>
                 <dcterms:isPartOf>
                     <bibo:Series>
                         <dcterms:title>Series Title</dcterms:title>
@@ -2041,23 +2139,23 @@
         <z:repository>Library Catalog</z:repository>
         <dcterms:rights>Rights</dcterms:rights>
     </z:UserItem>
-    <foaf:Person rdf:nodeID="n1089">
+    <foaf:Person rdf:nodeID="n366">
         <foaf:givenname>DirectorF I</foaf:givenname>
         <foaf:surname>DirectorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n1091">
+    <foaf:Person rdf:nodeID="n368">
         <foaf:givenname>ContributorF I</foaf:givenname>
         <foaf:surname>ContributorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n1093">
+    <foaf:Person rdf:nodeID="n370">
         <foaf:givenname>Cast MemberF I</foaf:givenname>
         <foaf:surname>Cast MemberL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n1094">
+    <foaf:Person rdf:nodeID="n371">
         <foaf:givenname>ProducerF I</foaf:givenname>
         <foaf:surname>ProducerL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n1095">
+    <foaf:Person rdf:nodeID="n372">
         <foaf:givenname>ScriptwriterF I</foaf:givenname>
         <foaf:surname>ScriptwriterL</foaf:surname>
     </foaf:Person>
@@ -2071,21 +2169,21 @@
                 <bibo:uri>URL</bibo:uri>
                 <dcterms:language>Language</dcterms:language>
                 <z:extra>Extra</z:extra>
-                <dcterms:creator rdf:nodeID="n1100"/>
+                <dcterms:creator rdf:nodeID="n377"/>
                 <bibo:authorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n1100"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n377"/></rdf:Seq>
                 </bibo:authorList>
-                <dcterms:contributor rdf:nodeID="n1102"/>
+                <dcterms:contributor rdf:nodeID="n379"/>
                 <bibo:contributorList>
-                   <rdf:Seq><rdf:li rdf:nodeID="n1102"/></rdf:Seq>
+                   <rdf:Seq><rdf:li rdf:nodeID="n379"/></rdf:Seq>
                 </bibo:contributorList>
                 <dcterms:isPartOf>
                     <bibo:Website>
                         <dcterms:title>Website Title</dcterms:title>
                         <dcterms:date>Date</dcterms:date>
-                        <bibo:translator rdf:nodeID="n1104"/>
+                        <bibo:translator rdf:nodeID="n381"/>
                         <bibo:contributorList>
-                           <rdf:Seq><rdf:li rdf:nodeID="n1104"/></rdf:Seq>
+                           <rdf:Seq><rdf:li rdf:nodeID="n381"/></rdf:Seq>
                         </bibo:contributorList>
                     </bibo:Website>
                 </dcterms:isPartOf>
@@ -2094,15 +2192,15 @@
         <z:accessDate>2003-01-02</z:accessDate>
         <dcterms:rights>Rights</dcterms:rights>
     </z:UserItem>
-    <foaf:Person rdf:nodeID="n1100">
+    <foaf:Person rdf:nodeID="n377">
         <foaf:givenname>AuthorsF I</foaf:givenname>
         <foaf:surname>AuthorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n1102">
+    <foaf:Person rdf:nodeID="n379">
         <foaf:givenname>ContributorF I</foaf:givenname>
         <foaf:surname>ContributorL</foaf:surname>
     </foaf:Person>
-    <foaf:Person rdf:nodeID="n1104">
+    <foaf:Person rdf:nodeID="n381">
         <foaf:givenname>TranslatorF I</foaf:givenname>
         <foaf:surname>TranslatorL</foaf:surname>
     </foaf:Person>

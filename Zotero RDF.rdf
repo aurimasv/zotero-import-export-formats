@@ -1382,6 +1382,97 @@
         <link:type>text/plain</link:type>
         <link:charset>5</link:charset>
     </z:Attachment>
+    <bib:Article rdf:about="#item_1974">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                        <dc:title>Series</dc:title>
+                        <dcterms:alternative>Series Title</dcterms:alternative>
+                        <dc:description>Series Text</dc:description>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <dc:title>Publication</dc:title>
+                <prism:volume>Volume</prism:volume>
+                <prism:number>Issue</prism:number>
+                <dcterms:alternative>Journal Abbr</dcterms:alternative>
+                <dc:identifier>DOI DOI</dc:identifier>
+                <dc:identifier>ISSN ISSN</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>AuthorL</foaf:surname>
+                        <foaf:givenname>AuthorsF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ContributorL</foaf:surname>
+                        <foaf:givenname>ContributorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>EditorL</foaf:surname>
+                        <foaf:givenname>EditorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <z:reviewedAuthors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Reviewed AuthorL</foaf:surname>
+                        <foaf:givenname>ReviewedF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:reviewedAuthors>
+        <z:translators>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>TranslatorL</foaf:surname>
+                        <foaf:givenname>TranslatorF I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:translators>
+        <dc:subject>tag1</dc:subject>
+        <dc:subject>tag2</dc:subject>
+        <dc:subject>tag3</dc:subject>
+        <dc:title>Title (tags and related test)</dc:title>
+        <dcterms:abstract>Abstract</dcterms:abstract>
+        <bib:pages>Pages</bib:pages>
+        <dc:date>Date</dc:date>
+        <z:language>Language</z:language>
+        <z:shortTitle>Short Title</z:shortTitle>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>URL</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2003-01-02</dcterms:dateSubmitted>
+        <z:archive>Archive</z:archive>
+        <dc:coverage>Loc. in Archive</dc:coverage>
+        <z:libraryCatalog>Library Catalog</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>Call Number</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:rights>Rights</dc:rights>
+        <dc:description>Extra</dc:description>
+    </bib:Article>
     <bib:Letter rdf:about="#item_2008">
         <z:itemType>letter</z:itemType>
         <bib:authors>
